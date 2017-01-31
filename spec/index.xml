@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spec-rsses on transdok HKPV Dokumentation</title>
+    <link>https://transdok.github.io/spec/index.xml</link>
+    <description>Recent content in Spec-rsses on transdok HKPV Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
+    <lastBuildDate>Mon, 16 Jan 2017 10:00:00 +0200</lastBuildDate>
+    <atom:link href="https://transdok.github.io/spec/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Leistungsbeschreibung</title>
+      <link>https://transdok.github.io/spec/</link>
+      <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/spec/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;transdok für die mobile Pflege&lt;/em&gt; umfasst aktuell folgende Module und Funktionen:&lt;/p&gt;
+
+&lt;h2 id=&#34;modul-pflegeverwaltung&#34;&gt;Modul Pflegeverwaltung&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Patienten mit Stammdaten erfassen&lt;/li&gt;
+&lt;li&gt;Patienten archivieren&lt;/li&gt;
+&lt;li&gt;Erweiterte Stammdaten für die Connexia-Meldung erfassen&lt;/li&gt;
+&lt;li&gt;Daten für die Meldung der erweiterten Stammdaten und der Leistungserfassung aus der Pflege auf ihre Konsistenz prüfen und Connexia in geeigneter Form zur Verfügung stellen&lt;/li&gt;
+&lt;li&gt;Zeiträume in denen der Patient abwesend ist, werden erfasst&lt;/li&gt;
+&lt;li&gt;Leistungspunkte 32 bis 34 erfassen&lt;/li&gt;
+&lt;li&gt;GKK-Bestellungen können für Patienten erfasst und für den Versand exportiert werden
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;modul-pflege&#34;&gt;Modul Pflege&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Anmeldung mit Hardware-Token&lt;/li&gt;
+&lt;li&gt;Zusätzliche pflegerelevante Stammdaten erfassen (Gegebenheiten vor Ort, zu beachten, etc.)&lt;/li&gt;
+&lt;li&gt;Für einen Patienten eine Pflegeplanung erstellen
+
+&lt;ul&gt;
+&lt;li&gt;Als Vorlage für die Planung von Pflegediagnose dienen die Inhalte der POP&lt;/li&gt;
+&lt;li&gt;Die Maßnahmenplanung erfolgt mit Standardstichworten aus einem umfassenden Katalog&lt;/li&gt;
+&lt;li&gt;Für regelmäßige Tätigkeiten wird ein Intervall (täglich, wöchentlich, etc.) definiert&lt;/li&gt;
+&lt;li&gt;Einmalige Tätigkeiten werden auf Termin geplant&lt;/li&gt;
+&lt;li&gt;Unregelmäßige Tätigkeiten werden &amp;lsquo;bei Bedarf&amp;rsquo; geplant&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Änderungen von Daten können nachvollzogen werden&lt;/li&gt;
+&lt;li&gt;Die geplanten Maßnahmen werden als Aufträge in einer übersicht dargestellt.&lt;/li&gt;
+&lt;li&gt;Für die Aufträge können Durchführungsnachweise erstellt werden. Dabei ist es möglich, Aufträge zu verschieben, aus bestimmten Gründen als &amp;lsquo;nicht durgeführt&amp;rsquo; zu kennzeichnen und Bemerkungen zu erfassen.&lt;/li&gt;
+&lt;li&gt;Es können zusätzliche Durchführungsnachweise für einen Patient dokumentiert werden.&lt;/li&gt;
+&lt;li&gt;Im Rahmen der Dokumentation von Durchführungsnachweisen werden die Dauer des Einsatzes und die zu verrechnenden Leistungspunkte erfasst. über die Anzahl und Art der Leistungspunkte in Bezug auf die dokumentierte Zeit entscheidet der Benutzer.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

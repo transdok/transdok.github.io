@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transdok HKPV Dokumentation</title>
+    <link>https://transdok.github.io/index.xml</link>
+    <description>Recent content on transdok HKPV Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
+    <lastBuildDate>Mon, 16 Jan 2017 10:00:00 +0200</lastBuildDate>
+    <atom:link href="https://transdok.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Durchführung</title>
+      <link>https://transdok.github.io/durchfuehrung/</link>
+      <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/durchfuehrung/</guid>
+      <description>
+
+&lt;h2 id=&#34;durchführungsnachweis&#34;&gt;Durchführungsnachweis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Pflege&lt;/code&gt; Menüpunkt &lt;code&gt;Aufträge&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Person in der Klientenliste wählen.&lt;/li&gt;
+&lt;li&gt;Datum des betreffenden Tages klicken.&lt;/li&gt;
+&lt;li&gt;Im Dialogfenster werden die geplanten und noch nicht dokumentierten Aufträge angezeigt.&lt;/li&gt;
+&lt;li&gt;Mit den Schaltflächen bei jeder Maßnahme wird dokumentiert, verschoben oder begründet, warum die Tätigkeit nicht durchgeführt werden konnte.&lt;/li&gt;
+&lt;li&gt;Zusätzlich durchgeführte Maßnahmen werden durch Tippen in das Suchfeld &lt;em&gt;zusätzliche Maßnahme dokumentierten&lt;/em&gt; oder durch Verwendung der Schaltflächen &lt;code&gt;Katalog&lt;/code&gt; oder &lt;code&gt;Planung&lt;/code&gt; der Liste hinzugefügt.&lt;/li&gt;
+&lt;li&gt;Bei jeder dokumentierten Maßnahme besteht die Möglichkeit zur Erfassung einer Notiz.&lt;/li&gt;
+&lt;li&gt;Speichern durch Klicken von &lt;code&gt;Ok&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Änderungen&lt;/p&gt;
+&lt;p&gt;Alle Durchführungsnachweise können durch erneutes Klicken auf das Datum nachträglich geändert werden. Allerdings nur von jener Person, die diese dokumentiert hat.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;leistungserfassung&#34;&gt;Leistungserfassung&lt;/h2&gt;
+
+&lt;p&gt;Es gibt vordefinierte Maßnahnen, die das Erfassen der Leistungen erlauben. Bevor eine solche dokumentiert wird, sollten alle anderen Maßnahmen erfasst worden sein (Durchführungsnachweise) - auch die Zusätzlichen. Auf Grundlage der dokumentierten Maßnahmen wird nämlich ein Vorschlag für die Leistungspunkte erstellt, wobei jeder Leistungspunkt maximal mit der Anzahl 1 vorkommt. Der Vorschlag kann bei jeder Dokumentation angepasst werden.&lt;/p&gt;
+
+&lt;h3 id=&#34;vordefinierte-maßnahmen-zur-leistungserfassung&#34;&gt;Vordefinierte Maßnahmen zur Leistungserfassung&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Hausbesuch&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Hausbesuch mit bes. Wegzeit&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Hausbesuch mit geringer Wegzeit&lt;/em&gt;&lt;/strong&gt;. Letztere schlägt den Leistungspunkt &amp;lsquo;01&amp;rsquo; vor und wird bei mehreren Personen im selben Haus oder bei ambulanter Betreuung verwendet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Leistungspunkte&lt;/em&gt;&lt;/strong&gt; heißt eine weitere Maßnahme, mit der Leistungen erfasst werden können. Z.B. bei einer telefonischen Beratung einer betreuten Person. Diese Maßnahme erstellt keine automatischen Vorschläge, weshalb darauf zu achten ist, dass jedenfalls die Leistungspunkte &amp;lsquo;01&amp;rsquo; und &amp;lsquo;15&amp;rsquo; gewählt werden.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Beratung persönlich (31)&lt;/em&gt;&lt;/strong&gt; und &lt;strong&gt;&lt;em&gt;Beratung telefonischen (33)&lt;/em&gt;&lt;/strong&gt; dürfen nur beim &amp;lsquo;Berartungsklient&amp;rsquo; verwendet werden! Umgekehrt dürfen beim &amp;lsquo;Beratungsklient&amp;rsquo; alle anderen Leistungen nicht verwendet werden.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;leistungspunkte-vordefinieren&#34;&gt;Leistungspunkte vordefinieren&lt;/h3&gt;
+
+&lt;p&gt;Falls die Vorschläge trotz aktueller Pflegeplanung nicht passend sind, können diese beim Menüpunkt &lt;code&gt;Pflegeplan&lt;/code&gt; bei der Maßnahme &lt;em&gt;Hausbesuch&lt;/em&gt; im Feld &lt;code&gt;LP&lt;/code&gt; vordefiniert werden. Wird dort z.B. &lt;em&gt;1,5,5,15&lt;/em&gt; eingetragen, wird neben &amp;lsquo;01&amp;rsquo; und &amp;lsquo;15&amp;rsquo; auch zwei Mal der Leistungspunkt &amp;lsquo;05&amp;rsquo; vorgeschlagen. Zu beachten ist, dass bei der vordefinierten Variante die zusätzlich dokumentierten Maßnahmen bei den Leistungspunkten manuell ergänzt werden müssen. Daher sollte das Anpassen der Pflegeplanung für passendere Leistungspunkte-Vorschläge bevorzugt werden.&lt;/p&gt;
+
+&lt;h2 id=&#34;pflegeberichte&#34;&gt;Pflegeberichte&lt;/h2&gt;
+
+&lt;p&gt;Wie beim Thema &lt;a href=&#34;#durchführungsnachweis&#34;&gt;Durchführungsnachweis&lt;/a&gt; erwähnt, kann zu jeder dokumentierten Maßnahme eine Notiz geschrieben werden. Passt eine Information jedoch zu keiner Maßnahme, betrifft sie einen längeren Zeitraum, ist sie eher lang oder soll sie besonders hervorgehoben werden, dann sollte ein Bericht geschrieben werden.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Pflege&lt;/code&gt; Menüpunkt &lt;code&gt;Aufträge&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Person in der Klientenliste wählen und &lt;code&gt;Bericht schreiben&lt;/code&gt; klicken.&lt;/li&gt;
+&lt;li&gt;Standard ist die Kategorie &lt;code&gt;Ereignis&lt;/code&gt;, womit Datum und Uhrzeit gewählt werden können. Wähen Sie die Kategorie &lt;code&gt;Information&lt;/code&gt;, um einen Zeitraum an zu geben, für den dieser Bericht gilt und für den er bei den entsprechenden Übersichten angezeigt werden soll.&lt;/li&gt;
+&lt;li&gt;Die Angabe vom &lt;code&gt;Stichwort&lt;/code&gt; ist verpflichtend. Es sollte den Inhalt des Berichts möglichst prägnant beschreiben.&lt;/li&gt;
+&lt;li&gt;Der Berichtstext kann formatiert werden&lt;/li&gt;
+&lt;li&gt;Mit &lt;code&gt;Ok&lt;/code&gt; wird der Bericht gespeichert&lt;/li&gt;
+&lt;li&gt;Danach kann durch Klicken auf das Stichwort ein einzelner Bericht gedruckt werden.&lt;/li&gt;
+&lt;li&gt;Beim Menüpunkt &lt;code&gt;Dossier&lt;/code&gt; können Berichte einer Person gefiltert und angezeigt werden.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://transdok.github.io/installation/</link>
+      <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/installation/</guid>
+      <description>
+
+&lt;p&gt;Installation &lt;a href=&#34;https://setup.transdok.at/transdok.Launcher.application&#34;&gt;hier starten&lt;/a&gt;
+(Internet Explorer) oder &lt;a href=&#34;https://setup.transdok.at/setup.exe&#34;&gt;Setup&lt;/a&gt; verwenden.&lt;/p&gt;
+
+&lt;h2 id=&#34;hardware-voraussetzungen&#34;&gt;Hardware-Voraussetzungen&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;mindestens Intel Core i3&lt;/li&gt;
+&lt;li&gt;mindestens 4 GB Arbeitsspeicher&lt;/li&gt;
+&lt;li&gt;Bildschirmauflösung mindestens 1440x900 oder 1280x1024, je größer der Bildschirm desto besser&lt;/li&gt;
+&lt;li&gt;Festnetz-Internetanbindung ohne Datenmengeneinschränkungen, je schneller das Internet desto besser&lt;/li&gt;
+&lt;li&gt;empfohlen SSD oder Hybrid-Festplatte&lt;/li&gt;
+&lt;li&gt;empfohlenes Beispiel für Neukauf: Markenkomplettsystem, i5 (aktuelles Modell), 8 GB RAM, 128 GB SSD Festplatte&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;software-voraussetzungen&#34;&gt;Software-Voraussetzungen&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Betriebssystem Windows 7, Windows 8.1 oder Windows 10&lt;/li&gt;
+&lt;li&gt;Alle vorhandenen Servicepacks müssen installiert sein&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;funktionsumfang&#34;&gt;Funktionsumfang&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Der Funktionsumfang wird durch laufende Updates erweitert&lt;/li&gt;
+&lt;li&gt;Der aktuelle Stand kann der &lt;a href=&#34;../spec/&#34;&gt;Leistungsbeschreibung&lt;/a&gt; entnommen werden&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leistungsbeschreibung</title>
+      <link>https://transdok.github.io/spec/</link>
+      <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/spec/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;transdok für die mobile Pflege&lt;/em&gt; umfasst aktuell folgende Module und Funktionen:&lt;/p&gt;
+
+&lt;h2 id=&#34;modul-pflegeverwaltung&#34;&gt;Modul Pflegeverwaltung&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Patienten mit Stammdaten erfassen&lt;/li&gt;
+&lt;li&gt;Patienten archivieren&lt;/li&gt;
+&lt;li&gt;Erweiterte Stammdaten für die Connexia-Meldung erfassen&lt;/li&gt;
+&lt;li&gt;Daten für die Meldung der erweiterten Stammdaten und der Leistungserfassung aus der Pflege auf ihre Konsistenz prüfen und Connexia in geeigneter Form zur Verfügung stellen&lt;/li&gt;
+&lt;li&gt;Zeiträume in denen der Patient abwesend ist, werden erfasst&lt;/li&gt;
+&lt;li&gt;Leistungspunkte 32 bis 34 erfassen&lt;/li&gt;
+&lt;li&gt;GKK-Bestellungen können für Patienten erfasst und für den Versand exportiert werden
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;modul-pflege&#34;&gt;Modul Pflege&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Anmeldung mit Hardware-Token&lt;/li&gt;
+&lt;li&gt;Zusätzliche pflegerelevante Stammdaten erfassen (Gegebenheiten vor Ort, zu beachten, etc.)&lt;/li&gt;
+&lt;li&gt;Für einen Patienten eine Pflegeplanung erstellen
+
+&lt;ul&gt;
+&lt;li&gt;Als Vorlage für die Planung von Pflegediagnose dienen die Inhalte der POP&lt;/li&gt;
+&lt;li&gt;Die Maßnahmenplanung erfolgt mit Standardstichworten aus einem umfassenden Katalog&lt;/li&gt;
+&lt;li&gt;Für regelmäßige Tätigkeiten wird ein Intervall (täglich, wöchentlich, etc.) definiert&lt;/li&gt;
+&lt;li&gt;Einmalige Tätigkeiten werden auf Termin geplant&lt;/li&gt;
+&lt;li&gt;Unregelmäßige Tätigkeiten werden &amp;lsquo;bei Bedarf&amp;rsquo; geplant&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Änderungen von Daten können nachvollzogen werden&lt;/li&gt;
+&lt;li&gt;Die geplanten Maßnahmen werden als Aufträge in einer übersicht dargestellt.&lt;/li&gt;
+&lt;li&gt;Für die Aufträge können Durchführungsnachweise erstellt werden. Dabei ist es möglich, Aufträge zu verschieben, aus bestimmten Gründen als &amp;lsquo;nicht durgeführt&amp;rsquo; zu kennzeichnen und Bemerkungen zu erfassen.&lt;/li&gt;
+&lt;li&gt;Es können zusätzliche Durchführungsnachweise für einen Patient dokumentiert werden.&lt;/li&gt;
+&lt;li&gt;Im Rahmen der Dokumentation von Durchführungsnachweisen werden die Dauer des Einsatzes und die zu verrechnenden Leistungspunkte erfasst. über die Anzahl und Art der Leistungspunkte in Bezug auf die dokumentierte Zeit entscheidet der Benutzer.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cockpit</title>
+      <link>https://transdok.github.io/</link>
+      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Support&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&#34;https://test.transdok.at/trandrian/trandrian.application&#34;&gt;Fernwartung starten&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Für das Vorgehen bei &lt;strong&gt;Betreuungsbeginn&lt;/strong&gt; &lt;a href=&#34;connexia/#klient-importieren&#34;&gt;hier weiterlesen &amp;hellip;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Für eine Anleitung über die &lt;strong&gt;monatliche Meldung&lt;/strong&gt; an Connexia &lt;a href=&#34;connexia/#monatliche-meldung&#34;&gt;hier weiterlesen &amp;hellip;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bei &lt;strong&gt;Login-Problemen&lt;/strong&gt; &lt;a href=&#34;mitarbeiter/#login-problemlösungen&#34;&gt;hier weiterlesen &amp;hellip;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bei &lt;strong&gt;neuen MitarbeiterInnen&lt;/strong&gt; &lt;a href=&#34;mitarbeiter/#neue-pflegeperson&#34;&gt;hier weiterlesen &amp;hellip;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Aktueller &lt;a href=&#34;spec/&#34;&gt;Funktionsumfang&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;infos&#34;&gt;Infos&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vorgehen bei Mitarbeiter-&lt;strong&gt;Namensänderungen&lt;/strong&gt;: Die Änderung wird zuerst durch die Identitätsstelle (Connexia) durchgeführt. Danach erfolgt beim nächsten Login eine Nachfrage, ob die Änderung korrekt ist, die mit &lt;code&gt;ja&lt;/code&gt; beantwortet werden kann.&lt;/li&gt;
+&lt;li&gt;Dokumentation durch &lt;strong&gt;SchülerInnen&lt;/strong&gt;: Sie haben keinen Token und dokumentieren derzeit noch im alten System (Connexia-Programm)&lt;/li&gt;
+&lt;li&gt;Empfohlene &lt;strong&gt;USB-Verlängerung&lt;/strong&gt;: &lt;a href=&#34;https://www.amazon.de/Verteiler-MacBook-Ultrabooks-Tablet-PC-Smartphone/dp/B00OQ0CYFE/ref=sr_1_1?ie=UTF8&amp;qid=1473350752&amp;sr=8-1&amp;keywords=ugreen+super+speed+4-port+usb&#34; target=&#34;_blank&#34;&gt;Ugreen Super Speed 4 Port USB 3.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connexia</title>
+      <link>https://transdok.github.io/connexia/</link>
+      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/connexia/</guid>
+      <description>
+
+&lt;h2 id=&#34;betreuungsbeginn&#34;&gt;Betreuungsbeginn&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bereits einmal bei Connexia gemeldete Personen, sollten bei erneutem Betreuungsbeginn mit derselben Adressnummer gemeldet werden. Um dies zu gewährleisten ist es &lt;strong&gt;wichtig, den &lt;a href=&#34;../klienten/#betreuungsbeginn&#34;&gt;hier&lt;/a&gt; beschriebenen Ablauf&lt;/strong&gt; einzuhalten. Danach ist der Klient in &lt;em&gt;transdok&lt;/em&gt; erfasst und es kann mit nachfolgend beschriebenen Schritten fortgefahren werden.&lt;/li&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Klienten&lt;/code&gt; wählen und bei &lt;em&gt;Connexia-Stammdaten&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken.&lt;/li&gt;
+&lt;li&gt;Die Daten im Formular eingeben, wobei unbedingt die &lt;em&gt;Mitgliedsnummer&lt;/em&gt; und &lt;em&gt;Vereinsnummer&lt;/em&gt; eingegeben sein muss, sofern Selbstbehalte verrechnet werden. Bei &lt;em&gt;Connexia Adressen-Nr&lt;/em&gt; nichts eingeben, weil dies beim Datenabgleich automatisch erfolgt.&lt;/li&gt;
+&lt;li&gt;Um die &lt;strong&gt;Meldungsdaten&lt;/strong&gt; zu erfassen, muss zuerst ein &lt;strong&gt;Datum&lt;/strong&gt; gewählt werden. Bei Betreuungsbeginn muss dieses Datum mit dem &lt;strong&gt;Tag der ersten Leistung&lt;/strong&gt; übereinstimmen.&lt;/li&gt;
+&lt;li&gt;Wird in der Liste ein &lt;code&gt;Feld&lt;/code&gt; gewählt, kann danach der &lt;code&gt;Wert&lt;/code&gt; gewählt werden. Zum Hinzufügen kann man die Schaltfläche &lt;code&gt;hinzufügen&lt;/code&gt; klicken oder auf dem &lt;code&gt;Wert&lt;/code&gt; doppelklicken. Erfasst sind jene Werte, die bei &lt;em&gt;vorhandene Daten&lt;/em&gt; stehen.&lt;/li&gt;
+&lt;li&gt;Erfasste Werte können durch Klicken von &lt;code&gt;X&lt;/code&gt; gelöscht werden. Auch möglich ist es, nachträglich in der Liste das Datum (rot unterstrichen im Bild unten) für alle Einträge zu diesem Datum zu ändern:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/connexiastammdatendatum.jpg&#34; alt=&#34;Connexia-Stammdaten Datum ändern&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;datenabgleich&#34;&gt;Datenabgleich&lt;/h2&gt;
+
+&lt;p&gt;Der Datenabgleich erfolgt im Programmbereich &lt;code&gt;Connexia&lt;/code&gt; beim Menüpunkt &lt;code&gt;Datenabgleich&lt;/code&gt; beim Register &lt;code&gt;exportieren&lt;/code&gt;. Er hält den Datenbestand zwischen &lt;em&gt;transdok&lt;/em&gt; und dem Connexia-Programm synchron. Folgende Aspekte sind zu beachten:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Die Daten sollten möglichst regelmäßig (zumindest alle paar Tage) abgeglichen werden.&lt;/li&gt;
+&lt;li&gt;Bei Personen, die in &lt;em&gt;transdok&lt;/em&gt; vorhanden sind, dürfen im Connexia-Programm keine Änderungen bei den Stammdaten oder Dok-Daten mehr erfolgen. Allerdings dürfen im Connexia-Programm weiterhin Leistungen oder GKK-Bestellungen erfasst werden.&lt;/li&gt;
+&lt;li&gt;In &lt;em&gt;transdok&lt;/em&gt; erfasste Leistungen dürfen nicht am selben Tag für denselben Klient auch im Connexia-Programm erfasst werden.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;vorgehen&#34;&gt;Vorgehen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Durch das Klicken auf die Schaltfläche &lt;code&gt;Daten abgleichen&lt;/code&gt; wird der Datenbestand zwischen &lt;em&gt;transdok&lt;/em&gt; und dem Connexia-Programm verglichen. Dabei passieren noch keine Änderungen.&lt;/li&gt;
+&lt;li&gt;Alle Differenzen werden im Detail angezeigt. Insbesondere bei den Stammdaten sollte der Inhalt beachtet werden. Z.B. sollten keine Namen überschrieben werden oder Adressen nur dann geändert werden, wenn die Person wirklich umgezogen ist, usw.&lt;/li&gt;
+&lt;li&gt;Beachten Sie die links angezeigten Fehler und Warnungen. &lt;em&gt;Nur wenn alle Fehler behoben sind, kann weiter abgeglichen werden&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Durch das Klicken von &lt;code&gt;ausführen&lt;/code&gt; bei den einzelnen Änderungspaketen oder &lt;code&gt;alles ausführen&lt;/code&gt; unten links, werden die Änderungen ausgeführt, indem die Daten in das Connexia-Programm geschrieben werden. Es kann jederzeit das Connexia-Programm geöffnet werden, um nach zu sehen, ob die Daten ergänzt bzw. aktualisiert wurden.&lt;/li&gt;
+&lt;li&gt;Das Klicken auf die Schaltfläche &lt;code&gt;Daten abgleichen&lt;/code&gt; (die im weiteren Ablauf auch &lt;code&gt;Klientenliste&lt;/code&gt;, &lt;code&gt;Stammdaten&lt;/code&gt; oder &lt;code&gt;Leistungendaten abgleichen&lt;/code&gt; heißt) und das Ausführen der Änderungen muss so lange &lt;strong&gt;wiederholt werden&lt;/strong&gt;, bis die Schaltfläche die Beschriftung &lt;code&gt;keine Daten mehr abzugleichen&lt;/code&gt; hat. Sollte dies nicht gelingen, kontaktieren Sie den Support.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;fehlerbehebungen&#34;&gt;Fehlerbehebungen&lt;/h3&gt;
+
+&lt;p&gt;Angezeigte Fehler werden durch Änderungen der Daten in &lt;em&gt;transdok&lt;/em&gt; behoben. Danach muss das zuvor beschriebene Vorgehen zum Datenabgleich wiederholt werden. Nachfolgend einige Hinweise zu bestimmten Fehlerbehebungen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Keine Leistung am Betreuungsbeginn&lt;/em&gt;: Das Datum der Meldungsdaten (Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Klienten&lt;/code&gt; wählen und bei &lt;em&gt;Connexia-Stammdaten&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken) muss mit dem Tag der ersten Leistung übereinstimmen. Entweder muss hier das Datum auf den Tag der ersten Leitung geändert werden (Datum anklicken und ändern) oder es muss für dieses Datum eine Leistung erfasst werden (z.B. 01 und 15).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Leistung liegt außerhalb des Betreuungszeitraums&lt;/em&gt;: Für diesen Fehler gilt dasselbe wie für den zuvor beschriebenen Fehler. Auch das Vorgehen zur Lösung ist dasselbe.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Leistung unvollständig&lt;/em&gt;: Leistungen können auch für andere MitarbeiterInnen korrigiert werden. Dazu beim Programmbereich &lt;code&gt;Connexia&lt;/code&gt; den Menüpunkt &lt;code&gt;Bearbeiten&lt;/code&gt; wählen, sowie MitarbeiterIn und Datum auswählen. Durch das Klicken der Änderungsschaltfläche, kann ein Eintrag korrigiert werden.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;ungültige Beratungsleistungen&lt;/em&gt;: Die Leistungen 31 bis 34 dürfen nur beim &amp;lsquo;Klient&amp;rsquo; mit der Bezeichnung &amp;lsquo;Beratung&amp;rsquo; verwendet werden. Bei Beratungen von erfassten Personen, muss z.B. 01 und 15 verwendet werden. Korrigiert werden die falschen Leistungen wie beim zuvor beschriebenen Fehler, indem die Anzahl auf 0 gesetzt wird und die entsprechende MitarbeiterIn die Dokumentation nachholt.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Die Einträge sind nicht kumuliert&lt;/em&gt;: Dieser Fehler bedeutet, dass für denselben Klient am selben Tag im Connexia-Programm und in &lt;em&gt;transdok&lt;/em&gt; dieselben Leistungen erfasst wurden. Er wird korrigiert, indem im Connexia-Programm die doppelten Einträge (&lt;strong&gt;immer beide&lt;/strong&gt;!) gelöscht werden und die Daten in &lt;em&gt;transdok&lt;/em&gt; neue abgeglichen werden. Um sicher alle Leistungen wieder zu übertragen, wird hierfür beim Programmbereich &lt;code&gt;Connexia&lt;/code&gt; beim Menüpunkt &lt;code&gt;Datenabgleich&lt;/code&gt; die Schaltfläche &lt;code&gt;alle Leistungen der letzten 40 Tage prüfen&lt;/code&gt; verwendet.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;ungültige Pflegernummer&lt;/em&gt;: Eine MitarbeiterIn hat keine Connexia-Pflegernummer eingetragen. Im Programmbereich &lt;code&gt;Connexia&lt;/code&gt; den Menüpunkt &lt;code&gt;Mitarbeiter&lt;/code&gt; wählen, sowie die entsprechende Person in der Liste auswählen und die Nummer eingeben. Es ist dieselbe Nummer (&lt;strong&gt;ohne Minuszeichen&lt;/strong&gt;) mit der die Person auch ins Connexia-Programm einsteigen kann. Auch dort sollte die Person bei &lt;code&gt;Systemverwaltung&lt;/code&gt; &amp;gt; &lt;code&gt;Pflegepersonal&lt;/code&gt; eintragen sein.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;monatliche-meldung&#34;&gt;monatliche Meldung&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Connexia&lt;/code&gt; Menüpunkt &lt;code&gt;Datenabgleich&lt;/code&gt; Register &lt;code&gt;exportieren&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Der zuvor beschriebene &lt;a href=&#34;#datenabgleich&#34;&gt;Datenabgleich&lt;/a&gt; muss vollständig ausgeführt sein, so dass die Schaltfläche &lt;code&gt;Daten abgleichen&lt;/code&gt; mit &lt;code&gt;keine Daten mehr abzugleichen&lt;/code&gt; beschriftet ist.&lt;/li&gt;
+&lt;li&gt;Die Schaltfläche &lt;code&gt;alle Stammdaten abgleichen&lt;/code&gt; klicken und die Änderungen ausführen, bis keine Änderungen mehr angezeigt werden.&lt;/li&gt;
+&lt;li&gt;Die Schaltfläche &lt;code&gt;alle Leistungen der letzten 40 Tage prüfen&lt;/code&gt; klicken und die Änderungen ausführen, bis keine Änderungen mehr angezeigt werden.&lt;/li&gt;
+&lt;li&gt;Die Schaltfläche &lt;code&gt;mit comille prüfen&lt;/code&gt; klicken. Damit öffnet sich ein Prüfprogramm, das die Daten durch Klicken von &lt;code&gt;jetzt überprüfen&lt;/code&gt; direkt im Connexia-Programm prüft. Die angezeigten Fehler müssen in &lt;em&gt;transdok&lt;/em&gt; behoben werden und die Daten erneut abgeglichen. Wurde eine Person noch nicht ins &lt;em&gt;transdok&lt;/em&gt; importiert oder die Leistungen im Connexia-Programm erfasst, müssen die Fehler im Connexia-Programm behoben werden. Danach wird erneut die Schaltfläche &lt;code&gt;jetzt überprüfen&lt;/code&gt; geklickt. Erst wenn keine Fehler mehr angezeigt werden, darf mit den nächsten Schritten fortgefahren werden. Sollte dies nicht gelingen, kontaktieren Sie den Support.&lt;/li&gt;
+&lt;li&gt;Das Connexia-Programm öffnen, einloggen und &lt;code&gt;Systemverwaltung&lt;/code&gt; &amp;gt; &lt;code&gt;Datenträger Connexia&lt;/code&gt; klicken. Das Datum bei &lt;code&gt;Auswahl bis&lt;/code&gt; auf den letzten Tag des zu meldenden Monats setzen und &lt;code&gt;Datenträger vorbereiten&lt;/code&gt; klicken. Achten Sie auf die in der darunterstehenden Tabelle neu eingetragene oberste Zeile. Vor allem die Anzahl in der Spalte &lt;code&gt;LST&lt;/code&gt; sollte jeden Monat in etwa dieselbe sein. Durch Klicken von &lt;code&gt;zurück&lt;/code&gt; kann das Programm wieder verlassen werden.&lt;/li&gt;
+&lt;li&gt;Das GNV-Programm starten und die Einträge senden. Damit werden die Daten an Connexia übermittelt.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;betreuungsende&#34;&gt;Betreuungsende&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Klienten&lt;/code&gt; wählen und bei &lt;em&gt;Connexia-Stammdaten&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken.&lt;/li&gt;
+&lt;li&gt;Das Datum vom Betreuungsende wählen und das &lt;code&gt;Feld&lt;/code&gt; &lt;em&gt;Ende der Pflege wegen&lt;/em&gt; mit dem entsprechenden &lt;code&gt;Wert&lt;/code&gt; durch Doppelklicken oder &lt;code&gt;hinzufügen&lt;/code&gt; erfassen.&lt;/li&gt;
+&lt;li&gt;Zusätzlich wird der Klient ins Archiv verschoben. Lesen Sie &lt;a href=&#34;../klienten/#betreuungsende&#34;&gt;hier&lt;/a&gt; mehr dazu.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Leistungen nach Betreuungsende&lt;/p&gt;
+&lt;p&gt;Leistungen dürfen auch nach Betreuungsende noch erfasst werden. Sie werden beim Datenabgleich auch dann berücksichtigt, wenn die Person bereits ins Archiv verschoben wurde.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Klienten</title>
+      <link>https://transdok.github.io/klienten/</link>
+      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/klienten/</guid>
+      <description>
+
+&lt;h2 id=&#34;betreuungsbeginn&#34;&gt;Betreuungsbeginn&lt;/h2&gt;
+
+&lt;p&gt;Folgender Ablauf sollte eingehalten werden:&lt;/p&gt;
+
+&lt;h3 id=&#34;schritt-1-wurde-die-person-in-transdok-schon-erfasst&#34;&gt;Schritt 1: Wurde die Person in &lt;em&gt;transdok&lt;/em&gt; schon erfasst?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Klienten&lt;/code&gt; wählen.&lt;/li&gt;
+&lt;li&gt;In der Klientenliste prüfen, ob die Person bereits vorhanden ist.
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tipp:&lt;/strong&gt; Verwenden Sie die das Suchfeld in der Menüleiste.&lt;/p&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;Oberhalb der Klientenliste den Bereich auf &lt;em&gt;Vereinsname.Archiv&lt;/em&gt; ändern und ebenfalls prüfen, ob die Person vorhanden ist&lt;/li&gt;
+&lt;li&gt;Ist die Person in der Liste: Person auswählen &amp;gt; bei &lt;em&gt;Stammdaten&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken &amp;gt; das Register &lt;code&gt;Bereiche&lt;/code&gt; wählen &amp;gt; den zugeordneten Archiv-Bereich mittels &lt;code&gt;X&lt;/code&gt; löschen und den Pflege-Bereich durch Anklicken zuordnen.&lt;/li&gt;
+&lt;li&gt;Ist die Person nicht in der Liste: mit nächstem Schritt fortfahren.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;schritt-2-kann-die-person-aus-dem-connexia-programm-importiert-werden&#34;&gt;Schritt 2: Kann die Person aus dem Connexia-Programm importiert werden?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Connexia&lt;/code&gt; Menüpunkt &lt;code&gt;Datenabgleich&lt;/code&gt; Register &lt;code&gt;importieren&lt;/code&gt; wählen.&lt;/li&gt;
+&lt;li&gt;Die Liste zeigt alle Personen des Connexia-Programms, die noch nicht importiert wurden.&lt;/li&gt;
+&lt;li&gt;Ist die Person in der Liste: Ein Häkchen am Beginn der entsprechenden Zeile setzen und &lt;code&gt;als neue Adresse jetzt importieren&lt;/code&gt; klicken.&lt;/li&gt;
+&lt;li&gt;Ist die Person nicht in der Liste: mit nächstem Schritt fortfahren.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;schritt-3-person-neu-anlegen&#34;&gt;Schritt 3: Person neu anlegen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Klienten&lt;/code&gt; und daneben &lt;code&gt;anlegen&lt;/code&gt; wählen.&lt;/li&gt;
+&lt;li&gt;Daten für die Person erfassen und mit Klicken von &lt;code&gt;Ok&lt;/code&gt; speichern.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Connexia-Stammdaten&lt;/p&gt;
+&lt;p&gt;Bei Betreuungsbeginn müssen auch die Connexia-Stammdaten erfasst werden. Lesen Sie &lt;a href=&#34;../connexia/#betreuungsbeginn&#34;&gt;hier&lt;/a&gt; mehr dazu.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;betreuungsende&#34;&gt;Betreuungsende&lt;/h2&gt;
+
+&lt;p&gt;Bei Betreuungsende wird die Person ins &lt;em&gt;Archiv&lt;/em&gt; verschoben:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Person auswählen &amp;gt; bei &lt;em&gt;Stammdaten&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken &amp;gt; das Register &lt;code&gt;Bereiche&lt;/code&gt; wählen &amp;gt; den zugeordneten Pflege-Bereich mittels &lt;code&gt;X&lt;/code&gt; löschen und den Arichv-Bereich durch Anklicken zuordnen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aufgrund von Pflegeplänen werden keine zusätzlichen Daten generiert. Ein Löschen derselben bei Betreuungsende ist daher nicht notwendig.&lt;/p&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Connexia-Stammdaten&lt;/p&gt;
+&lt;p&gt;Bei Betreuungsende müssen auch die Connexia-Stammdaten ergänzt werden. Lesen Sie &lt;a href=&#34;../connexia/#betreuungsende&#34;&gt;hier&lt;/a&gt; mehr dazu.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lizenz</title>
+      <link>https://transdok.github.io/lizenz/</link>
+      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/lizenz/</guid>
+      <description>&lt;p&gt;&amp;copy; 2017 &lt;a href=&#34;http://www.motus-software.at&#34; target=&#34;_blank&#34;&gt;motile users software gmbh&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons Lizenzvertrag&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Diese Dokumentation ist lizenziert unter einer &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Namensnennung 4.0 International Lizenz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sie wurde erstellt mit &lt;a href=&#34;https://www.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; unter Verwendung der
+&lt;a href=&#34;http://github.com/digitalcraftsman/hugo-material-docs&#34; target=&#34;_blank&#34;&gt;Material&lt;/a&gt;-Vorlage. Dafür gilt die MIT-Lizenz:&lt;/p&gt;
+
+&lt;p&gt;Copyright &amp;copy; 2017 Digitalcraftsman &lt;a href=&#34;mailto:digitalcraftsman@protonmail.com&#34;&gt;digitalcraftsman@protonmail.com&lt;/a&gt;&lt;br&gt;
+Copyright &amp;copy; 2017 Martin Donath &lt;a href=&#34;mailto:martin.donath@squidfunk.com&#34;&gt;martin.donath@squidfunk.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen Dokumentationen (die &amp;ldquo;Software&amp;rdquo;) erhält, die Erlaubnis erteilt, sie uneingeschränkt zu nutzen, inklusive und ohne Ausnahme mit dem Recht, sie zu verwenden, zu kopieren, zu verändern, zusammenzufügen, zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder zu verkaufen, und Personen, denen diese Software überlassen wird, diese Rechte zu verschaffen, unter den folgenden Bedingungen:
+Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen Kopien oder Teilkopien der Software beizulegen.&lt;/p&gt;
+
+&lt;p&gt;DIE SOFTWARE WIRD OHNE JEDE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIE BEREITGESTELLT, EINSCHLIESSLICH DER GARANTIE ZUR BENUTZUNG FÜR DEN VORGESEHENEN ODER EINEM BESTIMMTEN ZWECK SOWIE JEGLICHER RECHTSVERLETZUNG, JEDOCH NICHT DARAUF BESCHRÄNKT. IN KEINEM FALL SIND DIE AUTOREN ODER COPYRIGHTINHABER FÜR JEGLICHEN SCHADEN ODER SONSTIGE ANSPRÜCHE HAFTBAR ZU MACHEN, OB INFOLGE DER ERFÜLLUNG EINES VERTRAGES, EINES DELIKTES ODER ANDERS IM ZUSAMMENHANG MIT DER SOFTWARE ODER SONSTIGER VERWENDUNG DER SOFTWARE ENTSTANDEN&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mitarbeiter</title>
+      <link>https://transdok.github.io/mitarbeiter/</link>
+      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/mitarbeiter/</guid>
+      <description>
+
+&lt;h2 id=&#34;login&#34;&gt;Login&lt;/h2&gt;
+
+&lt;p&gt;Voraussetzung für den Login einer Pflegeperson ist der Besitz eines persönlichen &lt;a href=&#34;#token&#34;&gt;Tokens&lt;/a&gt; und die &lt;a href=&#34;#freischalten&#34;&gt;Freischaltung&lt;/a&gt; des Benutzers im Verein.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Username&lt;/code&gt; und &lt;code&gt;Password&lt;/code&gt; angeben und &lt;code&gt;Login&lt;/code&gt; klicken&lt;/li&gt;
+&lt;li&gt;Es erscheint ein Bild des Tokens, der jetzt eingesteckt werden muss.&lt;/li&gt;
+&lt;li&gt;Nach dem Einstecken setzt der Login-Vorgang automatisch fort.&lt;/li&gt;
+&lt;li&gt;Der Token kann direkt nach dem Login-Vorgang wieder aus dem USB-Anschluss entfernt werden. Der Benutzer bleibt bis zum Klicken von &lt;code&gt;logout&lt;/code&gt; angemeldet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;login-problemlösungen&#34;&gt;Login-Problemlösungen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mit jedem Login muss der Token &lt;strong&gt;neu eingesteckt&lt;/strong&gt; werden.&lt;/li&gt;
+&lt;li&gt;Stecken Sie den Token erst &lt;strong&gt;nach dem Klicken&lt;/strong&gt; von &lt;code&gt;Login&lt;/code&gt; ein und ziehen Sie ihn nach dem Login-Vorgang wieder heraus.&lt;/li&gt;
+&lt;li&gt;Achten Sie auf die &lt;strong&gt;Einsteckrichtung&lt;/strong&gt;. Das goldene Metall muss auf dem (z.B. blauen) Kontakt im USB-Anschluss aufliegen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/tokenstecken1.jpg&#34; alt=&#34;Token1&#34; /&gt;&lt;img src=&#34;../images/tokenstecken2.jpg&#34; alt=&#34;Token2&#34; /&gt;&lt;img src=&#34;../images/tokenstecken3.jpg&#34; alt=&#34;Token3&#34; /&gt;&lt;img src=&#34;../images/tokenstecken4.jpg&#34; alt=&#34;Token4&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bei Anzeige von &lt;code&gt;Suche Token&lt;/code&gt; wird dieser am USB-Schuss nicht erkannt. Stecken Sie ihn erneut ein, verwenden Sie einen anderen USB-Anschluss, stecken Sie den Token direkt am Computer ohne USB-Verlängerungskabel ein, starten Sie den Computer neu&lt;/li&gt;
+&lt;li&gt;Bei einer &lt;strong&gt;Fehlermeldung&lt;/strong&gt; nachdem der Token gefunden wurde, ist die Person vermutlich noch nicht für den Verein frei geschaltet. Lesen Sie dazu &lt;a href=&#34;#freischalten&#34;&gt;Freischalten&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;token&#34;&gt;Token&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Token werden von der Identitätsstelle (Connexia) vergeben.&lt;/li&gt;
+&lt;li&gt;Den Token hängt man am besten an den persönlichen Schlüsselbund. Er sollte nicht beschriftet werden und nicht im Büro bleiben.&lt;/li&gt;
+&lt;li&gt;Bei defekten Token gibt es die Möglichkeit von Ersatztoken. Kontaktieren Sie dafür die Identitätsstelle.&lt;/li&gt;
+&lt;li&gt;Nicht mehr benötigte Token geben Sie bei der Identitätsstelle zurück.&lt;/li&gt;
+&lt;li&gt;Aufgrund des Vier-Augen-Prinzips muss nach der Zuordnung eines Tokens durch die Identitätsstelle ein Benutzer beim Verein &lt;a href=&#34;#freischalten&#34;&gt;freigeschaltet&lt;/a&gt; werden, bevor er sich einloggen kann.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;neue-pflegeperson&#34;&gt;neue Pflegeperson&lt;/h2&gt;
+
+&lt;h3 id=&#34;freischalten&#34;&gt;Freischalten&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Mitarbeiter&lt;/code&gt; wählen.&lt;/li&gt;
+&lt;li&gt;Durch das Klicken von &lt;code&gt;anlegen&lt;/code&gt; erscheint eine Liste mit den Personen, die freigeschaltet werden können.&lt;/li&gt;
+&lt;li&gt;Die Person in der Liste wählen und &lt;code&gt;Ok&lt;/code&gt; klicken.&lt;/li&gt;
+&lt;li&gt;Beim Register &lt;code&gt;Bereiche&lt;/code&gt; ggf. die Zuordnung ändern. (Siehe dazu &lt;a href=&#34;#berechtigungen-vergeben&#34;&gt;Berechtigungen vergeben&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Beim Register &lt;code&gt;Stammdaten&lt;/code&gt; die &lt;code&gt;Connexia Pflegernummer&lt;/code&gt; eintragen.&lt;/li&gt;
+&lt;li&gt;Speichern durch Klicken von &lt;code&gt;Ok&lt;/code&gt;.
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Falls die Person in der Liste nicht zur Auswahl steht, wurde sie für den Verein schon freigeschaltet (siehe Mitarbeiterliste) oder sie wurde von der Identitätsstelle noch nicht angelegt.&lt;/p&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;berechtigungen-vergeben&#34;&gt;Berechtigungen vergeben&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Mitarbeiter&lt;/code&gt; und in der Liste die betreffende Person wählen.&lt;/li&gt;
+&lt;li&gt;Bei &lt;em&gt;Bereiche&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken.&lt;/li&gt;
+&lt;li&gt;Ein zugeordneter Bereich kann durch das Klicken von &lt;code&gt;X&lt;/code&gt; gelöscht werden.&lt;/li&gt;
+&lt;li&gt;Die möglichen Bereiche sind hierarchisch. Die oberste Ebene ist der Vereinsname, weitere Ebenen folgen nach dem Punkt. Dieselben Bereiche gibt es bei den KlientInnen. Benutzer haben nur Zugriff auf jene KlientInnen, die im selben Bereich (Ebene) wie sie oder darunter zugeteilt sind. Benutzer mit der obersten Ebene &lt;em&gt;Vereinsname&lt;/em&gt; haben auf alle Klienten, auch jene im Archiv und Papierkorb Zugriff. Benutzer, die dem Bereich &lt;em&gt;Vereinsname.Pflege&lt;/em&gt; zugeordnet sind, haben nur auf KlienteInnen Zugriff, die ebenfalls &lt;em&gt;Vereinsname.Pflege&lt;/em&gt; zugeordnet sind. Sie können also keine Klienten aus dem Archiv holen oder ins Archiv verschieben.&lt;/li&gt;
+&lt;li&gt;Ein Bereich wird durch Anklicken eines möglichen Bereichs zugeordnet. In der Liste der möglichen Bereiche bleiben nur jene übrig, die zusätzlich zugeordnet werden könnten.
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vereinfacht gesagt:&lt;/strong&gt; Wer Klienten aufnehmen und ins Archiv verschieben können soll, bekommt den Bereich &lt;em&gt;Vereinsname&lt;/em&gt; zugeordnet. Wer dies nicht darf, den Bereich &lt;em&gt;Vereinsname.Pflege&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;connexia-programm&#34;&gt;Connexia-Programm&lt;/h3&gt;
+
+&lt;p&gt;Eine neue Person sollte auch im alten Connexia-Programm mit ihrer &lt;em&gt;Pflegernummer&lt;/em&gt; eingetragen werden. Dazu im alten Programm einsteigen und die Person bei &lt;code&gt;Systemverwaltung&lt;/code&gt; &amp;gt; &lt;code&gt;Pflegepersonal&lt;/code&gt; eintragen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pflegeplanung</title>
+      <link>https://transdok.github.io/pflegeplan/</link>
+      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/pflegeplan/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Klient wählen &amp;gt; Menüpunkt &lt;code&gt;Pflegeplan&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Die Übersicht besteht aus einer tabellenartigen Zusammenfassung der Pflegepläne im oberen Bereich und der Detail-Anzeige im unteren Bereich&lt;/li&gt;
+&lt;li&gt;Ein Pflegeplan besteht aus einem Titel (Pflegediagnose) und einer oder mehreren Maßnahmen&lt;/li&gt;
+&lt;li&gt;Im unten angezeigten Beispiel besteht der &amp;lsquo;Plan 3&amp;rsquo; aus der Pflegediagnose &amp;lsquo;Körperliche Mobilität, beeinträchtigt&amp;rsquo; und den zugehörigen Maßnahmen &amp;lsquo;Gehen begleiten&amp;rsquo; und &amp;lsquo;Bewegungsübungen durchführen&amp;rsquo;. Änderungen zum &amp;lsquo;Plan 3&amp;rsquo; werden über die dort angezeigte Schaltfläche &lt;code&gt;ändern&lt;/code&gt; vorgenommen.&lt;/li&gt;
+&lt;li&gt;Nur wenn ein komplett neuer Plan erstellt werden soll, wird oben auf die Schaltfläche Pflegeplan &lt;code&gt;erstellen&lt;/code&gt; geklickt.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://transdok.github.io/images/pflegeplan.jpg&#34; alt=&#34;Pflegeplan Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;pflegediagnosen-erstellen&#34;&gt;Pflegediagnosen erstellen&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://player.vimeo.com/video/95284047&#34;&gt;Videoanleitung&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pflegeplan &lt;code&gt;erstellen&lt;/code&gt; (&amp;gt; &lt;code&gt;Begründung ändern&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Tip: Verwenden Sie vorwiegend die Tastatur.&lt;/li&gt;
+&lt;li&gt;Mit &amp;lsquo;#&amp;rsquo; und Leerzeichen beginnt ein Titel.&lt;/li&gt;
+&lt;li&gt;Mit &amp;lsquo;?&amp;rsquo; tippen werden alle Titel angezeigt, die mit den davor geschriebenen Buchstaben beginnen.&lt;/li&gt;
+&lt;li&gt;Mit &amp;lsquo;##&amp;rsquo; und Leerzeichen beginnt eine Überschrift.&lt;/li&gt;
+&lt;li&gt;Mit &amp;lsquo;-&amp;rsquo; und Leerzeichen beginnt eine Aufzählung.&lt;/li&gt;
+&lt;li&gt;Neben Einträgen aus der Liste kann jederzeit individueller Text geschrieben werden.&lt;/li&gt;
+&lt;li&gt;Enthält die Auswahl den Begriff &amp;lsquo;spezifizieren&amp;rsquo;, wird dieser automatisch zum Überschreiben markiert.&lt;/li&gt;
+&lt;li&gt;&amp;hellip; weiter gehts mit Überschriften und Aufzählungen &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Auch Ziele werden hier formuliert.&lt;/li&gt;
+&lt;li&gt;Je nach Cursorposition wird rechts der formatierte Inhalt oder der Standard angezeigt.&lt;/li&gt;
+&lt;li&gt;Direkt anschließend können bei &lt;code&gt;Maßnahmen planen&lt;/code&gt; Maßnahmen erfasst werden, die zur geplanten Begründung (Pflegediagnose) passen.&lt;/li&gt;
+&lt;li&gt;Mit &lt;code&gt;Ok&lt;/code&gt; wird die Eingabe abgeschlossen und gespeichert.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Behelfsdiagnosen&lt;/p&gt;
+&lt;p&gt;Anstelle von Pflegediagnosen können zum Zuordnen bestimmter Maßnahmen Behelfsdiagnosen verwendet werden. Diese sind &lt;code&gt;# Pflegerische Anordnung&lt;/code&gt; für Maßnahmen wie &amp;lsquo;Hausbesuch&amp;rsquo; oder &amp;lsquo;Evaluierung&amp;rsquo; und &lt;code&gt;# Ärztliche Anordnung&lt;/code&gt; für Maßnahmen wie &amp;lsquo;Bludruck messen&amp;rsquo; oder &amp;lsquo;Blutzucker messen&amp;rsquo; (auch dann wenn keine ärztliche Anordung vorliegt).&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;maßnahmen-planen&#34;&gt;Maßnahmen planen&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://player.vimeo.com/video/103698324&#34;&gt;Videoanleitung&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Beim passenden Pflegeplan auf &lt;code&gt;ändern&lt;/code&gt; klicken&lt;/li&gt;
+&lt;li&gt;Bei der Begründung sollte eine Pflegediagnose geplant sein oder ein allgemeiner Titel stehen.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Maßnahmen planen&lt;/code&gt; wählen&lt;/li&gt;
+&lt;li&gt;Im Suchfeld &lt;code&gt;neue Maßnahme suchen&lt;/code&gt;, die Anfangsbuchstaben der zu planenden Maßnahme tippen und einen Eintrag wählen.&lt;/li&gt;
+&lt;li&gt;Im Bearbeitungsbereich &lt;code&gt;Intervall&lt;/code&gt;, &lt;code&gt;Timing&lt;/code&gt; und falls notwendig &lt;code&gt;Zeitraum&lt;/code&gt; definieren.&lt;/li&gt;
+&lt;li&gt;Bei &lt;code&gt;Bemerkung&lt;/code&gt; kann die Maßnahme konkret beschrieben werden.&lt;/li&gt;
+&lt;li&gt;Der Text sollte hier mit Aufzählungszeichen in Form von &amp;lsquo;-&amp;rsquo; und Leerzeichen beginnen.&lt;/li&gt;
+&lt;li&gt;Ohne zu Speichern kann die nächste Maßnahme gesucht werden.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Intervall&lt;/code&gt; und &lt;code&gt;Timing&lt;/code&gt; werden von zuvor geplanten Maßnahmen vorgeschlagen.&lt;/li&gt;
+&lt;li&gt;Die Auswahl einer neuen Maßnahme ist auch mit &lt;code&gt;Maßnahmenkatalog einblenden&lt;/code&gt; möglich.&lt;/li&gt;
+&lt;li&gt;Die im Katalog gewählte Maßnahme steht bereits im Bearbeitungsbereich.&lt;/li&gt;
+&lt;li&gt;Rechts steht die Liste der geplanten Maßnahmen.&lt;/li&gt;
+&lt;li&gt;Durch Anklicken werden diese jeweils wieder im Bearbeitungsbereich angezeigt.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Timing&lt;/p&gt;
+&lt;p&gt;Durch Setzen des Mauszeigers auf das Timing-Feld wird ein Hilfstext mit den gültigen Eingaben angezeigt. Nur gültige Eingaben werden gespeichert.&lt;/br&gt;
+Es ist zu empfehlen, das Timing nur bei der Maßnahme &lt;em&gt;Hausbesuch&lt;/em&gt; ein zu geben.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;maßnahmen-intervalle-verwenden&#34;&gt;Maßnahmen-Intervalle verwenden&lt;/h2&gt;
+
+&lt;p&gt;Das Verwenden von Intervallen ist dann zu empfehlen, wenn es viele Maßnahmen gibt und sich deren Intervall immer wieder ändert.
+&lt;a href=&#34;https://player.vimeo.com/video/103698325&#34;&gt;Videoanleitung&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

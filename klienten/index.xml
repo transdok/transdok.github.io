@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klienten-rsses on transdok HKPV Dokumentation</title>
+    <link>https://transdok.github.io/klienten/index.xml</link>
+    <description>Recent content in Klienten-rsses on transdok HKPV Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
+    <lastBuildDate>Fri, 13 Jan 2017 10:00:00 +0200</lastBuildDate>
+    <atom:link href="https://transdok.github.io/klienten/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Klienten</title>
+      <link>https://transdok.github.io/klienten/</link>
+      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/klienten/</guid>
+      <description>
+
+&lt;h2 id=&#34;betreuungsbeginn&#34;&gt;Betreuungsbeginn&lt;/h2&gt;
+
+&lt;p&gt;Folgender Ablauf sollte eingehalten werden:&lt;/p&gt;
+
+&lt;h3 id=&#34;schritt-1-wurde-die-person-in-transdok-schon-erfasst&#34;&gt;Schritt 1: Wurde die Person in &lt;em&gt;transdok&lt;/em&gt; schon erfasst?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Klienten&lt;/code&gt; wählen.&lt;/li&gt;
+&lt;li&gt;In der Klientenliste prüfen, ob die Person bereits vorhanden ist.
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tipp:&lt;/strong&gt; Verwenden Sie die das Suchfeld in der Menüleiste.&lt;/p&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;Oberhalb der Klientenliste den Bereich auf &lt;em&gt;Vereinsname.Archiv&lt;/em&gt; ändern und ebenfalls prüfen, ob die Person vorhanden ist&lt;/li&gt;
+&lt;li&gt;Ist die Person in der Liste: Person auswählen &amp;gt; bei &lt;em&gt;Stammdaten&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken &amp;gt; das Register &lt;code&gt;Bereiche&lt;/code&gt; wählen &amp;gt; den zugeordneten Archiv-Bereich mittels &lt;code&gt;X&lt;/code&gt; löschen und den Pflege-Bereich durch Anklicken zuordnen.&lt;/li&gt;
+&lt;li&gt;Ist die Person nicht in der Liste: mit nächstem Schritt fortfahren.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;schritt-2-kann-die-person-aus-dem-connexia-programm-importiert-werden&#34;&gt;Schritt 2: Kann die Person aus dem Connexia-Programm importiert werden?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Connexia&lt;/code&gt; Menüpunkt &lt;code&gt;Datenabgleich&lt;/code&gt; Register &lt;code&gt;importieren&lt;/code&gt; wählen.&lt;/li&gt;
+&lt;li&gt;Die Liste zeigt alle Personen des Connexia-Programms, die noch nicht importiert wurden.&lt;/li&gt;
+&lt;li&gt;Ist die Person in der Liste: Ein Häkchen am Beginn der entsprechenden Zeile setzen und &lt;code&gt;als neue Adresse jetzt importieren&lt;/code&gt; klicken.&lt;/li&gt;
+&lt;li&gt;Ist die Person nicht in der Liste: mit nächstem Schritt fortfahren.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;schritt-3-person-neu-anlegen&#34;&gt;Schritt 3: Person neu anlegen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Klienten&lt;/code&gt; und daneben &lt;code&gt;anlegen&lt;/code&gt; wählen.&lt;/li&gt;
+&lt;li&gt;Daten für die Person erfassen und mit Klicken von &lt;code&gt;Ok&lt;/code&gt; speichern.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Connexia-Stammdaten&lt;/p&gt;
+&lt;p&gt;Bei Betreuungsbeginn müssen auch die Connexia-Stammdaten erfasst werden. Lesen Sie &lt;a href=&#34;../connexia/#betreuungsbeginn&#34;&gt;hier&lt;/a&gt; mehr dazu.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;betreuungsende&#34;&gt;Betreuungsende&lt;/h2&gt;
+
+&lt;p&gt;Bei Betreuungsende wird die Person ins &lt;em&gt;Archiv&lt;/em&gt; verschoben:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Person auswählen &amp;gt; bei &lt;em&gt;Stammdaten&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken &amp;gt; das Register &lt;code&gt;Bereiche&lt;/code&gt; wählen &amp;gt; den zugeordneten Pflege-Bereich mittels &lt;code&gt;X&lt;/code&gt; löschen und den Arichv-Bereich durch Anklicken zuordnen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aufgrund von Pflegeplänen werden keine zusätzlichen Daten generiert. Ein Löschen derselben bei Betreuungsende ist daher nicht notwendig.&lt;/p&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Connexia-Stammdaten&lt;/p&gt;
+&lt;p&gt;Bei Betreuungsende müssen auch die Connexia-Stammdaten ergänzt werden. Lesen Sie &lt;a href=&#34;../connexia/#betreuungsende&#34;&gt;hier&lt;/a&gt; mehr dazu.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

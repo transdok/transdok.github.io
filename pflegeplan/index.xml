@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pflegeplan-rsses on transdok HKPV Dokumentation</title>
+    <link>https://transdok.github.io/pflegeplan/index.xml</link>
+    <description>Recent content in Pflegeplan-rsses on transdok HKPV Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
+    <lastBuildDate>Fri, 13 Jan 2017 10:00:00 +0200</lastBuildDate>
+    <atom:link href="https://transdok.github.io/pflegeplan/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pflegeplanung</title>
+      <link>https://transdok.github.io/pflegeplan/</link>
+      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/pflegeplan/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Klient wählen &amp;gt; Menüpunkt &lt;code&gt;Pflegeplan&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Die Übersicht besteht aus einer tabellenartigen Zusammenfassung der Pflegepläne im oberen Bereich und der Detail-Anzeige im unteren Bereich&lt;/li&gt;
+&lt;li&gt;Ein Pflegeplan besteht aus einem Titel (Pflegediagnose) und einer oder mehreren Maßnahmen&lt;/li&gt;
+&lt;li&gt;Im unten angezeigten Beispiel besteht der &amp;lsquo;Plan 3&amp;rsquo; aus der Pflegediagnose &amp;lsquo;Körperliche Mobilität, beeinträchtigt&amp;rsquo; und den zugehörigen Maßnahmen &amp;lsquo;Gehen begleiten&amp;rsquo; und &amp;lsquo;Bewegungsübungen durchführen&amp;rsquo;. Änderungen zum &amp;lsquo;Plan 3&amp;rsquo; werden über die dort angezeigte Schaltfläche &lt;code&gt;ändern&lt;/code&gt; vorgenommen.&lt;/li&gt;
+&lt;li&gt;Nur wenn ein komplett neuer Plan erstellt werden soll, wird oben auf die Schaltfläche Pflegeplan &lt;code&gt;erstellen&lt;/code&gt; geklickt.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://transdok.github.io/images/pflegeplan.jpg&#34; alt=&#34;Pflegeplan Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;pflegediagnosen-erstellen&#34;&gt;Pflegediagnosen erstellen&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://player.vimeo.com/video/95284047&#34;&gt;Videoanleitung&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pflegeplan &lt;code&gt;erstellen&lt;/code&gt; (&amp;gt; &lt;code&gt;Begründung ändern&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Tip: Verwenden Sie vorwiegend die Tastatur.&lt;/li&gt;
+&lt;li&gt;Mit &amp;lsquo;#&amp;rsquo; und Leerzeichen beginnt ein Titel.&lt;/li&gt;
+&lt;li&gt;Mit &amp;lsquo;?&amp;rsquo; tippen werden alle Titel angezeigt, die mit den davor geschriebenen Buchstaben beginnen.&lt;/li&gt;
+&lt;li&gt;Mit &amp;lsquo;##&amp;rsquo; und Leerzeichen beginnt eine Überschrift.&lt;/li&gt;
+&lt;li&gt;Mit &amp;lsquo;-&amp;rsquo; und Leerzeichen beginnt eine Aufzählung.&lt;/li&gt;
+&lt;li&gt;Neben Einträgen aus der Liste kann jederzeit individueller Text geschrieben werden.&lt;/li&gt;
+&lt;li&gt;Enthält die Auswahl den Begriff &amp;lsquo;spezifizieren&amp;rsquo;, wird dieser automatisch zum Überschreiben markiert.&lt;/li&gt;
+&lt;li&gt;&amp;hellip; weiter gehts mit Überschriften und Aufzählungen &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Auch Ziele werden hier formuliert.&lt;/li&gt;
+&lt;li&gt;Je nach Cursorposition wird rechts der formatierte Inhalt oder der Standard angezeigt.&lt;/li&gt;
+&lt;li&gt;Direkt anschließend können bei &lt;code&gt;Maßnahmen planen&lt;/code&gt; Maßnahmen erfasst werden, die zur geplanten Begründung (Pflegediagnose) passen.&lt;/li&gt;
+&lt;li&gt;Mit &lt;code&gt;Ok&lt;/code&gt; wird die Eingabe abgeschlossen und gespeichert.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Behelfsdiagnosen&lt;/p&gt;
+&lt;p&gt;Anstelle von Pflegediagnosen können zum Zuordnen bestimmter Maßnahmen Behelfsdiagnosen verwendet werden. Diese sind &lt;code&gt;# Pflegerische Anordnung&lt;/code&gt; für Maßnahmen wie &amp;lsquo;Hausbesuch&amp;rsquo; oder &amp;lsquo;Evaluierung&amp;rsquo; und &lt;code&gt;# Ärztliche Anordnung&lt;/code&gt; für Maßnahmen wie &amp;lsquo;Bludruck messen&amp;rsquo; oder &amp;lsquo;Blutzucker messen&amp;rsquo; (auch dann wenn keine ärztliche Anordung vorliegt).&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;maßnahmen-planen&#34;&gt;Maßnahmen planen&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://player.vimeo.com/video/103698324&#34;&gt;Videoanleitung&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Beim passenden Pflegeplan auf &lt;code&gt;ändern&lt;/code&gt; klicken&lt;/li&gt;
+&lt;li&gt;Bei der Begründung sollte eine Pflegediagnose geplant sein oder ein allgemeiner Titel stehen.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Maßnahmen planen&lt;/code&gt; wählen&lt;/li&gt;
+&lt;li&gt;Im Suchfeld &lt;code&gt;neue Maßnahme suchen&lt;/code&gt;, die Anfangsbuchstaben der zu planenden Maßnahme tippen und einen Eintrag wählen.&lt;/li&gt;
+&lt;li&gt;Im Bearbeitungsbereich &lt;code&gt;Intervall&lt;/code&gt;, &lt;code&gt;Timing&lt;/code&gt; und falls notwendig &lt;code&gt;Zeitraum&lt;/code&gt; definieren.&lt;/li&gt;
+&lt;li&gt;Bei &lt;code&gt;Bemerkung&lt;/code&gt; kann die Maßnahme konkret beschrieben werden.&lt;/li&gt;
+&lt;li&gt;Der Text sollte hier mit Aufzählungszeichen in Form von &amp;lsquo;-&amp;rsquo; und Leerzeichen beginnen.&lt;/li&gt;
+&lt;li&gt;Ohne zu Speichern kann die nächste Maßnahme gesucht werden.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Intervall&lt;/code&gt; und &lt;code&gt;Timing&lt;/code&gt; werden von zuvor geplanten Maßnahmen vorgeschlagen.&lt;/li&gt;
+&lt;li&gt;Die Auswahl einer neuen Maßnahme ist auch mit &lt;code&gt;Maßnahmenkatalog einblenden&lt;/code&gt; möglich.&lt;/li&gt;
+&lt;li&gt;Die im Katalog gewählte Maßnahme steht bereits im Bearbeitungsbereich.&lt;/li&gt;
+&lt;li&gt;Rechts steht die Liste der geplanten Maßnahmen.&lt;/li&gt;
+&lt;li&gt;Durch Anklicken werden diese jeweils wieder im Bearbeitungsbereich angezeigt.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;Timing&lt;/p&gt;
+&lt;p&gt;Durch Setzen des Mauszeigers auf das Timing-Feld wird ein Hilfstext mit den gültigen Eingaben angezeigt. Nur gültige Eingaben werden gespeichert.&lt;/br&gt;
+Es ist zu empfehlen, das Timing nur bei der Maßnahme &lt;em&gt;Hausbesuch&lt;/em&gt; ein zu geben.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;maßnahmen-intervalle-verwenden&#34;&gt;Maßnahmen-Intervalle verwenden&lt;/h2&gt;
+
+&lt;p&gt;Das Verwenden von Intervallen ist dann zu empfehlen, wenn es viele Maßnahmen gibt und sich deren Intervall immer wieder ändert.
+&lt;a href=&#34;https://player.vimeo.com/video/103698325&#34;&gt;Videoanleitung&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

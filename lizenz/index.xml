@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lizenz-rsses on transdok HKPV Dokumentation</title>
+    <link>https://transdok.github.io/lizenz/index.xml</link>
+    <description>Recent content in Lizenz-rsses on transdok HKPV Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
+    <lastBuildDate>Fri, 13 Jan 2017 10:00:00 +0200</lastBuildDate>
+    <atom:link href="https://transdok.github.io/lizenz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lizenz</title>
+      <link>https://transdok.github.io/lizenz/</link>
+      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/lizenz/</guid>
+      <description>&lt;p&gt;&amp;copy; 2017 &lt;a href=&#34;http://www.motus-software.at&#34; target=&#34;_blank&#34;&gt;motile users software gmbh&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons Lizenzvertrag&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;Diese Dokumentation ist lizenziert unter einer &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Namensnennung 4.0 International Lizenz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sie wurde erstellt mit &lt;a href=&#34;https://www.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; unter Verwendung der
+&lt;a href=&#34;http://github.com/digitalcraftsman/hugo-material-docs&#34; target=&#34;_blank&#34;&gt;Material&lt;/a&gt;-Vorlage. Dafür gilt die MIT-Lizenz:&lt;/p&gt;
+
+&lt;p&gt;Copyright &amp;copy; 2017 Digitalcraftsman &lt;a href=&#34;mailto:digitalcraftsman@protonmail.com&#34;&gt;digitalcraftsman@protonmail.com&lt;/a&gt;&lt;br&gt;
+Copyright &amp;copy; 2017 Martin Donath &lt;a href=&#34;mailto:martin.donath@squidfunk.com&#34;&gt;martin.donath@squidfunk.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen Dokumentationen (die &amp;ldquo;Software&amp;rdquo;) erhält, die Erlaubnis erteilt, sie uneingeschränkt zu nutzen, inklusive und ohne Ausnahme mit dem Recht, sie zu verwenden, zu kopieren, zu verändern, zusammenzufügen, zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder zu verkaufen, und Personen, denen diese Software überlassen wird, diese Rechte zu verschaffen, unter den folgenden Bedingungen:
+Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen Kopien oder Teilkopien der Software beizulegen.&lt;/p&gt;
+
+&lt;p&gt;DIE SOFTWARE WIRD OHNE JEDE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIE BEREITGESTELLT, EINSCHLIESSLICH DER GARANTIE ZUR BENUTZUNG FÜR DEN VORGESEHENEN ODER EINEM BESTIMMTEN ZWECK SOWIE JEGLICHER RECHTSVERLETZUNG, JEDOCH NICHT DARAUF BESCHRÄNKT. IN KEINEM FALL SIND DIE AUTOREN ODER COPYRIGHTINHABER FÜR JEGLICHEN SCHADEN ODER SONSTIGE ANSPRÜCHE HAFTBAR ZU MACHEN, OB INFOLGE DER ERFÜLLUNG EINES VERTRAGES, EINES DELIKTES ODER ANDERS IM ZUSAMMENHANG MIT DER SOFTWARE ODER SONSTIGER VERWENDUNG DER SOFTWARE ENTSTANDEN&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

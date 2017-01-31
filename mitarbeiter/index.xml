@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitarbeiter-rsses on transdok HKPV Dokumentation</title>
+    <link>https://transdok.github.io/mitarbeiter/index.xml</link>
+    <description>Recent content in Mitarbeiter-rsses on transdok HKPV Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
+    <lastBuildDate>Fri, 13 Jan 2017 10:00:00 +0200</lastBuildDate>
+    <atom:link href="https://transdok.github.io/mitarbeiter/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mitarbeiter</title>
+      <link>https://transdok.github.io/mitarbeiter/</link>
+      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/mitarbeiter/</guid>
+      <description>
+
+&lt;h2 id=&#34;login&#34;&gt;Login&lt;/h2&gt;
+
+&lt;p&gt;Voraussetzung für den Login einer Pflegeperson ist der Besitz eines persönlichen &lt;a href=&#34;#token&#34;&gt;Tokens&lt;/a&gt; und die &lt;a href=&#34;#freischalten&#34;&gt;Freischaltung&lt;/a&gt; des Benutzers im Verein.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Username&lt;/code&gt; und &lt;code&gt;Password&lt;/code&gt; angeben und &lt;code&gt;Login&lt;/code&gt; klicken&lt;/li&gt;
+&lt;li&gt;Es erscheint ein Bild des Tokens, der jetzt eingesteckt werden muss.&lt;/li&gt;
+&lt;li&gt;Nach dem Einstecken setzt der Login-Vorgang automatisch fort.&lt;/li&gt;
+&lt;li&gt;Der Token kann direkt nach dem Login-Vorgang wieder aus dem USB-Anschluss entfernt werden. Der Benutzer bleibt bis zum Klicken von &lt;code&gt;logout&lt;/code&gt; angemeldet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;login-problemlösungen&#34;&gt;Login-Problemlösungen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mit jedem Login muss der Token &lt;strong&gt;neu eingesteckt&lt;/strong&gt; werden.&lt;/li&gt;
+&lt;li&gt;Stecken Sie den Token erst &lt;strong&gt;nach dem Klicken&lt;/strong&gt; von &lt;code&gt;Login&lt;/code&gt; ein und ziehen Sie ihn nach dem Login-Vorgang wieder heraus.&lt;/li&gt;
+&lt;li&gt;Achten Sie auf die &lt;strong&gt;Einsteckrichtung&lt;/strong&gt;. Das goldene Metall muss auf dem (z.B. blauen) Kontakt im USB-Anschluss aufliegen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/tokenstecken1.jpg&#34; alt=&#34;Token1&#34; /&gt;&lt;img src=&#34;../images/tokenstecken2.jpg&#34; alt=&#34;Token2&#34; /&gt;&lt;img src=&#34;../images/tokenstecken3.jpg&#34; alt=&#34;Token3&#34; /&gt;&lt;img src=&#34;../images/tokenstecken4.jpg&#34; alt=&#34;Token4&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bei Anzeige von &lt;code&gt;Suche Token&lt;/code&gt; wird dieser am USB-Schuss nicht erkannt. Stecken Sie ihn erneut ein, verwenden Sie einen anderen USB-Anschluss, stecken Sie den Token direkt am Computer ohne USB-Verlängerungskabel ein, starten Sie den Computer neu&lt;/li&gt;
+&lt;li&gt;Bei einer &lt;strong&gt;Fehlermeldung&lt;/strong&gt; nachdem der Token gefunden wurde, ist die Person vermutlich noch nicht für den Verein frei geschaltet. Lesen Sie dazu &lt;a href=&#34;#freischalten&#34;&gt;Freischalten&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;token&#34;&gt;Token&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Token werden von der Identitätsstelle (Connexia) vergeben.&lt;/li&gt;
+&lt;li&gt;Den Token hängt man am besten an den persönlichen Schlüsselbund. Er sollte nicht beschriftet werden und nicht im Büro bleiben.&lt;/li&gt;
+&lt;li&gt;Bei defekten Token gibt es die Möglichkeit von Ersatztoken. Kontaktieren Sie dafür die Identitätsstelle.&lt;/li&gt;
+&lt;li&gt;Nicht mehr benötigte Token geben Sie bei der Identitätsstelle zurück.&lt;/li&gt;
+&lt;li&gt;Aufgrund des Vier-Augen-Prinzips muss nach der Zuordnung eines Tokens durch die Identitätsstelle ein Benutzer beim Verein &lt;a href=&#34;#freischalten&#34;&gt;freigeschaltet&lt;/a&gt; werden, bevor er sich einloggen kann.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;neue-pflegeperson&#34;&gt;neue Pflegeperson&lt;/h2&gt;
+
+&lt;h3 id=&#34;freischalten&#34;&gt;Freischalten&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Mitarbeiter&lt;/code&gt; wählen.&lt;/li&gt;
+&lt;li&gt;Durch das Klicken von &lt;code&gt;anlegen&lt;/code&gt; erscheint eine Liste mit den Personen, die freigeschaltet werden können.&lt;/li&gt;
+&lt;li&gt;Die Person in der Liste wählen und &lt;code&gt;Ok&lt;/code&gt; klicken.&lt;/li&gt;
+&lt;li&gt;Beim Register &lt;code&gt;Bereiche&lt;/code&gt; ggf. die Zuordnung ändern. (Siehe dazu &lt;a href=&#34;#berechtigungen-vergeben&#34;&gt;Berechtigungen vergeben&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Beim Register &lt;code&gt;Stammdaten&lt;/code&gt; die &lt;code&gt;Connexia Pflegernummer&lt;/code&gt; eintragen.&lt;/li&gt;
+&lt;li&gt;Speichern durch Klicken von &lt;code&gt;Ok&lt;/code&gt;.
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Falls die Person in der Liste nicht zur Auswahl steht, wurde sie für den Verein schon freigeschaltet (siehe Mitarbeiterliste) oder sie wurde von der Identitätsstelle noch nicht angelegt.&lt;/p&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;berechtigungen-vergeben&#34;&gt;Berechtigungen vergeben&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Mitarbeiter&lt;/code&gt; und in der Liste die betreffende Person wählen.&lt;/li&gt;
+&lt;li&gt;Bei &lt;em&gt;Bereiche&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken.&lt;/li&gt;
+&lt;li&gt;Ein zugeordneter Bereich kann durch das Klicken von &lt;code&gt;X&lt;/code&gt; gelöscht werden.&lt;/li&gt;
+&lt;li&gt;Die möglichen Bereiche sind hierarchisch. Die oberste Ebene ist der Vereinsname, weitere Ebenen folgen nach dem Punkt. Dieselben Bereiche gibt es bei den KlientInnen. Benutzer haben nur Zugriff auf jene KlientInnen, die im selben Bereich (Ebene) wie sie oder darunter zugeteilt sind. Benutzer mit der obersten Ebene &lt;em&gt;Vereinsname&lt;/em&gt; haben auf alle Klienten, auch jene im Archiv und Papierkorb Zugriff. Benutzer, die dem Bereich &lt;em&gt;Vereinsname.Pflege&lt;/em&gt; zugeordnet sind, haben nur auf KlienteInnen Zugriff, die ebenfalls &lt;em&gt;Vereinsname.Pflege&lt;/em&gt; zugeordnet sind. Sie können also keine Klienten aus dem Archiv holen oder ins Archiv verschieben.&lt;/li&gt;
+&lt;li&gt;Ein Bereich wird durch Anklicken eines möglichen Bereichs zugeordnet. In der Liste der möglichen Bereiche bleiben nur jene übrig, die zusätzlich zugeordnet werden könnten.
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vereinfacht gesagt:&lt;/strong&gt; Wer Klienten aufnehmen und ins Archiv verschieben können soll, bekommt den Bereich &lt;em&gt;Vereinsname&lt;/em&gt; zugeordnet. Wer dies nicht darf, den Bereich &lt;em&gt;Vereinsname.Pflege&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;connexia-programm&#34;&gt;Connexia-Programm&lt;/h3&gt;
+
+&lt;p&gt;Eine neue Person sollte auch im alten Connexia-Programm mit ihrer &lt;em&gt;Pflegernummer&lt;/em&gt; eingetragen werden. Dazu im alten Programm einsteigen und die Person bei &lt;code&gt;Systemverwaltung&lt;/code&gt; &amp;gt; &lt;code&gt;Pflegepersonal&lt;/code&gt; eintragen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
