@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Installation-rsses on transdok HKPV Dokumentation</title>
-    <link>https://transdok.github.io/installation/index.xml</link>
-    <description>Recent content in Installation-rsses on transdok HKPV Dokumentation</description>
+    <title>Installations on transdok HKPV Dokumentation</title>
+    <link>https://transdok.github.io/installation/</link>
+    <description>Recent content in Installations on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Mon, 16 Jan 2017 10:00:00 +0200</lastBuildDate>
-    <atom:link href="https://transdok.github.io/installation/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://transdok.github.io/installation/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Installation</title>
@@ -16,36 +18,8 @@
       <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
       
       <guid>https://transdok.github.io/installation/</guid>
-      <description>
-
-&lt;p&gt;Installation &lt;a href=&#34;https://setup.transdok.at/transdok.Launcher.application&#34;&gt;hier starten&lt;/a&gt;
-(Internet Explorer) oder &lt;a href=&#34;https://setup.transdok.at/setup.exe&#34;&gt;Setup&lt;/a&gt; verwenden.&lt;/p&gt;
-
-&lt;h2 id=&#34;hardware-voraussetzungen&#34;&gt;Hardware-Voraussetzungen&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;mindestens Intel Core i3&lt;/li&gt;
-&lt;li&gt;mindestens 4 GB Arbeitsspeicher&lt;/li&gt;
-&lt;li&gt;Bildschirmauflösung mindestens 1440x900 oder 1280x1024, je größer der Bildschirm desto besser&lt;/li&gt;
-&lt;li&gt;Festnetz-Internetanbindung ohne Datenmengeneinschränkungen, je schneller das Internet desto besser&lt;/li&gt;
-&lt;li&gt;empfohlen SSD oder Hybrid-Festplatte&lt;/li&gt;
-&lt;li&gt;empfohlenes Beispiel für Neukauf: Markenkomplettsystem, i5 (aktuelles Modell), 8 GB RAM, 128 GB SSD Festplatte&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;software-voraussetzungen&#34;&gt;Software-Voraussetzungen&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Betriebssystem Windows 7, Windows 8.1 oder Windows 10&lt;/li&gt;
-&lt;li&gt;Alle vorhandenen Servicepacks müssen installiert sein&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;funktionsumfang&#34;&gt;Funktionsumfang&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Der Funktionsumfang wird durch laufende Updates erweitert&lt;/li&gt;
-&lt;li&gt;Der aktuelle Stand kann der &lt;a href=&#34;../spec/&#34;&gt;Leistungsbeschreibung&lt;/a&gt; entnommen werden&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Installation hier starten (Internet Explorer) oder Setup verwenden.
+Hardware-Voraussetzungen  mindestens Intel Core i3 mindestens 4 GB Arbeitsspeicher Bildschirmauflösung mindestens 1440x900 oder 1280x1024, je größer der Bildschirm desto besser Festnetz-Internetanbindung ohne Datenmengeneinschränkungen, je schneller das Internet desto besser empfohlen SSD oder Hybrid-Festplatte empfohlenes Beispiel für Neukauf: Markenkomplettsystem, i5 (aktuelles Modell), 8 GB RAM, 128 GB SSD Festplatte  Software-Voraussetzungen  Betriebssystem Windows 7, Windows 8.1 oder Windows 10 Alle vorhandenen Servicepacks müssen installiert sein  Funktionsumfang  Der Funktionsumfang wird durch laufende Updates erweitert Der aktuelle Stand kann der Leistungsbeschreibung entnommen werden  </description>
     </item>
     
   </channel>

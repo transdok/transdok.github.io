@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Durchfuehrung-rsses on transdok HKPV Dokumentation</title>
-    <link>https://transdok.github.io/durchfuehrung/index.xml</link>
-    <description>Recent content in Durchfuehrung-rsses on transdok HKPV Dokumentation</description>
+    <title>Durchfuehrungs on transdok HKPV Dokumentation</title>
+    <link>https://transdok.github.io/durchfuehrung/</link>
+    <description>Recent content in Durchfuehrungs on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Mon, 16 Jan 2017 10:00:00 +0200</lastBuildDate>
-    <atom:link href="https://transdok.github.io/durchfuehrung/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://transdok.github.io/durchfuehrung/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Durchführung</title>
@@ -16,57 +18,7 @@
       <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
       
       <guid>https://transdok.github.io/durchfuehrung/</guid>
-      <description>
-
-&lt;h2 id=&#34;durchführungsnachweis&#34;&gt;Durchführungsnachweis&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Programmbereich &lt;code&gt;Pflege&lt;/code&gt; Menüpunkt &lt;code&gt;Aufträge&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Person in der Klientenliste wählen.&lt;/li&gt;
-&lt;li&gt;Datum des betreffenden Tages klicken.&lt;/li&gt;
-&lt;li&gt;Im Dialogfenster werden die geplanten und noch nicht dokumentierten Aufträge angezeigt.&lt;/li&gt;
-&lt;li&gt;Mit den Schaltflächen bei jeder Maßnahme wird dokumentiert, verschoben oder begründet, warum die Tätigkeit nicht durchgeführt werden konnte.&lt;/li&gt;
-&lt;li&gt;Zusätzlich durchgeführte Maßnahmen werden durch Tippen in das Suchfeld &lt;em&gt;zusätzliche Maßnahme dokumentierten&lt;/em&gt; oder durch Verwendung der Schaltflächen &lt;code&gt;Katalog&lt;/code&gt; oder &lt;code&gt;Planung&lt;/code&gt; der Liste hinzugefügt.&lt;/li&gt;
-&lt;li&gt;Bei jeder dokumentierten Maßnahme besteht die Möglichkeit zur Erfassung einer Notiz.&lt;/li&gt;
-&lt;li&gt;Speichern durch Klicken von &lt;code&gt;Ok&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;admonition note&#34;&gt;
-&lt;p class=&#34;admonition-title&#34;&gt;Änderungen&lt;/p&gt;
-&lt;p&gt;Alle Durchführungsnachweise können durch erneutes Klicken auf das Datum nachträglich geändert werden. Allerdings nur von jener Person, die diese dokumentiert hat.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;leistungserfassung&#34;&gt;Leistungserfassung&lt;/h2&gt;
-
-&lt;p&gt;Es gibt vordefinierte Maßnahnen, die das Erfassen der Leistungen erlauben. Bevor eine solche dokumentiert wird, sollten alle anderen Maßnahmen erfasst worden sein (Durchführungsnachweise) - auch die Zusätzlichen. Auf Grundlage der dokumentierten Maßnahmen wird nämlich ein Vorschlag für die Leistungspunkte erstellt, wobei jeder Leistungspunkt maximal mit der Anzahl 1 vorkommt. Der Vorschlag kann bei jeder Dokumentation angepasst werden.&lt;/p&gt;
-
-&lt;h3 id=&#34;vordefinierte-maßnahmen-zur-leistungserfassung&#34;&gt;Vordefinierte Maßnahmen zur Leistungserfassung&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;Hausbesuch&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Hausbesuch mit bes. Wegzeit&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;Hausbesuch mit geringer Wegzeit&lt;/em&gt;&lt;/strong&gt;. Letztere schlägt den Leistungspunkt &amp;lsquo;01&amp;rsquo; vor und wird bei mehreren Personen im selben Haus oder bei ambulanter Betreuung verwendet.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;Leistungspunkte&lt;/em&gt;&lt;/strong&gt; heißt eine weitere Maßnahme, mit der Leistungen erfasst werden können. Z.B. bei einer telefonischen Beratung einer betreuten Person. Diese Maßnahme erstellt keine automatischen Vorschläge, weshalb darauf zu achten ist, dass jedenfalls die Leistungspunkte &amp;lsquo;01&amp;rsquo; und &amp;lsquo;15&amp;rsquo; gewählt werden.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;Beratung persönlich (31)&lt;/em&gt;&lt;/strong&gt; und &lt;strong&gt;&lt;em&gt;Beratung telefonischen (33)&lt;/em&gt;&lt;/strong&gt; dürfen nur beim &amp;lsquo;Berartungsklient&amp;rsquo; verwendet werden! Umgekehrt dürfen beim &amp;lsquo;Beratungsklient&amp;rsquo; alle anderen Leistungen nicht verwendet werden.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;leistungspunkte-vordefinieren&#34;&gt;Leistungspunkte vordefinieren&lt;/h3&gt;
-
-&lt;p&gt;Falls die Vorschläge trotz aktueller Pflegeplanung nicht passend sind, können diese beim Menüpunkt &lt;code&gt;Pflegeplan&lt;/code&gt; bei der Maßnahme &lt;em&gt;Hausbesuch&lt;/em&gt; im Feld &lt;code&gt;LP&lt;/code&gt; vordefiniert werden. Wird dort z.B. &lt;em&gt;1,5,5,15&lt;/em&gt; eingetragen, wird neben &amp;lsquo;01&amp;rsquo; und &amp;lsquo;15&amp;rsquo; auch zwei Mal der Leistungspunkt &amp;lsquo;05&amp;rsquo; vorgeschlagen. Zu beachten ist, dass bei der vordefinierten Variante die zusätzlich dokumentierten Maßnahmen bei den Leistungspunkten manuell ergänzt werden müssen. Daher sollte das Anpassen der Pflegeplanung für passendere Leistungspunkte-Vorschläge bevorzugt werden.&lt;/p&gt;
-
-&lt;h2 id=&#34;pflegeberichte&#34;&gt;Pflegeberichte&lt;/h2&gt;
-
-&lt;p&gt;Wie beim Thema &lt;a href=&#34;#durchführungsnachweis&#34;&gt;Durchführungsnachweis&lt;/a&gt; erwähnt, kann zu jeder dokumentierten Maßnahme eine Notiz geschrieben werden. Passt eine Information jedoch zu keiner Maßnahme, betrifft sie einen längeren Zeitraum, ist sie eher lang oder soll sie besonders hervorgehoben werden, dann sollte ein Bericht geschrieben werden.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Programmbereich &lt;code&gt;Pflege&lt;/code&gt; Menüpunkt &lt;code&gt;Aufträge&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Person in der Klientenliste wählen und &lt;code&gt;Bericht schreiben&lt;/code&gt; klicken.&lt;/li&gt;
-&lt;li&gt;Standard ist die Kategorie &lt;code&gt;Ereignis&lt;/code&gt;, womit Datum und Uhrzeit gewählt werden können. Wähen Sie die Kategorie &lt;code&gt;Information&lt;/code&gt;, um einen Zeitraum an zu geben, für den dieser Bericht gilt und für den er bei den entsprechenden Übersichten angezeigt werden soll.&lt;/li&gt;
-&lt;li&gt;Die Angabe vom &lt;code&gt;Stichwort&lt;/code&gt; ist verpflichtend. Es sollte den Inhalt des Berichts möglichst prägnant beschreiben.&lt;/li&gt;
-&lt;li&gt;Der Berichtstext kann formatiert werden&lt;/li&gt;
-&lt;li&gt;Mit &lt;code&gt;Ok&lt;/code&gt; wird der Bericht gespeichert&lt;/li&gt;
-&lt;li&gt;Danach kann durch Klicken auf das Stichwort ein einzelner Bericht gedruckt werden.&lt;/li&gt;
-&lt;li&gt;Beim Menüpunkt &lt;code&gt;Dossier&lt;/code&gt; können Berichte einer Person gefiltert und angezeigt werden.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Durchführungsnachweis  Programmbereich Pflege Menüpunkt Aufträge. Person in der Klientenliste wählen. Datum des betreffenden Tages klicken. Im Dialogfenster werden die geplanten und noch nicht dokumentierten Aufträge angezeigt. Mit den Schaltflächen bei jeder Maßnahme wird dokumentiert, verschoben oder begründet, warum die Tätigkeit nicht durchgeführt werden konnte. Zusätzlich durchgeführte Maßnahmen werden durch Tippen in das Suchfeld zusätzliche Maßnahme dokumentierten oder durch Verwendung der Schaltflächen Katalog oder Planung der Liste hinzugefügt. Bei jeder dokumentierten Maßnahme besteht die Möglichkeit zur Erfassung einer Notiz.</description>
     </item>
     
   </channel>

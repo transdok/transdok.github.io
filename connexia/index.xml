@@ -1,94 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Connexia-rsses on transdok HKPV Dokumentation</title>
-    <link>https://transdok.github.io/connexia/index.xml</link>
-    <description>Recent content in Connexia-rsses on transdok HKPV Dokumentation</description>
+    <title>Connexia on transdok HKPV Dokumentation</title>
+    <link>https://transdok.github.io/connexia/</link>
+    <description>Recent content in Connexia on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Fri, 13 Jan 2017 10:00:00 +0200</lastBuildDate>
-    <atom:link href="https://transdok.github.io/connexia/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://transdok.github.io/connexia/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Connexia</title>
+      <title>connexia</title>
       <link>https://transdok.github.io/connexia/</link>
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
       <guid>https://transdok.github.io/connexia/</guid>
-      <description>
-
-&lt;h2 id=&#34;betreuungsbeginn&#34;&gt;Betreuungsbeginn&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bereits einmal bei Connexia gemeldete Personen, sollten bei erneutem Betreuungsbeginn mit derselben Adressnummer gemeldet werden. Um dies zu gewährleisten ist es &lt;strong&gt;wichtig, den &lt;a href=&#34;../klienten/#betreuungsbeginn&#34;&gt;hier&lt;/a&gt; beschriebenen Ablauf&lt;/strong&gt; einzuhalten. Danach ist der Klient in &lt;em&gt;transdok&lt;/em&gt; erfasst und es kann mit nachfolgend beschriebenen Schritten fortgefahren werden.&lt;/li&gt;
-&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Klienten&lt;/code&gt; wählen und bei &lt;em&gt;Connexia-Stammdaten&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken.&lt;/li&gt;
-&lt;li&gt;Die Daten im Formular eingeben, wobei unbedingt die &lt;em&gt;Mitgliedsnummer&lt;/em&gt; und &lt;em&gt;Vereinsnummer&lt;/em&gt; eingegeben sein muss, sofern Selbstbehalte verrechnet werden. Bei &lt;em&gt;Connexia Adressen-Nr&lt;/em&gt; nichts eingeben, weil dies beim Datenabgleich automatisch erfolgt.&lt;/li&gt;
-&lt;li&gt;Um die &lt;strong&gt;Meldungsdaten&lt;/strong&gt; zu erfassen, muss zuerst ein &lt;strong&gt;Datum&lt;/strong&gt; gewählt werden. Bei Betreuungsbeginn muss dieses Datum mit dem &lt;strong&gt;Tag der ersten Leistung&lt;/strong&gt; übereinstimmen.&lt;/li&gt;
-&lt;li&gt;Wird in der Liste ein &lt;code&gt;Feld&lt;/code&gt; gewählt, kann danach der &lt;code&gt;Wert&lt;/code&gt; gewählt werden. Zum Hinzufügen kann man die Schaltfläche &lt;code&gt;hinzufügen&lt;/code&gt; klicken oder auf dem &lt;code&gt;Wert&lt;/code&gt; doppelklicken. Erfasst sind jene Werte, die bei &lt;em&gt;vorhandene Daten&lt;/em&gt; stehen.&lt;/li&gt;
-&lt;li&gt;Erfasste Werte können durch Klicken von &lt;code&gt;X&lt;/code&gt; gelöscht werden. Auch möglich ist es, nachträglich in der Liste das Datum (rot unterstrichen im Bild unten) für alle Einträge zu diesem Datum zu ändern:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/connexiastammdatendatum.jpg&#34; alt=&#34;Connexia-Stammdaten Datum ändern&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;datenabgleich&#34;&gt;Datenabgleich&lt;/h2&gt;
-
-&lt;p&gt;Der Datenabgleich erfolgt im Programmbereich &lt;code&gt;Connexia&lt;/code&gt; beim Menüpunkt &lt;code&gt;Datenabgleich&lt;/code&gt; beim Register &lt;code&gt;exportieren&lt;/code&gt;. Er hält den Datenbestand zwischen &lt;em&gt;transdok&lt;/em&gt; und dem Connexia-Programm synchron. Folgende Aspekte sind zu beachten:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Die Daten sollten möglichst regelmäßig (zumindest alle paar Tage) abgeglichen werden.&lt;/li&gt;
-&lt;li&gt;Bei Personen, die in &lt;em&gt;transdok&lt;/em&gt; vorhanden sind, dürfen im Connexia-Programm keine Änderungen bei den Stammdaten oder Dok-Daten mehr erfolgen. Allerdings dürfen im Connexia-Programm weiterhin Leistungen oder GKK-Bestellungen erfasst werden.&lt;/li&gt;
-&lt;li&gt;In &lt;em&gt;transdok&lt;/em&gt; erfasste Leistungen dürfen nicht am selben Tag für denselben Klient auch im Connexia-Programm erfasst werden.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;vorgehen&#34;&gt;Vorgehen&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Durch das Klicken auf die Schaltfläche &lt;code&gt;Daten abgleichen&lt;/code&gt; wird der Datenbestand zwischen &lt;em&gt;transdok&lt;/em&gt; und dem Connexia-Programm verglichen. Dabei passieren noch keine Änderungen.&lt;/li&gt;
-&lt;li&gt;Alle Differenzen werden im Detail angezeigt. Insbesondere bei den Stammdaten sollte der Inhalt beachtet werden. Z.B. sollten keine Namen überschrieben werden oder Adressen nur dann geändert werden, wenn die Person wirklich umgezogen ist, usw.&lt;/li&gt;
-&lt;li&gt;Beachten Sie die links angezeigten Fehler und Warnungen. &lt;em&gt;Nur wenn alle Fehler behoben sind, kann weiter abgeglichen werden&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Durch das Klicken von &lt;code&gt;ausführen&lt;/code&gt; bei den einzelnen Änderungspaketen oder &lt;code&gt;alles ausführen&lt;/code&gt; unten links, werden die Änderungen ausgeführt, indem die Daten in das Connexia-Programm geschrieben werden. Es kann jederzeit das Connexia-Programm geöffnet werden, um nach zu sehen, ob die Daten ergänzt bzw. aktualisiert wurden.&lt;/li&gt;
-&lt;li&gt;Das Klicken auf die Schaltfläche &lt;code&gt;Daten abgleichen&lt;/code&gt; (die im weiteren Ablauf auch &lt;code&gt;Klientenliste&lt;/code&gt;, &lt;code&gt;Stammdaten&lt;/code&gt; oder &lt;code&gt;Leistungendaten abgleichen&lt;/code&gt; heißt) und das Ausführen der Änderungen muss so lange &lt;strong&gt;wiederholt werden&lt;/strong&gt;, bis die Schaltfläche die Beschriftung &lt;code&gt;keine Daten mehr abzugleichen&lt;/code&gt; hat. Sollte dies nicht gelingen, kontaktieren Sie den Support.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;fehlerbehebungen&#34;&gt;Fehlerbehebungen&lt;/h3&gt;
-
-&lt;p&gt;Angezeigte Fehler werden durch Änderungen der Daten in &lt;em&gt;transdok&lt;/em&gt; behoben. Danach muss das zuvor beschriebene Vorgehen zum Datenabgleich wiederholt werden. Nachfolgend einige Hinweise zu bestimmten Fehlerbehebungen:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Keine Leistung am Betreuungsbeginn&lt;/em&gt;: Das Datum der Meldungsdaten (Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Klienten&lt;/code&gt; wählen und bei &lt;em&gt;Connexia-Stammdaten&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken) muss mit dem Tag der ersten Leistung übereinstimmen. Entweder muss hier das Datum auf den Tag der ersten Leitung geändert werden (Datum anklicken und ändern) oder es muss für dieses Datum eine Leistung erfasst werden (z.B. 01 und 15).&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Leistung liegt außerhalb des Betreuungszeitraums&lt;/em&gt;: Für diesen Fehler gilt dasselbe wie für den zuvor beschriebenen Fehler. Auch das Vorgehen zur Lösung ist dasselbe.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Leistung unvollständig&lt;/em&gt;: Leistungen können auch für andere MitarbeiterInnen korrigiert werden. Dazu beim Programmbereich &lt;code&gt;Connexia&lt;/code&gt; den Menüpunkt &lt;code&gt;Bearbeiten&lt;/code&gt; wählen, sowie MitarbeiterIn und Datum auswählen. Durch das Klicken der Änderungsschaltfläche, kann ein Eintrag korrigiert werden.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;ungültige Beratungsleistungen&lt;/em&gt;: Die Leistungen 31 bis 34 dürfen nur beim &amp;lsquo;Klient&amp;rsquo; mit der Bezeichnung &amp;lsquo;Beratung&amp;rsquo; verwendet werden. Bei Beratungen von erfassten Personen, muss z.B. 01 und 15 verwendet werden. Korrigiert werden die falschen Leistungen wie beim zuvor beschriebenen Fehler, indem die Anzahl auf 0 gesetzt wird und die entsprechende MitarbeiterIn die Dokumentation nachholt.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Die Einträge sind nicht kumuliert&lt;/em&gt;: Dieser Fehler bedeutet, dass für denselben Klient am selben Tag im Connexia-Programm und in &lt;em&gt;transdok&lt;/em&gt; dieselben Leistungen erfasst wurden. Er wird korrigiert, indem im Connexia-Programm die doppelten Einträge (&lt;strong&gt;immer beide&lt;/strong&gt;!) gelöscht werden und die Daten in &lt;em&gt;transdok&lt;/em&gt; neue abgeglichen werden. Um sicher alle Leistungen wieder zu übertragen, wird hierfür beim Programmbereich &lt;code&gt;Connexia&lt;/code&gt; beim Menüpunkt &lt;code&gt;Datenabgleich&lt;/code&gt; die Schaltfläche &lt;code&gt;alle Leistungen der letzten 40 Tage prüfen&lt;/code&gt; verwendet.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;ungültige Pflegernummer&lt;/em&gt;: Eine MitarbeiterIn hat keine Connexia-Pflegernummer eingetragen. Im Programmbereich &lt;code&gt;Connexia&lt;/code&gt; den Menüpunkt &lt;code&gt;Mitarbeiter&lt;/code&gt; wählen, sowie die entsprechende Person in der Liste auswählen und die Nummer eingeben. Es ist dieselbe Nummer (&lt;strong&gt;ohne Minuszeichen&lt;/strong&gt;) mit der die Person auch ins Connexia-Programm einsteigen kann. Auch dort sollte die Person bei &lt;code&gt;Systemverwaltung&lt;/code&gt; &amp;gt; &lt;code&gt;Pflegepersonal&lt;/code&gt; eintragen sein.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;monatliche-meldung&#34;&gt;monatliche Meldung&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Programmbereich &lt;code&gt;Connexia&lt;/code&gt; Menüpunkt &lt;code&gt;Datenabgleich&lt;/code&gt; Register &lt;code&gt;exportieren&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Der zuvor beschriebene &lt;a href=&#34;#datenabgleich&#34;&gt;Datenabgleich&lt;/a&gt; muss vollständig ausgeführt sein, so dass die Schaltfläche &lt;code&gt;Daten abgleichen&lt;/code&gt; mit &lt;code&gt;keine Daten mehr abzugleichen&lt;/code&gt; beschriftet ist.&lt;/li&gt;
-&lt;li&gt;Die Schaltfläche &lt;code&gt;alle Stammdaten abgleichen&lt;/code&gt; klicken und die Änderungen ausführen, bis keine Änderungen mehr angezeigt werden.&lt;/li&gt;
-&lt;li&gt;Die Schaltfläche &lt;code&gt;alle Leistungen der letzten 40 Tage prüfen&lt;/code&gt; klicken und die Änderungen ausführen, bis keine Änderungen mehr angezeigt werden.&lt;/li&gt;
-&lt;li&gt;Die Schaltfläche &lt;code&gt;mit comille prüfen&lt;/code&gt; klicken. Damit öffnet sich ein Prüfprogramm, das die Daten durch Klicken von &lt;code&gt;jetzt überprüfen&lt;/code&gt; direkt im Connexia-Programm prüft. Die angezeigten Fehler müssen in &lt;em&gt;transdok&lt;/em&gt; behoben werden und die Daten erneut abgeglichen. Wurde eine Person noch nicht ins &lt;em&gt;transdok&lt;/em&gt; importiert oder die Leistungen im Connexia-Programm erfasst, müssen die Fehler im Connexia-Programm behoben werden. Danach wird erneut die Schaltfläche &lt;code&gt;jetzt überprüfen&lt;/code&gt; geklickt. Erst wenn keine Fehler mehr angezeigt werden, darf mit den nächsten Schritten fortgefahren werden. Sollte dies nicht gelingen, kontaktieren Sie den Support.&lt;/li&gt;
-&lt;li&gt;Das Connexia-Programm öffnen, einloggen und &lt;code&gt;Systemverwaltung&lt;/code&gt; &amp;gt; &lt;code&gt;Datenträger Connexia&lt;/code&gt; klicken. Das Datum bei &lt;code&gt;Auswahl bis&lt;/code&gt; auf den letzten Tag des zu meldenden Monats setzen und &lt;code&gt;Datenträger vorbereiten&lt;/code&gt; klicken. Achten Sie auf die in der darunterstehenden Tabelle neu eingetragene oberste Zeile. Vor allem die Anzahl in der Spalte &lt;code&gt;LST&lt;/code&gt; sollte jeden Monat in etwa dieselbe sein. Durch Klicken von &lt;code&gt;zurück&lt;/code&gt; kann das Programm wieder verlassen werden.&lt;/li&gt;
-&lt;li&gt;Das GNV-Programm starten und die Einträge senden. Damit werden die Daten an Connexia übermittelt.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;betreuungsende&#34;&gt;Betreuungsende&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Programmbereich &lt;code&gt;Verwaltung&lt;/code&gt; Menüpunkt &lt;code&gt;Klienten&lt;/code&gt; wählen und bei &lt;em&gt;Connexia-Stammdaten&lt;/em&gt; auf &lt;code&gt;ändern&lt;/code&gt; klicken.&lt;/li&gt;
-&lt;li&gt;Das Datum vom Betreuungsende wählen und das &lt;code&gt;Feld&lt;/code&gt; &lt;em&gt;Ende der Pflege wegen&lt;/em&gt; mit dem entsprechenden &lt;code&gt;Wert&lt;/code&gt; durch Doppelklicken oder &lt;code&gt;hinzufügen&lt;/code&gt; erfassen.&lt;/li&gt;
-&lt;li&gt;Zusätzlich wird der Klient ins Archiv verschoben. Lesen Sie &lt;a href=&#34;../klienten/#betreuungsende&#34;&gt;hier&lt;/a&gt; mehr dazu.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;admonition note&#34;&gt;
-&lt;p class=&#34;admonition-title&#34;&gt;Leistungen nach Betreuungsende&lt;/p&gt;
-&lt;p&gt;Leistungen dürfen auch nach Betreuungsende noch erfasst werden. Sie werden beim Datenabgleich auch dann berücksichtigt, wenn die Person bereits ins Archiv verschoben wurde.&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <description>Betreuungsbeginn  Bereits einmal bei connexia gemeldete Personen, sollten bei erneutem Betreuungsbeginn mit derselben Adressnummer gemeldet werden. Um dies zu gewährleisten ist es wichtig, den hier beschriebenen Ablauf einzuhalten. Danach ist der Klient in transdok erfasst und es kann mit nachfolgend beschriebenen Schritten fortgefahren werden. Programmbereich Verwaltung Menüpunkt Klienten wählen und bei connexia-Stammdaten auf ändern klicken. Die Daten im Formular eingeben, wobei unbedingt die Mitgliedsnummer und Vereinsnummer eingegeben sein muss, sofern Selbstbehalte verrechnet werden.</description>
     </item>
     
   </channel>
