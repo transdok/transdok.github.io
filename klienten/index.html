@@ -254,6 +254,24 @@
 </li>
 
 
+
+<li>
+  
+    
+
+
+
+<a  title="pflegebeitrag" href="https://transdok.github.io/pflegebeitrag/">
+	
+	pflegebeitrag
+</a>
+
+
+
+  
+</li>
+
+
         </ul>
         
 
@@ -277,42 +295,38 @@
 
 <h2 id="betreuungsbeginn">Betreuungsbeginn</h2>
 
-<p>Folgender Ablauf sollte eingehalten werden:</p>
+<p>Eine Neu- oder Wiederaufnahme eines Klienten erfolgt in folgenden Schritten:
+* Im Programmbereich <code>Verwaltung</code> bei <em>Klienten</em> die Schaltfläche <code>anlegen</code> wählen.
+* Während dem Tippen von <code>Nachname</code> und <code>Vorname</code> sucht <em>transdok</em> bestehende Einträge in <em>transdok</em> und - falls verwendet - in der <strong>transdok-Vereinsverwaltung</strong>. Die Ergebnisse werden unter den Eingabefelder angezeigt.
+* Wird ein passender Eintrag gefunden, kann dieser ausgewählt und mit der danach angezeigten Schaltfläche <code>vorhandenen Eintrag übernehmen</code> übernommen werden.
+* Hier ein Beispiel für die Übernahme einer Klientin, die bereits einmal in <em>transdok</em> erfasst wurde:</p>
 
-<h3 id="schritt-1-wurde-die-person-in-transdok-schon-erfasst">Schritt 1: Wurde die Person in <em>transdok</em> schon erfasst?</h3>
+<p><img src="https://transdok.github.io/images/pflegeklientneu-transdok.gif" alt="Klient transdok" /></p>
 
 <ul>
-<li>Programmbereich <code>Verwaltung</code> Menüpunkt <code>Klienten</code> wählen.</li>
-<li>In der Klientenliste prüfen, ob die Person bereits vorhanden ist.
+<li>Hier ein Beispiel für die Übernahme einer Klientin aus der <strong>transdok-Vereinsverwaltung</strong> (<code>vmgr</code> steht für <em>Vereinsmanager</em>)</li>
+</ul>
+
+<p><img src="https://transdok.github.io/images/pflegeklientneu-vmgr.gif" alt="Klient Vereinsmanager" /></p>
+
+<ul>
+<li>Wird kein passender Eintrag gefunden, der übernommen werden könnte, ist die Person weder in <em>transdok</em> noch in der <em>Vereinsverwaltung</em> erfasst. Es müssen dann alle Felder ausgefüllt werden, damit die Schaltfläche <code>neuen Eintrag erstellen</code> erscheint und damit die Person in <em>transdok</em> neu angelegt werden kann.</li>
+</ul>
+
+<p><img src="https://transdok.github.io/images/pflegeklientneu-neu.gif" alt="Klient neu" /></p>
+
+<ul>
+<li>Beachten Sie, dass neu erstellte Personen nicht automatisch in die <em>Vereinsverwaltung</em> übertragen werden. Die Person kann im <em>Vereinsmanager</em> aber später erfasst und dann zugeordnet werden. Lesen Sie dazu <a href="../pflegebeitrag/#zuordnung">hier bei Zuordnung</a> weiter.</li>
+</ul>
+
 <div class="admonition note">
 <p class="admonition-title"></p>
-<p><strong>Tipp:</strong> Verwenden Sie die das Suchfeld in der Menüleiste.</p>
-</div></li>
-<li>Oberhalb der Klientenliste den Bereich auf <em>Vereinsname.Archiv</em> ändern und ebenfalls prüfen, ob die Person vorhanden ist</li>
-<li>Ist die Person in der Liste: Person auswählen &gt; bei <em>Stammdaten</em> auf <code>ändern</code> klicken &gt; das Register <code>Bereiche</code> wählen &gt; den zugeordneten Archiv-Bereich mittels <code>X</code> löschen und den Pflege-Bereich durch Anklicken zuordnen.</li>
-<li>Ist die Person nicht in der Liste: mit nächstem Schritt fortfahren.</li>
-</ul>
-
-<h3 id="schritt-2-kann-die-person-aus-dem-connexia-programm-importiert-werden">Schritt 2: Kann die Person aus dem connexia-Programm importiert werden?</h3>
-
-<ul>
-<li>Programmbereich <code>connexia</code> Menüpunkt <code>Datenabgleich</code> Register <code>importieren</code> wählen.</li>
-<li>Die Liste zeigt alle Personen des connexia-Programms, die noch nicht importiert wurden.</li>
-<li>Ist die Person in der Liste: Ein Häkchen am Beginn der entsprechenden Zeile setzen und <code>als neue Adresse jetzt importieren</code> klicken.</li>
-<li>Ist die Person nicht in der Liste: mit nächstem Schritt fortfahren.</li>
-</ul>
-
-<h3 id="schritt-3-person-neu-anlegen">Schritt 3: Person neu anlegen</h3>
-
-<ul>
-<li>Programmbereich <code>Verwaltung</code> Menüpunkt <code>Klienten</code> und daneben <code>anlegen</code> wählen.</li>
-<li>Daten für die Person erfassen und mit Klicken von <code>Ok</code> speichern.</li>
-</ul>
-
-<div class="admonition note">
-<p class="admonition-title">connexia-Stammdaten</p>
-<p>Bei Betreuungsbeginn müssen auch die connexia-Stammdaten erfasst werden. Lesen Sie <a href="../connexia/#betreuungsbeginn">hier</a> mehr dazu.</p>
+<p>Erstellen Sie neue Personen nach Möglichkeit zuerst in der <em>transdok-Vereinsverwaltung</em>.</p>
 </div>
+
+<ul>
+<li>Die Neu- oder Wiederaufnahme ist erst abgeschlossen, wenn das Dialogfenster mit <code>Ok</code> geschlossen und damit die Person gespeichert wurde.</li>
+</ul>
 
 <h2 id="betreuungsende">Betreuungsende</h2>
 
@@ -322,12 +336,7 @@
 <li>Person auswählen &gt; bei <em>Stammdaten</em> auf <code>ändern</code> klicken &gt; das Register <code>Bereiche</code> wählen &gt; den zugeordneten Pflege-Bereich mittels <code>X</code> löschen und den Arichv-Bereich durch Anklicken zuordnen.</li>
 </ul>
 
-<p>Aufgrund von Pflegeplänen werden keine zusätzlichen Daten generiert. Ein Löschen derselben bei Betreuungsende ist daher nicht notwendig.</p>
-
-<div class="admonition note">
-<p class="admonition-title">connexia-Stammdaten</p>
-<p>Bei Betreuungsende müssen auch die connexia-Stammdaten ergänzt werden. Lesen Sie <a href="../connexia/#betreuungsende">hier</a> mehr dazu.</p>
-</div>
+<p>Aufgrund von Pflegeplänen werden keine zusätzlichen Daten generiert. Ein Löschen derselben bei Betreuungsende ist daher nicht notwendig. Erfasste Leistungspunkte werden auch für Personen im Archiv-Bereich an Connexia gesendet und in der Vereinsverwaltung abgerechnet.</p>
 
 
 

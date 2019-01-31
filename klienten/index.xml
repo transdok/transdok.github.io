@@ -18,9 +18,7 @@
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
       <guid>https://transdok.github.io/klienten/</guid>
-      <description>Betreuungsbeginn Folgender Ablauf sollte eingehalten werden:
-Schritt 1: Wurde die Person in transdok schon erfasst?  Programmbereich Verwaltung Menüpunkt Klienten wählen. In der Klientenliste prüfen, ob die Person bereits vorhanden ist. Tipp: Verwenden Sie die das Suchfeld in der Menüleiste.
- Oberhalb der Klientenliste den Bereich auf Vereinsname.Archiv ändern und ebenfalls prüfen, ob die Person vorhanden ist Ist die Person in der Liste: Person auswählen &amp;gt; bei Stammdaten auf ändern klicken &amp;gt; das Register Bereiche wählen &amp;gt; den zugeordneten Archiv-Bereich mittels X löschen und den Pflege-Bereich durch Anklicken zuordnen.</description>
+      <description>Betreuungsbeginn Eine Neu- oder Wiederaufnahme eines Klienten erfolgt in folgenden Schritten: * Im Programmbereich Verwaltung bei Klienten die Schaltfläche anlegen wählen. * Während dem Tippen von Nachname und Vorname sucht transdok bestehende Einträge in transdok und - falls verwendet - in der transdok-Vereinsverwaltung. Die Ergebnisse werden unter den Eingabefelder angezeigt. * Wird ein passender Eintrag gefunden, kann dieser ausgewählt und mit der danach angezeigten Schaltfläche vorhandenen Eintrag übernehmen übernommen werden.</description>
     </item>
     
   </channel>

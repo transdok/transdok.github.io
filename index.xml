@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
-    <lastBuildDate>Mon, 16 Jan 2017 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://transdok.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>pflegebeitrag</title>
+      <link>https://transdok.github.io/pflegebeitrag/</link>
+      <pubDate>Tue, 29 Jan 2019 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/pflegebeitrag/</guid>
+      <description>Freigabe Bevor der Pflegebeitrag für einen bestimmten Monat abgerechnet werden kann, muss der Monat freigegeben werden. Dies wird wie folgt durchgeführt: * Im Programmbereich Verwaltung den Menüpunkt Pflegebeitrag wählen. * In der linken Liste die Zeile des Monats wählen (allfällige kurze Verzögerung aufgrund der Berechnungen abwarten).
+ Bei Abweichungen von Name oder Adresse zwischen der Person in Pflege und der zugeordneten zahlenden Person aus der transdok-Vereinsverwaltung, wird dies angezeigt. Im Beispiel oben ist bei Löwenzahn Hugo die Löwenzahn Hedwig als Rechnungsempfängerin mit abweichender Anschrift zugeordnet.</description>
+    </item>
     
     <item>
       <title>Durchführung</title>
@@ -48,7 +58,7 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       
       <guid>https://transdok.github.io/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-Links  Für das Vorgehen bei Betreuungsbeginn hier weiterlesen &amp;hellip; Für eine Anleitung über die monatliche Meldung an connexia hier weiterlesen &amp;hellip; Bei Login-Problemen hier weiterlesen &amp;hellip; Bei neuen MitarbeiterInnen hier weiterlesen &amp;hellip; Aktueller Funktionsumfang  Infos  Vorgehen bei Mitarbeiter-Namensänderungen: Die Änderung wird zuerst durch die Identitätsstelle (connexia) durchgeführt. Danach erfolgt beim nächsten Login eine Nachfrage, ob die Änderung korrekt ist, die mit ja beantwortet werden kann.</description>
+Links  NEU beschrieben ist die Freigabe der Pflegebeiträge für die transdok-Vereinsverwaltung hier weiterlesen &amp;hellip; Für das NEUE Vorgehen bei Betreuungsbeginn hier weiterlesen &amp;hellip; Für eine Anleitung über die monatliche Meldung an connexia hier weiterlesen &amp;hellip; Bei Login-Problemen hier weiterlesen &amp;hellip; Bei neuen MitarbeiterInnen hier weiterlesen &amp;hellip; Aktueller Funktionsumfang  Infos  Vorgehen bei Mitarbeiter-Namensänderungen: Die Änderung wird zuerst durch die Identitätsstelle (connexia) durchgeführt.</description>
     </item>
     
     <item>
@@ -57,9 +67,7 @@ Links  Für das Vorgehen bei Betreuungsbeginn hier weiterlesen &amp;hellip; Für
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
       <guid>https://transdok.github.io/klienten/</guid>
-      <description>Betreuungsbeginn Folgender Ablauf sollte eingehalten werden:
-Schritt 1: Wurde die Person in transdok schon erfasst?  Programmbereich Verwaltung Menüpunkt Klienten wählen. In der Klientenliste prüfen, ob die Person bereits vorhanden ist. Tipp: Verwenden Sie die das Suchfeld in der Menüleiste.
- Oberhalb der Klientenliste den Bereich auf Vereinsname.Archiv ändern und ebenfalls prüfen, ob die Person vorhanden ist Ist die Person in der Liste: Person auswählen &amp;gt; bei Stammdaten auf ändern klicken &amp;gt; das Register Bereiche wählen &amp;gt; den zugeordneten Archiv-Bereich mittels X löschen und den Pflege-Bereich durch Anklicken zuordnen.</description>
+      <description>Betreuungsbeginn Eine Neu- oder Wiederaufnahme eines Klienten erfolgt in folgenden Schritten: * Im Programmbereich Verwaltung bei Klienten die Schaltfläche anlegen wählen. * Während dem Tippen von Nachname und Vorname sucht transdok bestehende Einträge in transdok und - falls verwendet - in der transdok-Vereinsverwaltung. Die Ergebnisse werden unter den Eingabefelder angezeigt. * Wird ein passender Eintrag gefunden, kann dieser ausgewählt und mit der danach angezeigten Schaltfläche vorhandenen Eintrag übernehmen übernommen werden.</description>
     </item>
     
     <item>
@@ -102,7 +110,7 @@ Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zug
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
       <guid>https://transdok.github.io/connexia/</guid>
-      <description>Betreuungsbeginn  Bereits einmal bei connexia gemeldete Personen, sollten bei erneutem Betreuungsbeginn mit derselben Adressnummer gemeldet werden. Um dies zu gewährleisten ist es wichtig, den hier beschriebenen Ablauf einzuhalten. Danach ist der Klient in transdok erfasst und es kann mit nachfolgend beschriebenen Schritten fortgefahren werden. Programmbereich Verwaltung Menüpunkt Klienten wählen und bei connexia-Stammdaten auf ändern klicken. Die Daten im Formular eingeben, wobei unbedingt die Mitgliedsnummer und Vereinsnummer eingegeben sein muss, sofern Selbstbehalte verrechnet werden.</description>
+      <description>Betreuungsbeginn  Programmbereich Verwaltung Menüpunkt Klienten wählen und bei connexia-Stammdaten auf ändern klicken. Die Daten im Formular eingeben, wobei unbedingt die Mitgliedsnummer und Vereinsnummer eingegeben sein muss, sofern Selbstbehalte verrechnet werden. Bei connexia Adressen-Nr nichts eingeben, weil dies beim Datenabgleich automatisch erfolgt. Um die Meldungsdaten zu erfassen, muss zuerst ein Datum gewählt werden. Bei Betreuungsbeginn muss dieses Datum mit dem Tag der ersten Leistung übereinstimmen. Wird in der Liste ein Feld gewählt, kann danach der Wert gewählt werden.</description>
     </item>
     
   </channel>

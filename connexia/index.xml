@@ -18,7 +18,7 @@
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
       <guid>https://transdok.github.io/connexia/</guid>
-      <description>Betreuungsbeginn  Bereits einmal bei connexia gemeldete Personen, sollten bei erneutem Betreuungsbeginn mit derselben Adressnummer gemeldet werden. Um dies zu gewährleisten ist es wichtig, den hier beschriebenen Ablauf einzuhalten. Danach ist der Klient in transdok erfasst und es kann mit nachfolgend beschriebenen Schritten fortgefahren werden. Programmbereich Verwaltung Menüpunkt Klienten wählen und bei connexia-Stammdaten auf ändern klicken. Die Daten im Formular eingeben, wobei unbedingt die Mitgliedsnummer und Vereinsnummer eingegeben sein muss, sofern Selbstbehalte verrechnet werden.</description>
+      <description>Betreuungsbeginn  Programmbereich Verwaltung Menüpunkt Klienten wählen und bei connexia-Stammdaten auf ändern klicken. Die Daten im Formular eingeben, wobei unbedingt die Mitgliedsnummer und Vereinsnummer eingegeben sein muss, sofern Selbstbehalte verrechnet werden. Bei connexia Adressen-Nr nichts eingeben, weil dies beim Datenabgleich automatisch erfolgt. Um die Meldungsdaten zu erfassen, muss zuerst ein Datum gewählt werden. Bei Betreuungsbeginn muss dieses Datum mit dem Tag der ersten Leistung übereinstimmen. Wird in der Liste ein Feld gewählt, kann danach der Wert gewählt werden.</description>
     </item>
     
   </channel>
