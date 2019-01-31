@@ -18,8 +18,8 @@
       <pubDate>Tue, 29 Jan 2019 10:00:00 +0200</pubDate>
       
       <guid>https://transdok.github.io/pflegebeitrag/</guid>
-      <description>Freigabe Bevor der Pflegebeitrag für einen bestimmten Monat abgerechnet werden kann, muss der Monat freigegeben werden. Dies wird wie folgt durchgeführt: * Im Programmbereich Verwaltung den Menüpunkt Pflegebeitrag wählen. * In der linken Liste die Zeile des Monats wählen (allfällige kurze Verzögerung aufgrund der Berechnungen abwarten).
- Bei Abweichungen von Name oder Adresse zwischen der Person in Pflege und der zugeordneten zahlenden Person aus der transdok-Vereinsverwaltung, wird dies angezeigt. Im Beispiel oben ist bei Löwenzahn Hugo die Löwenzahn Hedwig als Rechnungsempfängerin mit abweichender Anschrift zugeordnet.</description>
+      <description>Freigabe Bevor der Pflegebeitrag für einen bestimmten Monat abgerechnet werden kann, muss der Monat freigegeben werden. Dies wird wie folgt durchgeführt:
+ Im Programmbereich Verwaltung den Menüpunkt Pflegebeitrag wählen. In der linken Liste die Zeile des Monats wählen (allfällige kurze Verzögerung aufgrund der Berechnungen abwarten).   Bei Abweichungen von Name oder Adresse zwischen der Person in Pflege und der zugeordneten zahlenden Person aus der transdok-Vereinsverwaltung, wird dies angezeigt. Im Beispiel oben ist bei Löwenzahn Hugo die Löwenzahn Hedwig als Rechnungsempfängerin mit abweichender Anschrift zugeordnet.</description>
     </item>
     
     <item>
@@ -67,7 +67,8 @@ Links  NEU beschrieben ist die Freigabe der Pflegebeiträge für die transdok-Ve
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
       <guid>https://transdok.github.io/klienten/</guid>
-      <description>Betreuungsbeginn Eine Neu- oder Wiederaufnahme eines Klienten erfolgt in folgenden Schritten: * Im Programmbereich Verwaltung bei Klienten die Schaltfläche anlegen wählen. * Während dem Tippen von Nachname und Vorname sucht transdok bestehende Einträge in transdok und - falls verwendet - in der transdok-Vereinsverwaltung. Die Ergebnisse werden unter den Eingabefelder angezeigt. * Wird ein passender Eintrag gefunden, kann dieser ausgewählt und mit der danach angezeigten Schaltfläche vorhandenen Eintrag übernehmen übernommen werden.</description>
+      <description>Betreuungsbeginn Eine Neu- oder Wiederaufnahme eines Klienten erfolgt in folgenden Schritten:
+ Im Programmbereich Verwaltung bei Klienten die Schaltfläche anlegen wählen. Während dem Tippen von Nachname und Vorname sucht transdok bestehende Einträge in transdok und - falls verwendet - in der transdok-Vereinsverwaltung. Die Ergebnisse werden unter den Eingabefelder angezeigt. Wird ein passender Eintrag gefunden, kann dieser ausgewählt und mit der danach angezeigten Schaltfläche vorhandenen Eintrag übernehmen übernommen werden. Hier ein Beispiel für die Übernahme einer Klientin, die bereits einmal in transdok erfasst wurde.</description>
     </item>
     
     <item>
