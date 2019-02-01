@@ -293,75 +293,22 @@
 
 			
 
-<h2 id="betreuungsbeginn">Betreuungsbeginn</h2>
-
-<ul>
-<li>Programmbereich <code>Verwaltung</code> Menüpunkt <code>Klienten</code> wählen und bei <em>connexia-Stammdaten</em> auf <code>ändern</code> klicken.</li>
-<li>Die Daten im Formular eingeben, wobei unbedingt die <em>Mitgliedsnummer</em> und <em>Vereinsnummer</em> eingegeben sein muss, sofern Selbstbehalte verrechnet werden. Bei <em>connexia Adressen-Nr</em> nichts eingeben, weil dies beim Datenabgleich automatisch erfolgt.</li>
-<li>Um die <strong>Meldungsdaten</strong> zu erfassen, muss zuerst ein <strong>Datum</strong> gewählt werden. Bei Betreuungsbeginn muss dieses Datum mit dem <strong>Tag der ersten Leistung</strong> übereinstimmen.</li>
-<li>Wird in der Liste ein <code>Feld</code> gewählt, kann danach der <code>Wert</code> gewählt werden. Zum Hinzufügen kann man die Schaltfläche <code>hinzufügen</code> klicken oder auf dem <code>Wert</code> doppelklicken. Erfasst sind jene Werte, die bei <em>vorhandene Daten</em> stehen.</li>
-<li>Erfasste Werte können durch Klicken von <code>X</code> gelöscht werden. Auch möglich ist es, nachträglich in der Liste das Datum (rot unterstrichen im Bild unten) für alle Einträge zu diesem Datum zu ändern:</li>
-</ul>
-
-<p><img src="../images/connexiastammdatendatum.jpg" alt="connexia-Stammdaten Datum ändern" /></p>
-
-<h2 id="datenabgleich">Datenabgleich</h2>
-
-<p>Der Datenabgleich erfolgt im Programmbereich <code>connexia</code> beim Menüpunkt <code>Datenabgleich</code> beim Register <code>exportieren</code>. Er hält den Datenbestand zwischen <em>transdok</em> und dem connexia-Programm synchron. Folgende Aspekte sind zu beachten:</p>
-
-<ul>
-<li>Die Daten sollten möglichst regelmäßig (zumindest alle paar Tage) abgeglichen werden.</li>
-<li>Bei Personen, die in <em>transdok</em> vorhanden sind, dürfen im connexia-Programm keine Änderungen bei den Stammdaten oder Dok-Daten mehr erfolgen. Allerdings dürfen im connexia-Programm weiterhin Leistungen oder GKK-Bestellungen erfasst werden.</li>
-<li>In <em>transdok</em> erfasste Leistungen dürfen nicht am selben Tag für denselben Klient auch im connexia-Programm erfasst werden.</li>
-</ul>
-
-<h3 id="vorgehen">Vorgehen</h3>
-
-<ul>
-<li>Durch das Klicken auf die Schaltfläche <code>Daten abgleichen</code> wird der Datenbestand zwischen <em>transdok</em> und dem connexia-Programm verglichen. Dabei passieren noch keine Änderungen.</li>
-<li>Alle Differenzen werden im Detail angezeigt. Insbesondere bei den Stammdaten sollte der Inhalt beachtet werden. Z.B. sollten keine Namen überschrieben werden oder Adressen nur dann geändert werden, wenn die Person wirklich umgezogen ist, usw.</li>
-<li>Beachten Sie die links angezeigten Fehler und Warnungen. <em>Nur wenn alle Fehler behoben sind, kann weiter abgeglichen werden</em>.</li>
-<li>Durch das Klicken von <code>ausführen</code> bei den einzelnen Änderungspaketen oder <code>alles ausführen</code> unten links, werden die Änderungen ausgeführt, indem die Daten in das connexia-Programm geschrieben werden. Es kann jederzeit das connexia-Programm geöffnet werden, um nach zu sehen, ob die Daten ergänzt bzw. aktualisiert wurden.</li>
-<li>Das Klicken auf die Schaltfläche <code>Daten abgleichen</code> (die im weiteren Ablauf auch <code>Klientenliste</code>, <code>Stammdaten</code> oder <code>Leistungendaten abgleichen</code> heißt) und das Ausführen der Änderungen muss so lange <strong>wiederholt werden</strong>, bis die Schaltfläche die Beschriftung <code>keine Daten mehr abzugleichen</code> hat. Sollte dies nicht gelingen, kontaktieren Sie den Support.</li>
-</ul>
-
-<h3 id="fehlerbehebungen">Fehlerbehebungen</h3>
-
-<p>Angezeigte Fehler werden durch Änderungen der Daten in <em>transdok</em> behoben. Danach muss das zuvor beschriebene Vorgehen zum Datenabgleich wiederholt werden. Nachfolgend einige Hinweise zu bestimmten Fehlerbehebungen:</p>
-
-<ul>
-<li><em>Keine Leistung am Betreuungsbeginn</em>: Das Datum der Meldungsdaten (Programmbereich <code>Verwaltung</code> Menüpunkt <code>Klienten</code> wählen und bei <em>connexia-Stammdaten</em> auf <code>ändern</code> klicken) muss mit dem Tag der ersten Leistung übereinstimmen. Entweder muss hier das Datum auf den Tag der ersten Leitung geändert werden (Datum anklicken und ändern) oder es muss für dieses Datum eine Leistung erfasst werden (z.B. 01 und 15).</li>
-<li><em>Leistung liegt außerhalb des Betreuungszeitraums</em>: Für diesen Fehler gilt dasselbe wie für den zuvor beschriebenen Fehler. Auch das Vorgehen zur Lösung ist dasselbe.</li>
-<li><em>Leistung unvollständig</em>: Leistungen können auch für andere MitarbeiterInnen korrigiert werden. Dazu beim Programmbereich <code>connexia</code> den Menüpunkt <code>Bearbeiten</code> wählen, sowie MitarbeiterIn und Datum auswählen. Durch das Klicken der Änderungsschaltfläche, kann ein Eintrag korrigiert werden.</li>
-<li><em>ungültige Beratungsleistungen</em>: Die Leistungen 31 bis 34 dürfen nur beim &lsquo;Klient&rsquo; mit der Bezeichnung &lsquo;Beratung&rsquo; verwendet werden. Bei Beratungen von erfassten Personen, muss z.B. 01 und 15 verwendet werden. Korrigiert werden die falschen Leistungen wie beim zuvor beschriebenen Fehler, indem die Anzahl auf 0 gesetzt wird und die entsprechende MitarbeiterIn die Dokumentation nachholt.</li>
-<li><em>Die Einträge sind nicht kumuliert</em>: Dieser Fehler bedeutet, dass für denselben Klient am selben Tag im connexia-Programm und in <em>transdok</em> dieselben Leistungen erfasst wurden. Er wird korrigiert, indem im connexia-Programm die doppelten Einträge (<strong>immer beide</strong>!) gelöscht werden und die Daten in <em>transdok</em> neue abgeglichen werden. Um sicher alle Leistungen wieder zu übertragen, wird hierfür beim Programmbereich <code>connexia</code> beim Menüpunkt <code>Datenabgleich</code> die Schaltfläche <code>alle Leistungen der letzten 40 Tage prüfen</code> verwendet.</li>
-<li><em>ungültige Pflegernummer</em>: Eine MitarbeiterIn hat keine connexia-Pflegernummer eingetragen. Im Programmbereich <code>connexia</code> den Menüpunkt <code>Mitarbeiter</code> wählen, sowie die entsprechende Person in der Liste auswählen und die Nummer eingeben. Es ist dieselbe Nummer (<strong>ohne Minuszeichen</strong>) mit der die Person auch ins connexia-Programm einsteigen kann. Auch dort sollte die Person bei <code>Systemverwaltung</code> &gt; <code>Pflegepersonal</code> eintragen sein.</li>
-</ul>
-
 <h2 id="monatliche-meldung">monatliche Meldung</h2>
 
-<ul>
-<li>Programmbereich <code>connexia</code> Menüpunkt <code>Datenabgleich</code> Register <code>exportieren</code></li>
-<li>Der zuvor beschriebene <a href="#datenabgleich">Datenabgleich</a> muss vollständig ausgeführt sein, so dass die Schaltfläche <code>Daten abgleichen</code> mit <code>keine Daten mehr abzugleichen</code> beschriftet ist.</li>
-<li>Die Schaltfläche <code>alle Stammdaten abgleichen</code> klicken und die Änderungen ausführen, bis keine Änderungen mehr angezeigt werden.</li>
-<li>Die Schaltfläche <code>alle Leistungen der letzten 40 Tage prüfen</code> klicken und die Änderungen ausführen, bis keine Änderungen mehr angezeigt werden.</li>
-<li>Die Schaltfläche <code>mit comille prüfen</code> klicken. Damit öffnet sich ein Prüfprogramm, das die Daten durch Klicken von <code>jetzt überprüfen</code> direkt im connexia-Programm prüft. Die angezeigten Fehler müssen in <em>transdok</em> behoben werden und die Daten erneut abgeglichen. Wurde eine Person noch nicht ins <em>transdok</em> importiert oder die Leistungen im connexia-Programm erfasst, müssen die Fehler im connexia-Programm behoben werden. Danach wird erneut die Schaltfläche <code>jetzt überprüfen</code> geklickt. Erst wenn keine Fehler mehr angezeigt werden, darf mit den nächsten Schritten fortgefahren werden. Sollte dies nicht gelingen, kontaktieren Sie den Support.</li>
-<li>Das connexia-Programm öffnen, einloggen und <code>Systemverwaltung</code> &gt; <code>Datenträger connexia</code> klicken. Das Datum bei <code>Auswahl bis</code> auf den letzten Tag des zu meldenden Monats setzen und <code>Datenträger vorbereiten</code> klicken. Achten Sie auf die in der darunterstehenden Tabelle neu eingetragene oberste Zeile. Vor allem die Anzahl in der Spalte <code>LST</code> sollte jeden Monat in etwa dieselbe sein. Durch Klicken von <code>zurück</code> kann das Programm wieder verlassen werden.</li>
-<li>Das GNV-Programm starten und die Einträge senden. Damit werden die Daten an connexia übermittelt.</li>
-</ul>
-
-<h2 id="betreuungsende">Betreuungsende</h2>
+<p>Die monatliche Datenmeldung an <em>connexia</em> erfolgt ab 01.01.2019 direkt in <em>transdok</em></p>
 
 <ul>
-<li>Programmbereich <code>Verwaltung</code> Menüpunkt <code>Klienten</code> wählen und bei <em>connexia-Stammdaten</em> auf <code>ändern</code> klicken.</li>
-<li>Das Datum vom Betreuungsende wählen und das <code>Feld</code> <em>Ende der Pflege wegen</em> mit dem entsprechenden <code>Wert</code> durch Doppelklicken oder <code>hinzufügen</code> erfassen.</li>
-<li>Zusätzlich wird der Klient ins Archiv verschoben. Lesen Sie <a href="../klienten/#betreuungsende">hier</a> mehr dazu.</li>
+<li>Programmbereich <code>connexia</code> Menüpunkt <code>Datenmeldung</code> wählen</li>
+<li>Jeder abgelaufene Monat steht in der Liste und kann gewählt werden</li>
+<li>Nach Auswahl des Monats werden die Daten auf Richtigkeit geprüft</li>
+<li>Angezeigte Fehler müssen behoben werden</li>
 </ul>
 
-<div class="admonition note">
-<p class="admonition-title">Leistungen nach Betreuungsende</p>
-<p>Leistungen dürfen auch nach Betreuungsende noch erfasst werden. Sie werden beim Datenabgleich auch dann berücksichtigt, wenn die Person bereits ins Archiv verschoben wurde.</p>
-</div>
+<p>Info am 01.02.2019: <strong>Das Senden von Daten wird erst in ein paar Tagen möglich sein</strong></p>
+
+<h2 id="datenabgleich-alt">Datenabgleich (alt)</h2>
+
+<p>Der Datenabgleich ist ab 01.01.2019 nur noch für Vereine notwendig, welche ihre Selbstbehalte im alten System verrechnen. Der Abgleich erfolgt im Programmbereich <code>connexia</code> beim Menüpunkt <code>Datenabgleich</code> beim Register <code>exportieren</code>. Die Daten sollten möglichst regelmäßig (zumindest alle paar Tage) abgeglichen werden.</p>
 
 
 

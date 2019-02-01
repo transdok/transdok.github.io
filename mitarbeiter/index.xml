@@ -19,7 +19,7 @@
       
       <guid>https://transdok.github.io/mitarbeiter/</guid>
       <description>Login Voraussetzung für den Login einer Pflegeperson ist der Besitz eines persönlichen Tokens und die Freischaltung des Benutzers im Verein.
- Username und Password angeben und Login klicken Es erscheint ein Bild des Tokens, der jetzt eingesteckt werden muss. Nach dem Einstecken setzt der Login-Vorgang automatisch fort. Der Token kann direkt nach dem Login-Vorgang wieder aus dem USB-Anschluss entfernt werden. Der Benutzer bleibt bis zum Klicken von logout angemeldet.  Login-Problemlösungen  Mit jedem Login muss der Token neu eingesteckt werden.</description>
+ Benutzername und Kennwort angeben und Login klicken Es erscheint die Aufforderung zum Einstecken des Tokens Je nach Token-Modell muss dieser nur eingesteckt oder zusätzlich am Token ein Taster gedrückt werden. Der Token kann direkt nach dem Login-Vorgang wieder aus dem USB-Anschluss entfernt werden. Der Benutzer bleibt bis zum Klicken von logout angemeldet.</description>
     </item>
     
   </channel>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
-    <lastBuildDate>Fri, 13 Jan 2017 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://transdok.github.io/connexia/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,12 @@
     <item>
       <title>connexia</title>
       <link>https://transdok.github.io/connexia/</link>
-      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Feb 2019 10:00:00 +0200</pubDate>
       
       <guid>https://transdok.github.io/connexia/</guid>
-      <description>Betreuungsbeginn  Programmbereich Verwaltung Menüpunkt Klienten wählen und bei connexia-Stammdaten auf ändern klicken. Die Daten im Formular eingeben, wobei unbedingt die Mitgliedsnummer und Vereinsnummer eingegeben sein muss, sofern Selbstbehalte verrechnet werden. Bei connexia Adressen-Nr nichts eingeben, weil dies beim Datenabgleich automatisch erfolgt. Um die Meldungsdaten zu erfassen, muss zuerst ein Datum gewählt werden. Bei Betreuungsbeginn muss dieses Datum mit dem Tag der ersten Leistung übereinstimmen. Wird in der Liste ein Feld gewählt, kann danach der Wert gewählt werden.</description>
+      <description>monatliche Meldung Die monatliche Datenmeldung an connexia erfolgt ab 01.01.2019 direkt in transdok
+ Programmbereich connexia Menüpunkt Datenmeldung wählen Jeder abgelaufene Monat steht in der Liste und kann gewählt werden Nach Auswahl des Monats werden die Daten auf Richtigkeit geprüft Angezeigte Fehler müssen behoben werden  Info am 01.02.2019: Das Senden von Daten wird erst in ein paar Tagen möglich sein
+Datenabgleich (alt) Der Datenabgleich ist ab 01.01.2019 nur noch für Vereine notwendig, welche ihre Selbstbehalte im alten System verrechnen.</description>
     </item>
     
   </channel>

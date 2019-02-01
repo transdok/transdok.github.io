@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
-    <lastBuildDate>Tue, 29 Jan 2019 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://transdok.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>connexia</title>
+      <link>https://transdok.github.io/connexia/</link>
+      <pubDate>Fri, 01 Feb 2019 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/connexia/</guid>
+      <description>monatliche Meldung Die monatliche Datenmeldung an connexia erfolgt ab 01.01.2019 direkt in transdok
+ Programmbereich connexia Menüpunkt Datenmeldung wählen Jeder abgelaufene Monat steht in der Liste und kann gewählt werden Nach Auswahl des Monats werden die Daten auf Richtigkeit geprüft Angezeigte Fehler müssen behoben werden  Info am 01.02.2019: Das Senden von Daten wird erst in ein paar Tagen möglich sein
+Datenabgleich (alt) Der Datenabgleich ist ab 01.01.2019 nur noch für Vereine notwendig, welche ihre Selbstbehalte im alten System verrechnen.</description>
+    </item>
     
     <item>
       <title>pflegebeitrag</title>
@@ -58,7 +69,7 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       
       <guid>https://transdok.github.io/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-Links  NEU beschrieben ist die Freigabe der Pflegebeiträge für die transdok-Vereinsverwaltung hier weiterlesen &amp;hellip; Für das NEUE Vorgehen bei Betreuungsbeginn hier weiterlesen &amp;hellip; Für eine Anleitung über die monatliche Meldung an connexia hier weiterlesen &amp;hellip; Bei Login-Problemen hier weiterlesen &amp;hellip; Bei neuen MitarbeiterInnen hier weiterlesen &amp;hellip; Aktueller Funktionsumfang  Infos  Vorgehen bei Mitarbeiter-Namensänderungen: Die Änderung wird zuerst durch die Identitätsstelle (connexia) durchgeführt.</description>
+kürzliche geänderte Inhalte  NEU beschrieben ist die Freigabe der Pflegebeiträge für die transdok-Vereinsverwaltung hier weiterlesen &amp;hellip; Für das NEUE Vorgehen bei Betreuungsbeginn hier weiterlesen &amp;hellip; Für die NEUE monatliche Meldung an connexia hier weiterlesen &amp;hellip;  Links  Bei neuen MitarbeiterInnen hier weiterlesen &amp;hellip; Aktueller Funktionsumfang  Infos  Vorgehen bei Mitarbeiter-Namensänderungen: Die Änderung wird zuerst durch die Identitätsstelle (connexia) durchgeführt. Danach erfolgt beim nächsten Login eine Nachfrage, ob die Änderung korrekt ist, die mit ja beantwortet werden kann.</description>
     </item>
     
     <item>
@@ -93,7 +104,7 @@ Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zug
       
       <guid>https://transdok.github.io/mitarbeiter/</guid>
       <description>Login Voraussetzung für den Login einer Pflegeperson ist der Besitz eines persönlichen Tokens und die Freischaltung des Benutzers im Verein.
- Username und Password angeben und Login klicken Es erscheint ein Bild des Tokens, der jetzt eingesteckt werden muss. Nach dem Einstecken setzt der Login-Vorgang automatisch fort. Der Token kann direkt nach dem Login-Vorgang wieder aus dem USB-Anschluss entfernt werden. Der Benutzer bleibt bis zum Klicken von logout angemeldet.  Login-Problemlösungen  Mit jedem Login muss der Token neu eingesteckt werden.</description>
+ Benutzername und Kennwort angeben und Login klicken Es erscheint die Aufforderung zum Einstecken des Tokens Je nach Token-Modell muss dieser nur eingesteckt oder zusätzlich am Token ein Taster gedrückt werden. Der Token kann direkt nach dem Login-Vorgang wieder aus dem USB-Anschluss entfernt werden. Der Benutzer bleibt bis zum Klicken von logout angemeldet.</description>
     </item>
     
     <item>
@@ -103,15 +114,6 @@ Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zug
       
       <guid>https://transdok.github.io/pflegeplan/</guid>
       <description>Klient wählen &amp;gt; Menüpunkt Pflegeplan Die Übersicht besteht aus einer tabellenartigen Zusammenfassung der Pflegepläne im oberen Bereich und der Detail-Anzeige im unteren Bereich Ein Pflegeplan besteht aus einem Titel (Pflegediagnose) und einer oder mehreren Maßnahmen Im unten angezeigten Beispiel besteht der &amp;lsquo;Plan 3&amp;rsquo; aus der Pflegediagnose &amp;lsquo;Körperliche Mobilität, beeinträchtigt&amp;rsquo; und den zugehörigen Maßnahmen &amp;lsquo;Gehen begleiten&amp;rsquo; und &amp;lsquo;Bewegungsübungen durchführen&amp;rsquo;. Änderungen zum &amp;lsquo;Plan 3&amp;rsquo; werden über die dort angezeigte Schaltfläche ändern vorgenommen.</description>
-    </item>
-    
-    <item>
-      <title>connexia</title>
-      <link>https://transdok.github.io/connexia/</link>
-      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
-      
-      <guid>https://transdok.github.io/connexia/</guid>
-      <description>Betreuungsbeginn  Programmbereich Verwaltung Menüpunkt Klienten wählen und bei connexia-Stammdaten auf ändern klicken. Die Daten im Formular eingeben, wobei unbedingt die Mitgliedsnummer und Vereinsnummer eingegeben sein muss, sofern Selbstbehalte verrechnet werden. Bei connexia Adressen-Nr nichts eingeben, weil dies beim Datenabgleich automatisch erfolgt. Um die Meldungsdaten zu erfassen, muss zuerst ein Datum gewählt werden. Bei Betreuungsbeginn muss dieses Datum mit dem Tag der ersten Leistung übereinstimmen. Wird in der Liste ein Feld gewählt, kann danach der Wert gewählt werden.</description>
     </item>
     
   </channel>
