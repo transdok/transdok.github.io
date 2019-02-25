@@ -19,8 +19,10 @@
       
       <guid>https://transdok.github.io/connexia/</guid>
       <description>monatliche Meldung Die monatliche Datenmeldung an connexia erfolgt ab 01.01.2019 direkt in transdok
- Programmbereich connexia Menüpunkt Datenmeldung wählen Jeder abgelaufene Monat steht in der Liste und kann gewählt werden Nach Auswahl des Monats werden die Daten auf Richtigkeit geprüft Angezeigte Fehler müssen behoben werden  Info am 01.02.2019: Das Senden von Daten wird erst in ein paar Tagen möglich sein
-Anstellungsverhältnis Neu zu erfassen sind das Anstellungsverhältnis in der Pflege.</description>
+ Programmbereich connexia Menüpunkt Datenmeldung wählen Angezeigte Fehler müssen behoben werden
+  Alle Meldungen müssen &amp;lsquo;grün&amp;rsquo; sein.
+  Anstellungsverhältnis Neu zu erfassen sind das Anstellungsverhältnis in der Pflege. Dies kann im Programmbereich Verwaltung Menüpunkt Mitarbeiter und Stammdaten eingetragen werden. Wählen Sie neuer Eintrag aus.
+Wenn Sie nicht den gesamten Verlauf der Dienstverhältnisse erfassen können oder wollen, geben Sie 01.</description>
     </item>
     
     <item>
