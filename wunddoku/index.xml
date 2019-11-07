@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wunddokus on transdok HKPV Dokumentation</title>
+    <link>https://transdok.github.io/wunddoku/</link>
+    <description>Recent content in Wunddokus on transdok HKPV Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
+    <lastBuildDate>Thu, 07 Nov 2019 16:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://transdok.github.io/wunddoku/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wunddoku</title>
+      <link>https://transdok.github.io/wunddoku/</link>
+      <pubDate>Thu, 07 Nov 2019 16:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/wunddoku/</guid>
+      <description> Bericht mit Formular zur Wundbeschreibung  Einen neuen Pflegebericht erstellen. Auf die Schaltfläche Formular hinzufügen und dann Wundbeschreibung klicken.  Planen mit Formular zur Wundbeschreibung  Einen neuen Plan mit dem Standard &amp;lsquo;# Gewebeintegrität, beeinträchtigt&amp;rsquo; oder &amp;lsquo;# Wunde&amp;rsquo; erstellen. Auf die Schaltfläche Wundbeschreibung klicken.  </description>
+    </item>
+    
+  </channel>
+</rss>
