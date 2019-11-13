@@ -18,8 +18,9 @@
       <pubDate>Thu, 07 Nov 2019 16:00:00 +0200</pubDate>
       
       <guid>https://transdok.github.io/wunddoku/</guid>
-      <description> Bericht mit Formular zur Wundbeschreibung  Einen neuen Pflegebericht erstellen. Auf die Schaltfläche Formular hinzufügen und dann Wundbeschreibung klicken.  Planen mit Formular zur Wundbeschreibung Videoanleitung
- Einen neuen Plan mit dem Standard &amp;lsquo;# Gewebeintegrität, beeinträchtigt&amp;rsquo;, &amp;lsquo;# Wunde&amp;rsquo; oder &amp;lsquo;# Hautschädigung&amp;rsquo; erstellen. Auf die Schaltfläche Wundbeschreibung klicken.  </description>
+      <description>Bericht mit Formular zur Wundbeschreibung  Einen neuen Pflegebericht erstellen. Auf die Schaltfläche Formular hinzufügen und dann Wundbeschreibung klicken.  Pflegediagnosen-Zuordnung
+Wir empfehlen vor dem Erstellen der ersten Beschreibung für eine Wunde das Anlegen einer Pflegediagnose. Diese kann im Formular-Feld Pflegedianose zugeordnet werden. Oder das Formular wird zusammen mit der Pflegediagnose ausgefüllt (siehe Pflegediagnose mit Wundbeschreibung).
+ Wurde für eine Wunde bereits einmal ein Formular ausgefüllt, öffnet sich automatisch ein Fenster zum Übernehmen der letzten Werte.</description>
     </item>
     
     <item>
@@ -80,7 +81,7 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       
       <guid>https://transdok.github.io/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-kürzliche geänderte Inhalte  NEU beschrieben ist die Freigabe der Pflegebeiträge für die transdok-Vereinsverwaltung hier weiterlesen &amp;hellip; Für das NEUE Vorgehen bei Betreuungsbeginn hier weiterlesen &amp;hellip; Für die NEUE monatliche Meldung an connexia hier weiterlesen &amp;hellip;  Links  Bei neuen MitarbeiterInnen hier weiterlesen &amp;hellip; Aktueller Funktionsumfang  Infos  Vorgehen bei Mitarbeiter-Namensänderungen: Die Änderung wird zuerst durch die Identitätsstelle (connexia) durchgeführt. Danach erfolgt beim nächsten Login eine Nachfrage, ob die Änderung korrekt ist, die mit ja beantwortet werden kann.</description>
+kürzliche geänderte Inhalte  Die NEUE Wunddokumentation ist bei manchen Vereinen bereit freigeschaltet. Wer sie testen will, kann dies im Demo-Mandant tun.  Links  Freigabe der Pflegebeiträge für die transdok-Vereinsverwaltung hier weiterlesen &amp;hellip; Vorgehen bei Betreuungsbeginn hier weiterlesen &amp;hellip; monatliche Meldung an connexia hier weiterlesen &amp;hellip; Bei neuen MitarbeiterInnen hier weiterlesen &amp;hellip; Aktueller Funktionsumfang  Infos  Vorgehen bei Mitarbeiter-Namensänderungen: Die Änderung wird zuerst durch die Identitätsstelle (connexia) durchgeführt.</description>
     </item>
     
     <item>
