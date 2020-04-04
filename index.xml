@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
-    <lastBuildDate>Wed, 25 Mar 2020 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 16:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://transdok.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wunddoku</title>
+      <link>https://transdok.github.io/wunddoku/</link>
+      <pubDate>Fri, 03 Apr 2020 16:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/wunddoku/</guid>
+      <description>Wundbeschreibung erstellen Der einfachste Weg für das Beschreiben einer Wunde mit einem Formular (und mit Foto), ist die Erstellung eines Pflegeberichts. Dazu im Programmbereich Pflege beim Menüpunkt Aufträge die betreffende Person wählen und die Schaltfläche Bericht schreiben klicken. Im sich öffnenden Dialogfenster, kann unten die Schaltfläche Formular hinzufügen und dann Wundbeschreibungen gewählt werden.
+Sehen Sie in dieser Videoanleitung wie das Formular ausgefüllt, sowie ein Bild eingelesen und vermessen wird.</description>
+    </item>
+    
+    <item>
+      <title>Cockpit</title>
+      <link>https://transdok.github.io/</link>
+      <pubDate>Fri, 03 Apr 2020 10:00:00 +0200</pubDate>
+      
+      <guid>https://transdok.github.io/</guid>
+      <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
+kürzliche geänderte Inhalte  Die Funktion Meine KlientInnen ist bei manchen Vereinen bereits freigeschaltet. Wer sie testen will, kann dies im Demo-Mandant tun. Die Anleitung zur Wunddokumentation wurde überarbeitet.  Links  Freigabe der Pflegebeiträge für die transdok-Vereinsverwaltung hier weiterlesen &amp;hellip; Vorgehen bei Betreuungsbeginn hier weiterlesen &amp;hellip; monatliche Meldung an connexia hier weiterlesen &amp;hellip; Bei neuen MitarbeiterInnen hier weiterlesen &amp;hellip; Aktueller Funktionsumfang  Infos  Vorgehen bei Mitarbeiter-Namensänderungen: Die Änderung wird zuerst durch die Identitätsstelle (connexia) durchgeführt.</description>
+    </item>
     
     <item>
       <title>Meine KlientInnen</title>
@@ -19,19 +39,8 @@
       
       <guid>https://transdok.github.io/meine_klientinnen/</guid>
       <description>Vorarbeiten KlientInnen und MitarbeiterInnen müssen in gemeinsamen Gruppen organisiert sein. Wechseln Sie dazu in den Programmbereich Verwaltung Menüpunkt Gruppen.
-Es müssen sowohl die KlientInnen, als aich die MitarbeiterInnen den Gruppen zugeordnet werden. Es können auch mehrere Gruppen verwendet werden, die beliebig benannt werden können.
+Es müssen sowohl die KlientInnen, als auch die MitarbeiterInnen den Gruppen zugeordnet werden. Es können auch mehrere Gruppen verwendet werden, die beliebig benannt werden können.
 Meine KlientInnen Im Programmbereich Pflege Menüpunkt Meine Klienten befindet sich eine Übersicht über alle geplanten Hausbesuche der nächsten Tage. Durch Klicken auf den entsprechenden Tag können Sie markieren, welche Aufgaben Sie übernehmen werden.</description>
-    </item>
-    
-    <item>
-      <title>Wunddoku</title>
-      <link>https://transdok.github.io/wunddoku/</link>
-      <pubDate>Thu, 07 Nov 2019 16:00:00 +0200</pubDate>
-      
-      <guid>https://transdok.github.io/wunddoku/</guid>
-      <description>Bericht mit Formular zur Wundbeschreibung  Einen neuen Pflegebericht erstellen. Auf die Schaltfläche Formular hinzufügen und dann Wundbeschreibung klicken.  Pflegediagnosen-Zuordnung
-Wir empfehlen vor dem Erstellen der ersten Beschreibung für eine Wunde das Anlegen einer Pflegediagnose. Diese kann im Formular-Feld Pflegedianose zugeordnet werden. Oder das Formular wird zusammen mit der Pflegediagnose ausgefüllt (siehe Pflegediagnose mit Wundbeschreibung).
- Wurde für eine Wunde bereits einmal ein Formular ausgefüllt, öffnet sich automatisch ein Fenster zum Übernehmen der letzten Werte.</description>
     </item>
     
     <item>
@@ -83,16 +92,6 @@ Hardware-Voraussetzungen  mindestens Intel Core i3 mindestens 4 GB Arbeitsspeich
       <guid>https://transdok.github.io/spec/</guid>
       <description>transdok für die mobile Pflege umfasst aktuell folgende Module und Funktionen:
 Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren Erweiterte Stammdaten für die connexia-Meldung erfassen Daten für die Meldung der erweiterten Stammdaten und der Leistungserfassung aus der Pflege auf ihre Konsistenz prüfen und connexia in geeigneter Form zur Verfügung stellen Zeiträume in denen der Patient abwesend ist, werden erfasst Leistungspunkte 32 bis 34 erfassen GKK-Bestellungen können für Patienten erfasst und für den Versand exportiert werden   Modul Pflege  Anmeldung mit Hardware-Token Zusätzliche pflegerelevante Stammdaten erfassen (Gegebenheiten vor Ort, zu beachten, etc.</description>
-    </item>
-    
-    <item>
-      <title>Cockpit</title>
-      <link>https://transdok.github.io/</link>
-      <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
-      
-      <guid>https://transdok.github.io/</guid>
-      <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-kürzliche geänderte Inhalte  Die Funktion Meine KlientInnen ist bei manchen Vereinen bereit freigeschaltet. Wer sie testen will, kann dies im Demo-Mandant tun.  Links  Freigabe der Pflegebeiträge für die transdok-Vereinsverwaltung hier weiterlesen &amp;hellip; Vorgehen bei Betreuungsbeginn hier weiterlesen &amp;hellip; monatliche Meldung an connexia hier weiterlesen &amp;hellip; Bei neuen MitarbeiterInnen hier weiterlesen &amp;hellip; Aktueller Funktionsumfang  Infos  Vorgehen bei Mitarbeiter-Namensänderungen: Die Änderung wird zuerst durch die Identitätsstelle (connexia) durchgeführt.</description>
     </item>
     
     <item>
