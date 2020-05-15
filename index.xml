@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>transdok HKPV Dokumentation</title>
-    <link>http://hilfekpv.transdok.io/</link>
+    <link>http://hilfekpv.transdok.at/</link>
     <description>Recent content on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Sat, 04 Apr 2020 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://hilfekpv.transdok.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hilfekpv.transdok.at/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Leistungsbeschreibung</title>
-      <link>http://hilfekpv.transdok.io/spec/</link>
+      <link>http://hilfekpv.transdok.at/spec/</link>
       <pubDate>Sat, 04 Apr 2020 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/spec/</guid>
+      <guid>http://hilfekpv.transdok.at/spec/</guid>
       <description>transdok für die mobile Pflege umfasst aktuell folgende Module und Funktionen:
 Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren Erweiterte Stammdaten für die connexia-Meldung erfassen Daten für die Meldung der erweiterten Stammdaten und der Leistungserfassung aus der Pflege auf ihre Konsistenz prüfen und connexia in geeigneter Form zur Verfügung stellen Zeiträume in denen der Patient abwesend ist, werden erfasst Leistungspunkte 32 bis 34 erfassen GKK-Bestellungen können für Patienten erfasst und für den Versand exportiert werden   Modul Pflege  Anmeldung mit Hardware-Token Zusätzliche pflegerelevante Stammdaten erfassen (Gegebenheiten vor Ort, zu beachten, etc.</description>
     </item>
     
     <item>
       <title>Wunddoku</title>
-      <link>http://hilfekpv.transdok.io/wunddoku/</link>
+      <link>http://hilfekpv.transdok.at/wunddoku/</link>
       <pubDate>Fri, 03 Apr 2020 16:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/wunddoku/</guid>
+      <guid>http://hilfekpv.transdok.at/wunddoku/</guid>
       <description>Wundbeschreibung erstellen Der einfachste Weg für das Beschreiben einer Wunde mit einem Formular (und mit Foto), ist die Erstellung eines Pflegeberichts. Dazu im Programmbereich Pflege beim Menüpunkt Aufträge die betreffende Person wählen und die Schaltfläche Bericht schreiben klicken. Im sich öffnenden Dialogfenster, kann unten die Schaltfläche Formular hinzufügen und dann Wundbeschreibungen gewählt werden.
 Sehen Sie in dieser Videoanleitung wie das Formular ausgefüllt, sowie ein Bild eingelesen und vermessen wird.</description>
     </item>
     
     <item>
       <title>Cockpit</title>
-      <link>http://hilfekpv.transdok.io/</link>
+      <link>http://hilfekpv.transdok.at/</link>
       <pubDate>Fri, 03 Apr 2020 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/</guid>
+      <guid>http://hilfekpv.transdok.at/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
 kürzliche geänderte Inhalte  Die Funktion Meine KlientInnen ist bei manchen Vereinen bereits freigeschaltet. Wer sie testen will, kann dies im Demo-Mandant tun. Die Anleitung zur Wunddokumentation wurde überarbeitet.  Links  Freigabe der Pflegebeiträge für die transdok-Vereinsverwaltung hier weiterlesen &amp;hellip; Vorgehen bei Betreuungsbeginn hier weiterlesen &amp;hellip; monatliche Meldung an connexia hier weiterlesen &amp;hellip; Bei neuen MitarbeiterInnen hier weiterlesen &amp;hellip; Aktueller Funktionsumfang  Infos  Vorgehen bei Mitarbeiter-Namensänderungen: Die Änderung wird zuerst durch die Identitätsstelle (connexia) durchgeführt.</description>
     </item>
     
     <item>
       <title>Meine KlientInnen</title>
-      <link>http://hilfekpv.transdok.io/meine_klientinnen/</link>
+      <link>http://hilfekpv.transdok.at/meine_klientinnen/</link>
       <pubDate>Wed, 25 Mar 2020 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/meine_klientinnen/</guid>
+      <guid>http://hilfekpv.transdok.at/meine_klientinnen/</guid>
       <description>Vorarbeiten KlientInnen und MitarbeiterInnen müssen in gemeinsamen Gruppen organisiert sein. Wechseln Sie dazu in den Programmbereich Verwaltung Menüpunkt Gruppen.
 Es müssen sowohl die KlientInnen, als auch die MitarbeiterInnen den Gruppen zugeordnet werden. Es können auch mehrere Gruppen verwendet werden, die beliebig benannt werden können.
 Meine KlientInnen Im Programmbereich Pflege Menüpunkt Meine Klienten befindet sich eine Übersicht über alle geplanten Hausbesuche der nächsten Tage. Durch Klicken auf den entsprechenden Tag können Sie markieren, welche Aufgaben Sie übernehmen werden.</description>
@@ -55,10 +55,10 @@ Meine KlientInnen Im Programmbereich Pflege Menüpunkt Meine Klienten befindet s
     
     <item>
       <title>connexia</title>
-      <link>http://hilfekpv.transdok.io/connexia/</link>
+      <link>http://hilfekpv.transdok.at/connexia/</link>
       <pubDate>Fri, 01 Feb 2019 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/connexia/</guid>
+      <guid>http://hilfekpv.transdok.at/connexia/</guid>
       <description>monatliche Meldung Die monatliche Datenmeldung an connexia erfolgt ab 01.01.2019 direkt in transdok
  Programmbereich connexia Menüpunkt Datenmeldung wählen Angezeigte Fehler müssen behoben werden
  Auf senden klicken.  Alle Meldungen müssen &amp;lsquo;grün&amp;rsquo; sein. Gibt es einen &amp;lsquo;roten&amp;rsquo; Eintrag, dann wählen Sie diesen aus, klicken auf erneut validieren, beheben ggf. die Fehler und klicken dann auf senden.
@@ -67,49 +67,49 @@ Meine KlientInnen Im Programmbereich Pflege Menüpunkt Meine Klienten befindet s
     
     <item>
       <title>pflegebeitrag</title>
-      <link>http://hilfekpv.transdok.io/pflegebeitrag/</link>
+      <link>http://hilfekpv.transdok.at/pflegebeitrag/</link>
       <pubDate>Tue, 29 Jan 2019 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/pflegebeitrag/</guid>
+      <guid>http://hilfekpv.transdok.at/pflegebeitrag/</guid>
       <description>Freigabe Bevor der Pflegebeitrag für einen bestimmten Monat abgerechnet werden kann, muss der Monat freigegeben werden. Dies wird wie folgt durchgeführt:
  Im Programmbereich Verwaltung den Menüpunkt Pflegebeitrag wählen. In der linken Liste die Zeile des Monats wählen (allfällige kurze Verzögerung aufgrund der Berechnungen abwarten).   Bei Abweichungen von Name oder Adresse zwischen der Person in Pflege und der zugeordneten zahlenden Person aus der transdok-Vereinsverwaltung, wird dies angezeigt. Im Beispiel oben ist bei Löwenzahn Hugo die Löwenzahn Hedwig als Rechnungsempfängerin mit abweichender Anschrift zugeordnet.</description>
     </item>
     
     <item>
       <title>Durchführung</title>
-      <link>http://hilfekpv.transdok.io/durchfuehrung/</link>
+      <link>http://hilfekpv.transdok.at/durchfuehrung/</link>
       <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/durchfuehrung/</guid>
+      <guid>http://hilfekpv.transdok.at/durchfuehrung/</guid>
       <description>Durchführungsnachweis  Programmbereich Pflege Menüpunkt Aufträge. Person in der Klientenliste wählen. Datum des betreffenden Tages klicken. Im Dialogfenster werden die geplanten und noch nicht dokumentierten Aufträge angezeigt. Mit den Schaltflächen bei jeder Maßnahme wird dokumentiert, verschoben oder begründet, warum die Tätigkeit nicht durchgeführt werden konnte. Zusätzlich durchgeführte Maßnahmen werden durch Tippen in das Suchfeld zusätzliche Maßnahme dokumentierten oder durch Verwendung der Schaltflächen Katalog oder Planung der Liste hinzugefügt. Bei jeder dokumentierten Maßnahme besteht die Möglichkeit zur Erfassung einer Notiz.</description>
     </item>
     
     <item>
       <title>Installation</title>
-      <link>http://hilfekpv.transdok.io/installation/</link>
+      <link>http://hilfekpv.transdok.at/installation/</link>
       <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/installation/</guid>
+      <guid>http://hilfekpv.transdok.at/installation/</guid>
       <description> Installation hier starten (Internet Explorer) oder Setup verwenden.
 Hardware-Voraussetzungen  mindestens Intel Core i3 mindestens 4 GB Arbeitsspeicher Bildschirmauflösung mindestens 1440x900 oder 1280x1024, je größer der Bildschirm desto besser Festnetz-Internetanbindung ohne Datenmengeneinschränkungen, je schneller das Internet desto besser empfohlen SSD oder Hybrid-Festplatte empfohlenes Beispiel für Neukauf: Markenkomplettsystem, i5 (aktuelles Modell), 8 GB RAM, 128 GB SSD Festplatte  Software-Voraussetzungen  Betriebssystem Windows 7, Windows 8.1 oder Windows 10 Alle vorhandenen Servicepacks müssen installiert sein  Funktionsumfang  Der Funktionsumfang wird durch laufende Updates erweitert Der aktuelle Stand kann der Leistungsbeschreibung entnommen werden  </description>
     </item>
     
     <item>
       <title>Klienten</title>
-      <link>http://hilfekpv.transdok.io/klienten/</link>
+      <link>http://hilfekpv.transdok.at/klienten/</link>
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/klienten/</guid>
+      <guid>http://hilfekpv.transdok.at/klienten/</guid>
       <description>Betreuungsbeginn Eine Neu- oder Wiederaufnahme eines Klienten erfolgt in folgenden Schritten:
  Im Programmbereich Verwaltung bei Klienten die Schaltfläche anlegen wählen. Während dem Tippen von Nachname und Vorname sucht transdok bestehende Einträge in transdok und - falls verwendet - in der transdok-Vereinsverwaltung. Die Ergebnisse werden unter den Eingabefelder angezeigt. Wird ein passender Eintrag gefunden, kann dieser ausgewählt und mit der danach angezeigten Schaltfläche vorhandenen Eintrag übernehmen übernommen werden. Hier ein Beispiel für die Übernahme einer Klientin, die bereits einmal in transdok erfasst wurde.</description>
     </item>
     
     <item>
       <title>Lizenz</title>
-      <link>http://hilfekpv.transdok.io/lizenz/</link>
+      <link>http://hilfekpv.transdok.at/lizenz/</link>
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/lizenz/</guid>
+      <guid>http://hilfekpv.transdok.at/lizenz/</guid>
       <description>&amp;copy; 2017 motile users software gmbh
 
 Diese Dokumentation ist lizenziert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
@@ -121,20 +121,20 @@ Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zug
     
     <item>
       <title>Mitarbeiter</title>
-      <link>http://hilfekpv.transdok.io/mitarbeiter/</link>
+      <link>http://hilfekpv.transdok.at/mitarbeiter/</link>
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/mitarbeiter/</guid>
+      <guid>http://hilfekpv.transdok.at/mitarbeiter/</guid>
       <description>Login Voraussetzung für den Login einer Pflegeperson ist der Besitz eines persönlichen Tokens und die Freischaltung des Benutzers im Verein.
  Benutzername und Kennwort angeben und Login klicken Es erscheint die Aufforderung zum Einstecken des Tokens Je nach Token-Modell muss dieser nur eingesteckt oder zusätzlich am Token ein Taster gedrückt werden. Der Token kann direkt nach dem Login-Vorgang wieder aus dem USB-Anschluss entfernt werden. Der Benutzer bleibt bis zum Klicken von logout angemeldet.</description>
     </item>
     
     <item>
       <title>Pflegeplanung</title>
-      <link>http://hilfekpv.transdok.io/pflegeplan/</link>
+      <link>http://hilfekpv.transdok.at/pflegeplan/</link>
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/pflegeplan/</guid>
+      <guid>http://hilfekpv.transdok.at/pflegeplan/</guid>
       <description>Klient wählen &amp;gt; Menüpunkt Pflegeplan Die Übersicht besteht aus einer tabellenartigen Zusammenfassung der Pflegepläne im oberen Bereich und der Detail-Anzeige im unteren Bereich Ein Pflegeplan besteht aus einem Titel (Pflegediagnose) und einer oder mehreren Maßnahmen Im unten angezeigten Beispiel besteht der &amp;lsquo;Plan 3&amp;rsquo; aus der Pflegediagnose &amp;lsquo;Körperliche Mobilität, beeinträchtigt&amp;rsquo; und den zugehörigen Maßnahmen &amp;lsquo;Gehen begleiten&amp;rsquo; und &amp;lsquo;Bewegungsübungen durchführen&amp;rsquo;. Änderungen zum &amp;lsquo;Plan 3&amp;rsquo; werden über die dort angezeigte Schaltfläche ändern vorgenommen.</description>
     </item>
     

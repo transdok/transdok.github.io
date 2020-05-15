@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pflegebeitrags on transdok HKPV Dokumentation</title>
-    <link>http://hilfekpv.transdok.io/pflegebeitrag/</link>
+    <link>http://hilfekpv.transdok.at/pflegebeitrag/</link>
     <description>Recent content in Pflegebeitrags on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Tue, 29 Jan 2019 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://hilfekpv.transdok.io/pflegebeitrag/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hilfekpv.transdok.at/pflegebeitrag/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>pflegebeitrag</title>
-      <link>http://hilfekpv.transdok.io/pflegebeitrag/</link>
+      <link>http://hilfekpv.transdok.at/pflegebeitrag/</link>
       <pubDate>Tue, 29 Jan 2019 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/pflegebeitrag/</guid>
+      <guid>http://hilfekpv.transdok.at/pflegebeitrag/</guid>
       <description>Freigabe Bevor der Pflegebeitrag für einen bestimmten Monat abgerechnet werden kann, muss der Monat freigegeben werden. Dies wird wie folgt durchgeführt:
  Im Programmbereich Verwaltung den Menüpunkt Pflegebeitrag wählen. In der linken Liste die Zeile des Monats wählen (allfällige kurze Verzögerung aufgrund der Berechnungen abwarten).   Bei Abweichungen von Name oder Adresse zwischen der Person in Pflege und der zugeordneten zahlenden Person aus der transdok-Vereinsverwaltung, wird dies angezeigt. Im Beispiel oben ist bei Löwenzahn Hugo die Löwenzahn Hedwig als Rechnungsempfängerin mit abweichender Anschrift zugeordnet.</description>
     </item>

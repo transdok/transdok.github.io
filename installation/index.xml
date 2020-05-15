@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Installations on transdok HKPV Dokumentation</title>
-    <link>http://hilfekpv.transdok.io/installation/</link>
+    <link>http://hilfekpv.transdok.at/installation/</link>
     <description>Recent content in Installations on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Mon, 16 Jan 2017 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://hilfekpv.transdok.io/installation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hilfekpv.transdok.at/installation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Installation</title>
-      <link>http://hilfekpv.transdok.io/installation/</link>
+      <link>http://hilfekpv.transdok.at/installation/</link>
       <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/installation/</guid>
+      <guid>http://hilfekpv.transdok.at/installation/</guid>
       <description> Installation hier starten (Internet Explorer) oder Setup verwenden.
 Hardware-Voraussetzungen  mindestens Intel Core i3 mindestens 4 GB Arbeitsspeicher Bildschirmauflösung mindestens 1440x900 oder 1280x1024, je größer der Bildschirm desto besser Festnetz-Internetanbindung ohne Datenmengeneinschränkungen, je schneller das Internet desto besser empfohlen SSD oder Hybrid-Festplatte empfohlenes Beispiel für Neukauf: Markenkomplettsystem, i5 (aktuelles Modell), 8 GB RAM, 128 GB SSD Festplatte  Software-Voraussetzungen  Betriebssystem Windows 7, Windows 8.1 oder Windows 10 Alle vorhandenen Servicepacks müssen installiert sein  Funktionsumfang  Der Funktionsumfang wird durch laufende Updates erweitert Der aktuelle Stand kann der Leistungsbeschreibung entnommen werden  </description>
     </item>

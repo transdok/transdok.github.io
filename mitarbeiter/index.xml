@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mitarbeiters on transdok HKPV Dokumentation</title>
-    <link>http://hilfekpv.transdok.io/mitarbeiter/</link>
+    <link>http://hilfekpv.transdok.at/mitarbeiter/</link>
     <description>Recent content in Mitarbeiters on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Fri, 13 Jan 2017 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://hilfekpv.transdok.io/mitarbeiter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hilfekpv.transdok.at/mitarbeiter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mitarbeiter</title>
-      <link>http://hilfekpv.transdok.io/mitarbeiter/</link>
+      <link>http://hilfekpv.transdok.at/mitarbeiter/</link>
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.io/mitarbeiter/</guid>
+      <guid>http://hilfekpv.transdok.at/mitarbeiter/</guid>
       <description>Login Voraussetzung für den Login einer Pflegeperson ist der Besitz eines persönlichen Tokens und die Freischaltung des Benutzers im Verein.
  Benutzername und Kennwort angeben und Login klicken Es erscheint die Aufforderung zum Einstecken des Tokens Je nach Token-Modell muss dieser nur eingesteckt oder zusätzlich am Token ein Taster gedrückt werden. Der Token kann direkt nach dem Login-Vorgang wieder aus dem USB-Anschluss entfernt werden. Der Benutzer bleibt bis zum Klicken von logout angemeldet.</description>
     </item>
