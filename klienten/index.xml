@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Klientens on transdok HKPV Dokumentation</title>
-    <link>https://hilfekpv.transdok.io/klienten/</link>
+    <link>http://hilfekpv.transdok.io/klienten/</link>
     <description>Recent content in Klientens on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Fri, 13 Jan 2017 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://hilfekpv.transdok.io/klienten/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hilfekpv.transdok.io/klienten/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Klienten</title>
-      <link>https://hilfekpv.transdok.io/klienten/</link>
+      <link>http://hilfekpv.transdok.io/klienten/</link>
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>https://hilfekpv.transdok.io/klienten/</guid>
+      <guid>http://hilfekpv.transdok.io/klienten/</guid>
       <description>Betreuungsbeginn Eine Neu- oder Wiederaufnahme eines Klienten erfolgt in folgenden Schritten:
  Im Programmbereich Verwaltung bei Klienten die Schaltfläche anlegen wählen. Während dem Tippen von Nachname und Vorname sucht transdok bestehende Einträge in transdok und - falls verwendet - in der transdok-Vereinsverwaltung. Die Ergebnisse werden unter den Eingabefelder angezeigt. Wird ein passender Eintrag gefunden, kann dieser ausgewählt und mit der danach angezeigten Schaltfläche vorhandenen Eintrag übernehmen übernommen werden. Hier ein Beispiel für die Übernahme einer Klientin, die bereits einmal in transdok erfasst wurde.</description>
     </item>

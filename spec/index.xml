@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Specs on transdok HKPV Dokumentation</title>
-    <link>https://hilfekpv.transdok.io/spec/</link>
+    <link>http://hilfekpv.transdok.io/spec/</link>
     <description>Recent content in Specs on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Sat, 04 Apr 2020 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://hilfekpv.transdok.io/spec/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hilfekpv.transdok.io/spec/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Leistungsbeschreibung</title>
-      <link>https://hilfekpv.transdok.io/spec/</link>
+      <link>http://hilfekpv.transdok.io/spec/</link>
       <pubDate>Sat, 04 Apr 2020 10:00:00 +0200</pubDate>
       
-      <guid>https://hilfekpv.transdok.io/spec/</guid>
+      <guid>http://hilfekpv.transdok.io/spec/</guid>
       <description>transdok für die mobile Pflege umfasst aktuell folgende Module und Funktionen:
 Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren Erweiterte Stammdaten für die connexia-Meldung erfassen Daten für die Meldung der erweiterten Stammdaten und der Leistungserfassung aus der Pflege auf ihre Konsistenz prüfen und connexia in geeigneter Form zur Verfügung stellen Zeiträume in denen der Patient abwesend ist, werden erfasst Leistungspunkte 32 bis 34 erfassen GKK-Bestellungen können für Patienten erfasst und für den Versand exportiert werden   Modul Pflege  Anmeldung mit Hardware-Token Zusätzliche pflegerelevante Stammdaten erfassen (Gegebenheiten vor Ort, zu beachten, etc.</description>
     </item>

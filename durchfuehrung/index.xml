@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Durchfuehrungs on transdok HKPV Dokumentation</title>
-    <link>https://hilfekpv.transdok.io/durchfuehrung/</link>
+    <link>http://hilfekpv.transdok.io/durchfuehrung/</link>
     <description>Recent content in Durchfuehrungs on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Mon, 16 Jan 2017 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://hilfekpv.transdok.io/durchfuehrung/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hilfekpv.transdok.io/durchfuehrung/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Durchführung</title>
-      <link>https://hilfekpv.transdok.io/durchfuehrung/</link>
+      <link>http://hilfekpv.transdok.io/durchfuehrung/</link>
       <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>https://hilfekpv.transdok.io/durchfuehrung/</guid>
+      <guid>http://hilfekpv.transdok.io/durchfuehrung/</guid>
       <description>Durchführungsnachweis  Programmbereich Pflege Menüpunkt Aufträge. Person in der Klientenliste wählen. Datum des betreffenden Tages klicken. Im Dialogfenster werden die geplanten und noch nicht dokumentierten Aufträge angezeigt. Mit den Schaltflächen bei jeder Maßnahme wird dokumentiert, verschoben oder begründet, warum die Tätigkeit nicht durchgeführt werden konnte. Zusätzlich durchgeführte Maßnahmen werden durch Tippen in das Suchfeld zusätzliche Maßnahme dokumentierten oder durch Verwendung der Schaltflächen Katalog oder Planung der Liste hinzugefügt. Bei jeder dokumentierten Maßnahme besteht die Möglichkeit zur Erfassung einer Notiz.</description>
     </item>
     
