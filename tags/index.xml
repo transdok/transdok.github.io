@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on transdok HKPV Dokumentation</title>
-    <link>http://hilfekpv.transdok.at/tags/</link>
+    <link>https://hilfekpv.transdok.at/tags/</link>
     <description>Recent content in Tags on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     
-	<atom:link href="http://hilfekpv.transdok.at/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hilfekpv.transdok.at/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

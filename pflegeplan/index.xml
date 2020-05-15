@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pflegeplans on transdok HKPV Dokumentation</title>
-    <link>http://hilfekpv.transdok.at/pflegeplan/</link>
+    <link>https://hilfekpv.transdok.at/pflegeplan/</link>
     <description>Recent content in Pflegeplans on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Fri, 13 Jan 2017 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://hilfekpv.transdok.at/pflegeplan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hilfekpv.transdok.at/pflegeplan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pflegeplanung</title>
-      <link>http://hilfekpv.transdok.at/pflegeplan/</link>
+      <link>https://hilfekpv.transdok.at/pflegeplan/</link>
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>http://hilfekpv.transdok.at/pflegeplan/</guid>
+      <guid>https://hilfekpv.transdok.at/pflegeplan/</guid>
       <description>Klient wählen &amp;gt; Menüpunkt Pflegeplan Die Übersicht besteht aus einer tabellenartigen Zusammenfassung der Pflegepläne im oberen Bereich und der Detail-Anzeige im unteren Bereich Ein Pflegeplan besteht aus einem Titel (Pflegediagnose) und einer oder mehreren Maßnahmen Im unten angezeigten Beispiel besteht der &amp;lsquo;Plan 3&amp;rsquo; aus der Pflegediagnose &amp;lsquo;Körperliche Mobilität, beeinträchtigt&amp;rsquo; und den zugehörigen Maßnahmen &amp;lsquo;Gehen begleiten&amp;rsquo; und &amp;lsquo;Bewegungsübungen durchführen&amp;rsquo;. Änderungen zum &amp;lsquo;Plan 3&amp;rsquo; werden über die dort angezeigte Schaltfläche ändern vorgenommen.</description>
     </item>
     
