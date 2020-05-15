@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lizenzs on transdok HKPV Dokumentation</title>
-    <link>https://transdok.github.io/lizenz/</link>
+    <link>https://hilfekpv.transdok.io/lizenz/</link>
     <description>Recent content in Lizenzs on transdok HKPV Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
     <lastBuildDate>Fri, 13 Jan 2017 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://transdok.github.io/lizenz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hilfekpv.transdok.io/lizenz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lizenz</title>
-      <link>https://transdok.github.io/lizenz/</link>
+      <link>https://hilfekpv.transdok.io/lizenz/</link>
       <pubDate>Fri, 13 Jan 2017 10:00:00 +0200</pubDate>
       
-      <guid>https://transdok.github.io/lizenz/</guid>
+      <guid>https://hilfekpv.transdok.io/lizenz/</guid>
       <description>&amp;copy; 2017 motile users software gmbh
 
 Diese Dokumentation ist lizenziert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
