@@ -18,9 +18,10 @@
       <pubDate>Wed, 25 Mar 2020 10:00:00 +0200</pubDate>
       
       <guid>https://hilfekpv.transdok.at/meine_klientinnen/</guid>
-      <description>Vorarbeiten KlientInnen und MitarbeiterInnen müssen in gemeinsamen Gruppen organisiert sein. Wechseln Sie dazu in den Programmbereich Verwaltung Menüpunkt Gruppen.
-Es müssen sowohl die KlientInnen, als auch die MitarbeiterInnen den Gruppen zugeordnet werden. Es können auch mehrere Gruppen verwendet werden, die beliebig benannt werden können.
-Meine KlientInnen Im Programmbereich Pflege Menüpunkt Meine Klienten befindet sich eine Übersicht über alle geplanten Hausbesuche der nächsten Tage. Durch Klicken auf den entsprechenden Tag können Sie markieren, welche Aufgaben Sie übernehmen werden.</description>
+      <description>Meine KlientInnen Im Programmbereich Pflege Menüpunkt Meine Klienten befindet sich eine Übersicht über alle geplanten Hausbesuche der nächsten Tage. Durch Klicken auf den entsprechenden Tag können Sie markieren, welche Aufgaben Sie übernehmen werden.
+Das System zeigt dabei KlientInnen, die Sie in letzter Zeit betreut haben, zuerst an.
+In der Auswahlleiste können Sie nun in der Ansicht Meine KlientInnen diese Klienten schnell finden.
+Andere einteilen Wenn erforderlich, können KlientInnen auch anderen MitarbeiterInnen zugeteilen werden.</description>
     </item>
     
   </channel>
