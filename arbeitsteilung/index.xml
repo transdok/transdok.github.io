@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arbeitsteilungs on transdok HKPV Dokumentation</title>
+    <link>https://hilfekpv.transdok.at/arbeitsteilung/</link>
+    <description>Recent content in Arbeitsteilungs on transdok HKPV Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
+    <lastBuildDate>Wed, 03 Mar 2021 10:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://hilfekpv.transdok.at/arbeitsteilung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arbeitsteilung</title>
+      <link>https://hilfekpv.transdok.at/arbeitsteilung/</link>
+      <pubDate>Wed, 03 Mar 2021 10:00:00 +0200</pubDate>
+      
+      <guid>https://hilfekpv.transdok.at/arbeitsteilung/</guid>
+      <description>Zuordnung KlientInnen mit Hausbesuch Als Grundlage für die Zuordnung dienen geplante Hausbesuche. Es wird angezeigt, bei welchen KlientInnen ein Hausbesuch geplant (oranger Rahmen) ist und ob eine Abwesenheit (gestrichelt) eingetragen ist.
+Mitarbeiterin zuordnen Es kann eine Mitarbeiterin gewählt werden und einer KlientIn an einem bestimmten Tag zugeteilt werden.
+Tour einer Mitarbeiterin planen Es gibt auch die Möglichkeit, die Tour einer Mitarbeiterin zu planen.</description>
+    </item>
+    
+  </channel>
+</rss>
