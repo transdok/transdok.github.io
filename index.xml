@@ -39,8 +39,7 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       <pubDate>Fri, 03 Apr 2020 16:00:00 +0200</pubDate>
       
       <guid>https://hilfekpv.transdok.at/wunddoku/</guid>
-      <description>Wundbeschreibung erstellen Der einfachste Weg für das Beschreiben einer Wunde mit einem Formular (und mit Foto), ist die Erstellung eines Pflegeberichts. Dazu im Programmbereich Pflege beim Menüpunkt Aufträge die betreffende Person wählen und die Schaltfläche Bericht schreiben klicken. Im sich öffnenden Dialogfenster, kann unten die Schaltfläche Formular hinzufügen und dann Wundbeschreibungen gewählt werden.
-Sehen Sie in dieser Videoanleitung wie das Formular ausgefüllt, sowie ein Bild eingelesen und vermessen wird.</description>
+      <description>Wundbeschreibung erstellen Im Programmbereich Pflege gibt es den Menüpunkt Wunden. Hier werden alle aktuellen Wunden zu einer Person angezeigt. Mit der Schaltfläche neue Wunde erfassen kann das Wundformular für eine neue Wunde ausgefüllt werden. Ein Wundformular ist zugleich ein Pflegebericht. Wurde eine Wunde bereits einmal erfasst, wird die Schaltfläche neue Bewertung verwendet, um Veränderungen an der Wunde zu dokumentieren. Die Schaltfäche Wunde abschließen wird verwendet, wenn die Wunde abgeheilt oder aus anderem Grund nicht mehr aktuell ist.</description>
     </item>
     
     <item>
@@ -50,7 +49,7 @@ Sehen Sie in dieser Videoanleitung wie das Formular ausgefüllt, sowie ein Bild 
       
       <guid>https://hilfekpv.transdok.at/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-kürzliche geänderte Inhalte  Es gibt neue Anleitungen zum Markieren von Berichten und für das Einlesen von Dokumenten. Die Funktion Meine KlientInnen ist bei manchen Vereinen bereits freigeschaltet. Wer sie testen will, kann dies im Demo-Mandant tun. Die Anleitung zur Wunddokumentation wurde überarbeitet.  Links  Freigabe der Pflegebeiträge für die transdok-Vereinsverwaltung hier weiterlesen &amp;hellip; Vorgehen bei Betreuungsbeginn hier weiterlesen &amp;hellip; monatliche Meldung an connexia hier weiterlesen &amp;hellip; Bei neuen MitarbeiterInnen hier weiterlesen &amp;hellip; Aktueller Funktionsumfang  Infos  Vorgehen bei Mitarbeiter-Namensänderungen: Die Änderung wird zuerst durch die Identitätsstelle (connexia) durchgeführt.</description>
+schon gesehen?  Neben der Möglichkeit Berichte zu markieren gibt es jetzt auch Labels für Berichte. Für die Wunddokumentation gibt es im Programmbereich Pflege den neuen Menüpunkt Wunden. Hier werden die aktuellen Wunden zu einer Person angezeigt. Weiters bietet diese Ansicht eine direkte Erfassung von neuen Wunden oder neuen Bewertungen zu einer Wunde, ohne den Umweg über einen Pflegebericht. Die Anleitung Wunddokumentation wurde entsprechend überarbeitet.</description>
     </item>
     
     <item>
