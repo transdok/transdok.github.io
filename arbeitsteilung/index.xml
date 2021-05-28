@@ -19,8 +19,10 @@
       
       <guid>https://hilfekpv.transdok.at/arbeitsteilung/</guid>
       <description>Zuordnung KlientInnen mit Hausbesuch Als Grundlage für die Zuordnung dienen geplante Hausbesuche. Es wird angezeigt, bei welchen KlientInnen ein Hausbesuch geplant (oranger Rahmen) ist und ob eine Abwesenheit (gestrichelt) eingetragen ist.
+
 Mitarbeiterin zuordnen Es kann eine Mitarbeiterin gewählt werden und einer KlientIn an einem bestimmten Tag zugeteilt werden.
-Tour einer Mitarbeiterin planen Es gibt auch die Möglichkeit, die Tour einer Mitarbeiterin zu planen.</description>
+
+Reihenfolge und Bemerkung Die Reihenfolge der Tour kann durch ein Ziehen mit der Maus (Drag &amp;amp; Drop) geändert werden. Jede Zuteilung kann mit einer kurzen Bemerkung versehen werden.</description>
     </item>
     
   </channel>
