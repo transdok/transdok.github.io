@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hilfekpv.transdok.at/transdok_mobil/</loc>
+    <lastmod>2022-04-19T10:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hilfekpv.transdok.at/arbeitsteilung/</loc>
     <lastmod>2021-03-03T10:00:00+02:00</lastmod>
   </url>
@@ -144,6 +149,12 @@
   </url>
   
   <url>
+    <loc>https://hilfekpv.transdok.at/transdok_mobil/</loc>
+    <lastmod>2022-04-19T10:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hilfekpv.transdok.at/wunddoku/</loc>
     <lastmod>2020-04-03T16:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -151,7 +162,7 @@
   
   <url>
     <loc>https://hilfekpv.transdok.at/</loc>
-    <lastmod>2021-03-03T10:00:00+02:00</lastmod>
+    <lastmod>2022-04-19T10:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

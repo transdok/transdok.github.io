@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transdok_mobils on transdok HKPV Dokumentation</title>
+    <link>https://hilfekpv.transdok.at/transdok_mobil/</link>
+    <description>Recent content in Transdok_mobils on transdok HKPV Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
+    <lastBuildDate>Tue, 19 Apr 2022 10:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://hilfekpv.transdok.at/transdok_mobil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>transdok mobil</title>
+      <link>https://hilfekpv.transdok.at/transdok_mobil/</link>
+      <pubDate>Tue, 19 Apr 2022 10:00:00 +0200</pubDate>
+      
+      <guid>https://hilfekpv.transdok.at/transdok_mobil/</guid>
+      <description> Die App für unterwegs Ein Einblick in die wesentlichen Funktionen der App fürs Handy.
+ Einfach testen Wer einen Zugang zu transdok am Computer hat, kann auch die App sehr einfach testen.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

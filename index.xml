@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
-    <lastBuildDate>Wed, 03 Mar 2021 10:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Apr 2022 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://hilfekpv.transdok.at/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>transdok mobil</title>
+      <link>https://hilfekpv.transdok.at/transdok_mobil/</link>
+      <pubDate>Tue, 19 Apr 2022 10:00:00 +0200</pubDate>
+      
+      <guid>https://hilfekpv.transdok.at/transdok_mobil/</guid>
+      <description> Die App für unterwegs Ein Einblick in die wesentlichen Funktionen der App fürs Handy.
+ Einfach testen Wer einen Zugang zu transdok am Computer hat, kann auch die App sehr einfach testen.
+ </description>
+    </item>
     
     <item>
       <title>Arbeitsteilung</title>
@@ -51,7 +62,8 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       
       <guid>https://hilfekpv.transdok.at/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-schon gesehen?  Beim Bericht schreiben gibt es eine Schaltfläche Formular hinzufügen. Hier stehen jetzt neue Formulare zur Verfügung, die je nach Bedarf verwendet werden können: Palliatives Assessment, Biografie, Psychocheck, Braden Dekubitusrisikoeinschätzung, &amp;hellip; Unserer Handy-App kann jetzt Bilder hochladen, womit diese vom Handy direkt in der Dokumentation des Klienten landen. Weiters kann die App jetzt auch auf IPhones verwendet werden! Bitte beim Support melden, wenn Sie die App testen möchten.</description>
+transdok mobil, unsere App fürs Handy wird hier in einem Video präsentiert und kann sehr einfach ausprobiert werden.
+schon gesehen?  Beim Bericht schreiben gibt es eine Schaltfläche Formular hinzufügen. Hier stehen jetzt neue Formulare zur Verfügung, die je nach Bedarf verwendet werden können: Palliatives Assessment, Biografie, Psychocheck, Braden Dekubitusrisikoeinschätzung, &amp;hellip; Unserer Handy-App kann jetzt Bilder hochladen, womit diese vom Handy direkt in der Dokumentation des Klienten landen.</description>
     </item>
     
     <item>
