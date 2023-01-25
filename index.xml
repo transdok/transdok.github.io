@@ -63,7 +63,7 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       
       <guid>https://hilfekpv.transdok.at/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-NEU Beim Dokumentieren der Tätigkeiten gibt es eine kleine Veränderung und Erweiterung. Im Fenster für die Dokumentation steht das Eingabefeld zusätzliche Maßnahme dokumentieren und die dazugehörigen Schaltflächen Katalog und Planung unten statt oben. Stattdessen befindet sich oben ein Zeitstrahl für die Auswhal des Zeitpunktes der Durchführung der Tätigkeiten. Diese Auswahl ist optional, was bedeutet, dass wie bisher auch ohne Wahl des Zeitpunktes dokumentiert werden kann.</description>
+NEU  transdok kann jetzt ÖGK-Bestellungen direkt versenden. Wenn eine neue Bestellung erfasst wurde, befindet sich rechts eine Schaltfläche: Wird diese Schaltfläche geklickt, sendet transdok die Bestellung direkt an die ÖGK. Diese Bestellung ist dann nicht mehr bei &amp;ldquo;Bereitstellen&amp;rdquo; zu finden, weil dieser Schritt und auch das Senden über das GNV-Programm, nicht mehr notwendig sind. Damit kann das Senden von jedem Computer aus erfolgen - unabhängig vom GNV-Programm.</description>
     </item>
     
     <item>
