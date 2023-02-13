@@ -63,7 +63,7 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       
       <guid>https://hilfekpv.transdok.at/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-NEU  transdok kann jetzt ÖGK-Bestellungen direkt versenden. Wenn eine neue Bestellung erfasst wurde, befindet sich rechts eine Schaltfläche: Wird diese Schaltfläche geklickt, sendet transdok die Bestellung direkt an die ÖGK. Diese Bestellung ist dann nicht mehr bei &amp;ldquo;Bereitstellen&amp;rdquo; zu finden, weil dieser Schritt und auch das Senden über das GNV-Programm, nicht mehr notwendig sind. Damit kann das Senden von jedem Computer aus erfolgen - unabhängig vom GNV-Programm.</description>
+BEACHTE  Im Wundformular war die Einheit der Wundtiefe bisher Millimeter. Die Einheit bei Wundlänge, -breite und Fläche ist Zentimeter. Daher bekommt jetzt auch die Wundtiefe neu die Einheit Zentimeter.  letzte Neuerungen  transdok kann jetzt ÖGK-Bestellungen direkt versenden. Wenn eine neue Bestellung erfasst wurde, befindet sich rechts eine Schaltfläche: Wird diese Schaltfläche geklickt, sendet transdok die Bestellung direkt an die ÖGK.</description>
     </item>
     
     <item>
