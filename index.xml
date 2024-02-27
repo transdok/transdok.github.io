@@ -62,8 +62,7 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       
       <guid>https://hilfekpv.transdok.at/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-ab 2024 transdok MOBIL für ALLE  Es gibt keine Lizenzbeschränkung mehr für transdok mobil. Jede*r kann die App fürs Handy jetzt nutzen. Ein Blick in die Hilfe und loslegen &amp;hellip;  letzte Neuerungen  Bei Bestellung eines Rollstuhls als ÖGK-Artikel gibt es jetzt eine Eingabemaske zur Erfassung von Zusatzinformationen (Rollstuhlanpassungsbogen)
- Es gibt eine Beschreibung Berichte mit Formular mit Hinweisen zum Formular Palliatives Assessment.</description>
+ab 2024 transdok MOBIL für ALLE  Es gibt keine Lizenzbeschränkung mehr für transdok mobil. Jede*r kann die App fürs Handy jetzt nutzen. Ein Blick in die Hilfe und loslegen &amp;hellip;  letzte Neuerungen  Für die Datenmeldung gibt es eine neue Schaltfläche Alle Änderungen senden. Sie prüft alle Monate des gewählten Jahres. Falls Änderungen vorgenommen wurden, wird der Monat automatisch gesendet.</description>
     </item>
     
     <item>
@@ -84,10 +83,10 @@ Andere einteilen Wenn erforderlich, können KlientInnen auch anderen Mitarbeiter
       <pubDate>Fri, 01 Feb 2019 10:00:00 +0200</pubDate>
       
       <guid>https://hilfekpv.transdok.at/connexia/</guid>
-      <description>monatliche Meldung Die monatliche Datenmeldung an connexia erfolgt ab 01.01.2019 direkt in transdok
- Programmbereich connexia Menüpunkt Datenmeldung wählen Angezeigte Fehler müssen behoben werden
- Auf senden klicken.  Alle Meldungen müssen &amp;lsquo;grün&amp;rsquo; sein. Gibt es einen &amp;lsquo;roten&amp;rsquo; Eintrag, dann wählen Sie diesen aus, klicken auf erneut validieren, beheben ggf. die Fehler und klicken dann auf senden.
-  Anstellungsverhältnis Neu zu erfassen sind das Anstellungsverhältnis in der Pflege. Dies kann im Programmbereich Verwaltung Menüpunkt Mitarbeiter und Stammdaten eingetragen werden.</description>
+      <description>monatliche Meldung Die monatliche Datenmeldung an connexia erfolgt in folgenden Schritten:
+ Programmbereich Daten Menüpunkt Datenmeldung wählen Den zu meldenden Monat in der Liste anklicken Ggf. angezeigte Fehler müssen behoben werden
+ Auf Senden klicken.  Alle Meldungen müssen &amp;lsquo;grün&amp;rsquo; sein. Gibt es einen &amp;lsquo;roten&amp;rsquo; Eintrag, dann wählen Sie diesen aus, klicken auf erneut validieren, beheben ggf. die Fehler und klicken dann auf senden.
+  Änderungen melden Wenn Änderungen vorgenommen wurden (Name, Stammdaten, Versicherung, Mitarbeiter Anstellungsverhältnis, &amp;hellip;) sind meistens alle bereits gesendeten Monate, in der diese Person Leistungen hatte, betroffen.</description>
     </item>
     
     <item>
