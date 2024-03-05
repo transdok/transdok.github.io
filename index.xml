@@ -62,7 +62,8 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       
       <guid>https://hilfekpv.transdok.at/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-ab 2024 transdok MOBIL für ALLE  Es gibt keine Lizenzbeschränkung mehr für transdok mobil. Jede*r kann die App fürs Handy jetzt nutzen. Ein Blick in die Hilfe und loslegen &amp;hellip;  letzte Neuerungen  Für die Datenmeldung gibt es eine neue Schaltfläche Alle Änderungen senden. Sie prüft alle Monate des gewählten Jahres. Falls Änderungen vorgenommen wurden, wird der Monat automatisch gesendet.</description>
+aktueller Hinweis Beim Login mit Token am Handy kommt seit einem google-Update folgende Meldung:
+Mit Tippen auf die Schrift Anderes Gerät verwenden (NICHT auf Ok), sollte man weiter zur Auswahl NFC-Sicherheitsschlüssel kommen. Falls man stattdessen zum Lesen eines QR-Codes aufgefordert wird, kann der Login mit Token aktuell leider nicht verwendet werden. Dann die Möglichkeit Login mit Code verwenden, die im Video Einfach testen vorgeführt wird.</description>
     </item>
     
     <item>
