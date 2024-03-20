@@ -87,7 +87,7 @@ Andere einteilen Wenn erforderlich, können KlientInnen auch anderen Mitarbeiter
       <description>monatliche Meldung Die monatliche Datenmeldung an connexia erfolgt in folgenden Schritten:
  Programmbereich Daten Menüpunkt Datenmeldung wählen Den zu meldenden Monat in der Liste anklicken Ggf. angezeigte Fehler müssen behoben werden
  Auf Senden klicken.  Alle Meldungen müssen &amp;lsquo;grün&amp;rsquo; sein. Gibt es einen &amp;lsquo;roten&amp;rsquo; Eintrag, dann wählen Sie diesen aus, klicken auf erneut validieren, beheben ggf. die Fehler und klicken dann auf senden.
-  Änderungen melden Wenn Änderungen vorgenommen wurden (Name, Stammdaten, Versicherung, Mitarbeiter Anstellungsverhältnis, &amp;hellip;) sind meistens alle bereits gesendeten Monate, in der diese Person Leistungen hatte, betroffen.</description>
+  Änderungen melden Änderungen können sowohl bei aktuellen Klienten als auch bei Klienten im Archiv vorgenommen werden (dafür müssen sie nicht aus dem Archiv geholt werden).</description>
     </item>
     
     <item>
