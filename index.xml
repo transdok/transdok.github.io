@@ -62,8 +62,8 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       
       <guid>https://hilfekpv.transdok.at/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-aktueller Hinweis Beim Login mit Token am Handy kommt seit einem google-Update folgende Meldung:
-Mit Tippen auf die Schrift Anderes Gerät verwenden (NICHT auf Ok), sollte man weiter zur Auswahl NFC-Sicherheitsschlüssel kommen. Falls man stattdessen zum Lesen eines QR-Codes aufgefordert wird, kann der Login mit Token aktuell leider nicht verwendet werden. Dann die Möglichkeit Login mit Code verwenden, die im Video Einfach testen vorgeführt wird.</description>
+NEU: Nachrichten von der ÖGK erhalten (Testbetrieb) Im Programmbereich ÖGK gibt es einen neuen Menüpunkt Nachrichten lesen. Hier können Informationen gefunden werden, die von der ÖGK an den Verein gesendet werden.
+Im Unterschied zu den benutzerbezogenen Notizen, auf die man mit dem gelben Punkt beim Menüpunkt aufmerksam gemacht wird, sind diese Nachrichten vereinsbezogen. Das heißt, zum Nachlesen muss der Menüpunkt aktiv aufgerufen werden.</description>
     </item>
     
     <item>
