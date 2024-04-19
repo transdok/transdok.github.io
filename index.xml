@@ -62,8 +62,8 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       
       <guid>https://hilfekpv.transdok.at/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
-NEU: Nachrichten von der ÖGK erhalten (Testbetrieb) Im Programmbereich ÖGK gibt es einen neuen Menüpunkt Nachrichten lesen. Hier können Informationen gefunden werden, die von der ÖGK an den Verein gesendet werden.
-Im Unterschied zu den benutzerbezogenen Notizen, auf die man mit dem gelben Punkt beim Menüpunkt aufmerksam gemacht wird, sind diese Nachrichten vereinsbezogen. Das heißt, zum Nachlesen muss der Menüpunkt aktiv aufgerufen werden.</description>
+NEU: Nachrichten von der ÖGK erhalten (Testbetrieb) Im Programmbereich ÖGK gibt es einen neuen Menüpunkt Nachrichten lesen. Hier können Informationen gefunden werden, die von der ÖGK an den Verein gesendet werden. Zusätzlich stehen die zuletzt gesendeten Bestellungen in der Liste.
+Im Unterschied zu den benutzerbezogenen Notizen, sind diese Nachrichten vereinsbezogen. Das heißt, zum Nachlesen muss der Menüpunkt aktiv aufgerufen werden. Die erste Person, welche neue Nachrichten mit Klicken von Anzeigen öffnet, bewirkt die Einordnung unter den bereits gelesenen Nachrichten.</description>
     </item>
     
     <item>
