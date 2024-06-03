@@ -37,16 +37,6 @@ Reihenfolge und Bemerkung Die Reihenfolge der Tour kann durch ein Ziehen mit der
     </item>
     
     <item>
-      <title>Leistungsbeschreibung</title>
-      <link>https://hilfekpv.transdok.at/spec/</link>
-      <pubDate>Sat, 04 Apr 2020 10:00:00 +0200</pubDate>
-      
-      <guid>https://hilfekpv.transdok.at/spec/</guid>
-      <description>transdok für die mobile Pflege umfasst aktuell folgende Module und Funktionen:
-Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren Erweiterte Stammdaten für die connexia-Meldung erfassen Daten für die Meldung der erweiterten Stammdaten und der Leistungserfassung aus der Pflege auf ihre Konsistenz prüfen und connexia in geeigneter Form zur Verfügung stellen Zeiträume in denen der Patient abwesend ist, werden erfasst Leistungspunkte 32 bis 34 erfassen GKK-Bestellungen können für Patienten erfasst und für den Versand exportiert werden   Modul Pflege  Anmeldung mit Hardware-Token Zusätzliche pflegerelevante Stammdaten erfassen (Gegebenheiten vor Ort, zu beachten, etc.</description>
-    </item>
-    
-    <item>
       <title>Wunddoku</title>
       <link>https://hilfekpv.transdok.at/wunddoku/</link>
       <pubDate>Fri, 03 Apr 2020 16:00:00 +0200</pubDate>
@@ -62,9 +52,10 @@ Modul Pflegeverwaltung  Patienten mit Stammdaten erfassen Patienten archivieren 
       
       <guid>https://hilfekpv.transdok.at/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten
+Hinweis: Der Menüpunkt Daten (früher connexia) enthält jetzt auch Informationen zur Datenauswertung
 schon bemerkt? Im APP gibt es neben der Schaltfläche Bericht schreiben jetzt auch ein Abzeichnen zur Erfassung von Durchführungsnachweisen und Leistungspunkten.
 Diktieren: Wer lieber spricht als tippt, kann bei eingeblendeter Tastatur (wenn der Cursor in einem Textfeld ist) auf das Mikrofon-Symbol tippen und den Text einsprechen.
-Testbetrieb: Nachrichten von der ÖGK erhalten Im Programmbereich ÖGK gibt es einen neuen Menüpunkt Nachrichten lesen. Hier können Informationen gefunden werden, die von der ÖGK an den Verein gesendet werden.</description>
+Nachrichten von der ÖGK erhalten Im Programmbereich ÖGK gibt es einen neuen Menüpunkt Nachrichten lesen.</description>
     </item>
     
     <item>
@@ -80,15 +71,13 @@ Andere einteilen Wenn erforderlich, können KlientInnen auch anderen Mitarbeiter
     </item>
     
     <item>
-      <title>connexia</title>
-      <link>https://hilfekpv.transdok.at/connexia/</link>
+      <title>Daten</title>
+      <link>https://hilfekpv.transdok.at/daten/</link>
       <pubDate>Fri, 01 Feb 2019 10:00:00 +0200</pubDate>
       
-      <guid>https://hilfekpv.transdok.at/connexia/</guid>
-      <description>monatliche Meldung Die monatliche Datenmeldung an connexia erfolgt in folgenden Schritten:
- Programmbereich Daten Menüpunkt Datenmeldung wählen Den zu meldenden Monat in der Liste anklicken Ggf. angezeigte Fehler müssen behoben werden
- Auf Senden klicken.  Alle Meldungen müssen &amp;lsquo;grün&amp;rsquo; sein. Gibt es einen &amp;lsquo;roten&amp;rsquo; Eintrag, dann wählen Sie diesen aus, klicken auf erneut validieren, beheben ggf. die Fehler und klicken dann auf senden.
-  Änderungen melden Änderungen können sowohl bei aktuellen Klienten als auch bei Klienten im Archiv vorgenommen werden (dafür müssen sie nicht aus dem Archiv geholt werden).</description>
+      <guid>https://hilfekpv.transdok.at/daten/</guid>
+      <description>Auswertung Zum Auswerten von Daten gibt es im Programmbereich Daten mehrfach den Menüpunkt Auswertung. Hier kann (links oben) jeweils der Zeitraum gewählt werden. Ebenso können diverse Filter und Darstellungsformen (durch setzen der Häkchen links) gewählt werden.
+ Bei Leistungspunkte &amp;gt; Auswertung kann z.B. durch das Häkchen Nur Klienten mit vorw. palliat. Vorg. eine Auswertung vorgenommen werden, wie viele Personen im gewählten Zeitraum palliativ betreut wurden. Oder durch das Häkchen Gemeinde anzeigen und danach nur Gemeinde, erhält man die Leistungspunkte pro Wohnort der Klient*innen Bei Dauer &amp;gt; Auswertung erhält man die Summe der Zeiten, die beim jeweiligen Einsatz dokumentiert wurden.</description>
     </item>
     
     <item>
@@ -116,8 +105,7 @@ Andere einteilen Wenn erforderlich, können KlientInnen auch anderen Mitarbeiter
       <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
       
       <guid>https://hilfekpv.transdok.at/installation/</guid>
-      <description> Installation hier starten (Internet Explorer) oder Setup verwenden.
-Hardware-Voraussetzungen  mindestens Intel Core i3 mindestens 4 GB Arbeitsspeicher Bildschirmauflösung mindestens 1440x900 oder 1280x1024, je größer der Bildschirm desto besser Festnetz-Internetanbindung ohne Datenmengeneinschränkungen, je schneller das Internet desto besser empfohlen SSD oder Hybrid-Festplatte empfohlenes Beispiel für Neukauf: Markenkomplettsystem, i5 (aktuelles Modell), 8 GB RAM, 128 GB SSD Festplatte  Software-Voraussetzungen  Betriebssystem Windows 7, Windows 8.1 oder Windows 10 Alle vorhandenen Servicepacks müssen installiert sein  Funktionsumfang  Der Funktionsumfang wird durch laufende Updates erweitert Der aktuelle Stand kann der Leistungsbeschreibung entnommen werden  </description>
+      <description>Für die Installation öffnen Sie die Seite www.transdok.at und klicken Sie dort Jetzt installieren.</description>
     </item>
     
     <item>

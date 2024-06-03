@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datens on transdok HKPV Dokumentation</title>
+    <link>https://hilfekpv.transdok.at/daten/</link>
+    <description>Recent content in Datens on transdok HKPV Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Veröffentlicht unter der MIT Lizenz</copyright>
+    <lastBuildDate>Fri, 01 Feb 2019 10:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://hilfekpv.transdok.at/daten/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Daten</title>
+      <link>https://hilfekpv.transdok.at/daten/</link>
+      <pubDate>Fri, 01 Feb 2019 10:00:00 +0200</pubDate>
+      
+      <guid>https://hilfekpv.transdok.at/daten/</guid>
+      <description>Auswertung Zum Auswerten von Daten gibt es im Programmbereich Daten mehrfach den Menüpunkt Auswertung. Hier kann (links oben) jeweils der Zeitraum gewählt werden. Ebenso können diverse Filter und Darstellungsformen (durch setzen der Häkchen links) gewählt werden.
+ Bei Leistungspunkte &amp;gt; Auswertung kann z.B. durch das Häkchen Nur Klienten mit vorw. palliat. Vorg. eine Auswertung vorgenommen werden, wie viele Personen im gewählten Zeitraum palliativ betreut wurden. Oder durch das Häkchen Gemeinde anzeigen und danach nur Gemeinde, erhält man die Leistungspunkte pro Wohnort der Klient*innen Bei Dauer &amp;gt; Auswertung erhält man die Summe der Zeiten, die beim jeweiligen Einsatz dokumentiert wurden.</description>
+    </item>
+    
+  </channel>
+</rss>
