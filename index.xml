@@ -138,7 +138,7 @@ Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zug
       
       <guid>https://hilfekpv.transdok.at/mitarbeiter/</guid>
       <description>Login Voraussetzung für den Login einer Pflegeperson ist der Besitz eines persönlichen Tokens und die Freischaltung des Benutzers im Verein.
- Benutzername und Kennwort angeben Wenn der Benutzername bei mehreren &amp;ldquo;Mandanten&amp;rdquo; (= Vereine, Organisationen) vorkommt bzw. jemand für mehrere Mandanten freigeschaltet ist, kann nach der Eingabe des Benutzernamens beim Auswahlfeld Mandant gewählt werden, wo man sich einloggen will. Nach dem Klicken von Login, erscheint die Aufforderung zur Auswahl des Tokens Je nach Token-Modell muss dieser nur eingesteckt oder zusätzlich am Token ein Taster gedrückt werden.</description>
+ Benutzername und Kennwort angeben Wenn der Benutzername bei mehreren &amp;ldquo;Mandanten&amp;rdquo; (= Vereine, Organisationen) vorkommt bzw. jemand für mehrere Mandanten freigeschaltet ist, kann nach der Eingabe des Benutzernamens beim Auswahlfeld Mandant gewählt werden, bei welchem man sich einloggen möchte. Nach dem Klicken von Login, erscheint die Aufforderung zur Auswahl des Tokens Je nach Token-Modell muss dieser nur eingesteckt oder zusätzlich am Token ein Taster gedrückt werden.</description>
     </item>
     
     <item>
