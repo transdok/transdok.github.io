@@ -52,8 +52,8 @@ Reihenfolge und Bemerkung Die Reihenfolge der Tour kann durch ein Ziehen mit der
       
       <guid>https://hilfekpv.transdok.at/</guid>
       <description>Support &amp;nbsp;&amp;nbsp;&amp;nbsp; 05574 22547 &amp;nbsp;&amp;nbsp;&amp;nbsp; Fernwartung starten &amp;nbsp;&amp;nbsp;&amp;nbsp; support@transdok.at
-keine Personenanzahl mehr notwendig Bei Beratung persönlich (31) und Beratung telefonisch (33) ist keine Erfassung der Anzahl Personen mehr notwendig, weil diese Information nicht ausgewertet wird. Bei der Eingabemaske wird daher nur noch die Dauer erfasst. Das Feld für Personen ist entfernt worden.
-ÖGK Sonderbestellungen Auf Wunsch der ÖGK dürfen bei ÖGK-Bestellungen nur noch Artikel aus dem Katalog bestellt werden. Für Sonderbestellungen kann das Feld Bemerkung verwendet werden, um die Bestellung zu beschreiben und zu begründen.</description>
+Neue Installation Für die mobile Pflege in Vorarlberg ist ab jetzt die Internet-Seite lisa.transdok.app Ausgangspunkt für die Installation. Für neue Updates muss jeder Arbeitsplatz und jedes Smartphone von dieser Seite aus einmalig neu installiert werden. Eine Anleitung ist hier bei Installation zu finden.
+ältere Einträge keine Personenanzahl mehr notwendig Bei Beratung persönlich (31) und Beratung telefonisch (33) ist keine Erfassung der Anzahl Personen mehr notwendig, weil diese Information nicht ausgewertet wird.</description>
     </item>
     
     <item>
@@ -103,7 +103,10 @@ Andere einteilen Wenn erforderlich, können KlientInnen auch anderen Mitarbeiter
       <pubDate>Mon, 16 Jan 2017 10:00:00 +0200</pubDate>
       
       <guid>https://hilfekpv.transdok.at/installation/</guid>
-      <description>Für die Installation öffnen Sie die Seite www.transdok.at und klicken Sie dort Jetzt installieren.</description>
+      <description>Vollversion Die Vollversion setzt ein Windows-Betriebssystem voraus. Der Ausgangspunkt für die Installation in der mobilen Pflege in Vorarlberg ist die Internet-Seite lisa.transdok.app.
+Die Seite bevorzugt mit einem Browser Microsoft Edge öffnen. Auch andere Browser können verwendet werden. Diese haben aber geringfügig andere Schritte oder Anzeigen.
+Anmelden klicken und mit dem Token einloggen. Transdok installieren wählen.
+Öffnen klicken oder bei anderen Browsern das Download-Symbol anklicken, um die heruntergeladene Datei zu öffnen.</description>
     </item>
     
     <item>
